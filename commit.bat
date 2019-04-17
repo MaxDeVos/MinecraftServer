@@ -1,4 +1,4 @@
 git add .
-git commit -m "<your message here>"
+git commit -m %TIME% 
 git push
 pause
