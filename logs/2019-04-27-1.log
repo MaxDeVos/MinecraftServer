@@ -1,0 +1,220 @@
+[07:31:30] [User Authenticator #2/INFO]: UUID of player aja2000 is 98f76cb4-800d-4cb2-8b15-7d0a03914d70
+[07:31:30] [Server thread/INFO]: aja2000[/65.128.30.182:50000] logged in with entity id 7024 at ([world]-338.8971059235507, 64.0, 134.46130620249417)
+[07:39:39] [Server thread/INFO]: aja2000 lost connection: Disconnected
+[07:39:39] [Server thread/INFO]: aja2000 left the game
+[08:19:20] [User Authenticator #3/INFO]: UUID of player aja2000 is 98f76cb4-800d-4cb2-8b15-7d0a03914d70
+[08:19:20] [Server thread/INFO]: aja2000[/65.128.30.182:50621] logged in with entity id 12552 at ([world]-472.0155622986008, 40.0, 187.70361961476584)
+[08:26:19] [Server thread/INFO]: aja2000 lost connection: Disconnected
+[08:26:19] [Server thread/INFO]: aja2000 left the game
+[11:29:47] [User Authenticator #4/INFO]: UUID of player aja2000 is 98f76cb4-800d-4cb2-8b15-7d0a03914d70
+[11:29:48] [Server thread/INFO]: aja2000[/65.128.30.182:51005] logged in with entity id 16668 at ([world]-230.66621767285852, 64.0, 169.01442876982205)
+[11:40:01] [Server thread/INFO]: aja2000 lost connection: Disconnected
+[11:40:01] [Server thread/INFO]: aja2000 left the game
+[11:52:59] [User Authenticator #5/INFO]: UUID of player aja2000 is 98f76cb4-800d-4cb2-8b15-7d0a03914d70
+[11:52:59] [Server thread/INFO]: aja2000[/65.128.30.182:51061] logged in with entity id 22271 at ([world]-332.470974888452, 63.0, 69.30000001192093)
+[11:55:36] [Server thread/INFO]: aja2000 lost connection: Disconnected
+[11:55:36] [Server thread/INFO]: aja2000 left the game
+[12:47:20] [User Authenticator #6/INFO]: UUID of player aja2000 is 98f76cb4-800d-4cb2-8b15-7d0a03914d70
+[12:47:20] [Server thread/INFO]: aja2000[/65.128.30.182:51357] logged in with entity id 26555 at ([world]-438.533847250661, 67.0, 183.00350893096135)
+[12:56:54] [User Authenticator #7/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[12:56:54] [Server thread/INFO]: maxcr1[/127.0.0.1:64310] logged in with entity id 31267 at ([world]-327.7105321299142, 57.125, 137.8937702001194)
+[12:59:54] [Server thread/INFO]: aja2000 lost connection: Disconnected
+[12:59:54] [Server thread/INFO]: aja2000 left the game
+[13:05:39] [User Authenticator #8/INFO]: UUID of player aja2000 is 98f76cb4-800d-4cb2-8b15-7d0a03914d70
+[13:05:40] [Server thread/INFO]: aja2000[/65.128.30.182:51398] logged in with entity id 34286 at ([world]-331.8235147885128, 63.875, 25.630773704412267)
+[13:05:53] [Async Chat Thread - #0/INFO]: <aja2000> weine r[m
+[13:05:58] [Async Chat Thread - #0/INFO]: <maxcr1> weee ner[m
+[13:08:24] [Async Chat Thread - #1/INFO]: <maxcr1> hi[m
+[13:08:33] [Async Chat Thread - #1/INFO]: <aja2000> i got lost in your cave[m
+[13:09:17] [Server thread/INFO]: maxcr1 issued server command: /say epic
+[13:09:17] [Server thread/INFO]: [maxcr1] epic
+[13:22:54] [Async Chat Thread - #2/INFO]: <maxcr1> the autorecirculating chicken farm in my basement is done[m
+[13:30:33] [Async Chat Thread - #3/INFO]: <aja2000> chiggin[m
+[13:30:37] [Async Chat Thread - #3/INFO]: <maxcr1> chigga[m
+[13:30:59] [Async Chat Thread - #3/INFO]: <aja2000> how do they die[m
+[13:31:02] [Async Chat Thread - #3/INFO]: <maxcr1> I can put it in collection mode or spawn mode[m
+[13:31:18] [Async Chat Thread - #3/INFO]: <maxcr1> they don't automatically die since Thomas asked me to make it so it can also collect eggs if wanted[m
+[13:31:21] [Async Chat Thread - #3/INFO]: <maxcr1> so it has two modes[m
+[13:31:26] [Async Chat Thread - #3/INFO]: <maxcr1> and that is what the switch does[m
+[13:31:39] [Async Chat Thread - #3/INFO]: <aja2000> but eggs are useless[m
+[13:31:45] [Async Chat Thread - #3/INFO]: <maxcr1> I tried to tell him that[m
+[13:47:38] [Server thread/INFO]: aja2000 lost connection: Disconnected
+[13:47:38] [Server thread/INFO]: aja2000 left the game
+[14:00:08] [User Authenticator #9/INFO]: UUID of player aja2000 is 98f76cb4-800d-4cb2-8b15-7d0a03914d70
+[14:00:08] [Server thread/INFO]: aja2000[/65.128.30.182:61198] logged in with entity id 58680 at ([world]-329.4980839678872, 63.0, 26.881027999504617)
+[14:00:14] [Server thread/INFO]: maxcr1 fell from a high place
+[14:00:24] [Async Chat Thread - #4/INFO]: <maxcr1> are you kidding me[m
+[14:00:28] [Async Chat Thread - #4/INFO]: <aja2000> no[m
+[14:02:38] [Server thread/INFO]: aja2000 lost connection: Disconnected
+[14:02:38] [Server thread/INFO]: aja2000 left the game
+[14:03:20] [Server thread/INFO]: maxcr1 issued server command: /gamemode c
+[14:03:21] [Server thread/INFO]: maxcr1 issued server command: /gamemode creative
+[14:03:21] [Server thread/INFO]: [maxcr1: Set own game mode to Creative Mode]
+[14:03:50] [Server thread/INFO]: maxcr1 issued server command: /gamemode survival
+[14:03:50] [Server thread/INFO]: [maxcr1: Set own game mode to Survival Mode]
+[14:04:34] [Server thread/INFO]: maxcr1 burned to death
+[14:05:00] [Server thread/INFO]: maxcr1 issued server command: /gamemode creative
+[14:05:00] [Server thread/INFO]: [maxcr1: Set own game mode to Creative Mode]
+[14:05:55] [Server thread/INFO]: maxcr1 issued server command: /gamemode survival
+[14:05:55] [Server thread/INFO]: [maxcr1: Set own game mode to Survival Mode]
+[14:06:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2399ms or 47 ticks behind
+[14:06:39] [Server thread/INFO]: maxcr1 issued server command: /difficulty normal
+[14:06:39] [Server thread/INFO]: [maxcr1: The difficulty has been set to Normal]
+[14:11:16] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[14:11:16] [Server thread/INFO]: maxcr1 left the game
+[14:33:40] [User Authenticator #10/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[14:33:40] [Server thread/INFO]: Toasty_boii[/65.110.255.177:52623] logged in with entity id 62808 at ([world]-265.0846331095481, 68.162141421027, 94.34898550584164)
+[14:36:10] [Server thread/INFO]: Toasty_boii has made the advancement [Voluntary Exile]
+[14:42:50] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[14:42:50] [Server thread/INFO]: Toasty_boii left the game
+[14:43:12] [User Authenticator #11/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[14:43:12] [Server thread/INFO]: Toasty_boii[/65.110.255.177:64360] logged in with entity id 68915 at ([world]-166.38280006338707, 61.17139511975353, 148.86113250771223)
+[14:46:43] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[14:46:43] [Server thread/INFO]: Toasty_boii left the game
+[14:46:48] [User Authenticator #12/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[14:46:48] [Server thread/INFO]: Toasty_boii[/65.110.255.177:52667] logged in with entity id 70353 at ([world_nether]54.699999988079064, 29.0, 13.959087530882215)
+[14:46:53] [Server thread/INFO]: Toasty_boii tried to swim in lava
+[14:51:52] [Server thread/INFO]: Toasty_boii has made the advancement [Local Brewery]
+[15:07:39] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[15:07:39] [Server thread/INFO]: Toasty_boii left the game
+[15:15:49] [User Authenticator #13/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[15:15:49] [Server thread/INFO]: maxcr1[/127.0.0.1:54167] logged in with entity id 77998 at ([world]-330.3418021638532, 64.0, 126.05463877706654)
+[15:21:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[15:27:10] [User Authenticator #14/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[15:27:10] [Server thread/INFO]: Toasty_boii[/65.110.255.177:52777] logged in with entity id 89441 at ([world]-211.69999998807907, 56.0000002, 122.30000001192093)
+[15:35:54] [Async Chat Thread - #5/INFO]: <maxcr1> I found a shipwreck[m
+[15:36:01] [Async Chat Thread - #5/INFO]: <Toasty_boii> hot[m
+[15:36:34] [Server thread/WARN]: Toasty_boii moved too quickly! 0.6629453550545747,1.2491870787446828,-18.482842827808213
+[15:36:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3294ms or 65 ticks behind
+[15:42:12] [Server thread/INFO]: maxcr1 issued server command: /give maxcr1 minecraft:ender_pearl 3
+[15:42:12] [Server thread/INFO]: [maxcr1: Gave 3 [Ender Pearl] to maxcr1]
+[15:42:23] [Server thread/INFO]: maxcr1 issued server command: /give maxcr1 minecraft:ender_eye 3
+[15:42:23] [Server thread/INFO]: [maxcr1: Gave 3 [Eye of Ender] to maxcr1]
+[15:43:23] [Async Chat Thread - #6/INFO]: <Toasty_boii> max i belive your roof burnt down[m
+[15:43:38] [Async Chat Thread - #6/INFO]: <maxcr1> yeah Its the third time so I am attempting to ignore it[m
+[15:43:40] [Async Chat Thread - #6/INFO]: <maxcr1> what roof[m
+[15:46:15] [Server thread/INFO]: maxcr1 issued server command: /give maxcr1 minecraft:ender_eye
+[15:46:15] [Server thread/INFO]: [maxcr1: Gave 1 [Eye of Ender] to maxcr1]
+[15:46:49] [Server thread/INFO]: maxcr1 issued server command: /give maxcr1 minecraft:ender_eye
+[15:46:49] [Server thread/INFO]: [maxcr1: Gave 1 [Eye of Ender] to maxcr1]
+[15:47:42] [Server thread/INFO]: maxcr1 has made the advancement [Eye Spy]
+[15:47:49] [Async Chat Thread - #7/INFO]: <maxcr1> FINALLY[m
+[15:47:56] [Async Chat Thread - #7/INFO]: <Toasty_boii> lmao[m
+[15:48:06] [Async Chat Thread - #7/INFO]: <Toasty_boii> i just made an eye of ender[m
+[15:48:07] [Async Chat Thread - #7/INFO]: <maxcr1> I've been looking for this FUCKING dungeon forever[m
+[15:48:27] [Async Chat Thread - #7/INFO]: <Toasty_boii> coords?[m
+[15:48:58] [Async Chat Thread - #7/INFO]: <maxcr1> far[m
+[15:49:04] [Async Chat Thread - #7/INFO]: <maxcr1> 581, 1709[m
+[15:49:10] [Async Chat Thread - #7/INFO]: <Toasty_boii> thats not far at all[m
+[15:49:25] [Async Chat Thread - #7/INFO]: <Toasty_boii> remember, ive gone out 10k multiplule times just for fun[m
+[15:49:49] [Async Chat Thread - #7/INFO]: <maxcr1> I have yet to find the actual portal[m
+[15:50:22] [Async Chat Thread - #7/INFO]: <Toasty_boii> ima try to fid another on[m
+[15:51:36] [Server thread/WARN]: Toasty_boii moved too quickly! -3.3685325931905936,-1.2032643993312888,-9.942859019285862
+[15:51:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2202ms or 44 ticks behind
+[15:51:42] [Server thread/INFO]: maxcr1 issued server command: /give maxcr1 minecraft:ender_eye
+[15:51:42] [Server thread/INFO]: [maxcr1: Gave 1 [Eye of Ender] to maxcr1]
+[15:56:20] [User Authenticator #15/INFO]: UUID of player tlins is cca4ccb0-1441-40e3-b874-7d0c023f7f91
+[15:56:21] [Server thread/INFO]: tlins[/65.110.255.144:2832] logged in with entity id 115761 at ([world]-336.99418823054293, 64.0, 135.94883734179018)
+[15:56:24] [Async Chat Thread - #8/INFO]: <tlins> whats up gamers[m
+[15:56:28] [Async Chat Thread - #8/INFO]: <maxcr1> thomas I found the end portal[m
+[15:56:33] [Async Chat Thread - #8/INFO]: <tlins> is it close[m
+[15:56:34] [Async Chat Thread - #8/INFO]: <maxcr1> 595 1662[m
+[15:56:39] [Async Chat Thread - #8/INFO]: <maxcr1> so kinda[m
+[15:56:43] [Async Chat Thread - #8/INFO]: <tlins> wow thats not too bad[m
+[15:56:50] [Async Chat Thread - #8/INFO]: <Toasty_boii> discord?[m
+[15:56:53] [Async Chat Thread - #8/INFO]: <maxcr1> in a bit[m
+[15:56:56] [Async Chat Thread - #8/INFO]: <tlins> in a bit[m
+[15:57:14] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[15:57:14] [Server thread/INFO]: Toasty_boii left the game
+[15:57:17] [Async Chat Thread - #8/INFO]: <tlins> ok[m
+[15:57:19] [Async Chat Thread - #8/INFO]: <maxcr1> same[m
+[15:57:24] [User Authenticator #16/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[15:57:24] [Server thread/INFO]: Toasty_boii[/65.110.255.177:52872] logged in with entity id 117400 at ([world]-198.5203776331245, 62.0, 111.69999998807907)
+[15:57:27] [Async Chat Thread - #8/INFO]: <maxcr1> me too[m
+[15:58:27] [Async Chat Thread - #8/INFO]: <maxcr1> now we need 11 ender eyes[m
+[15:58:34] [Async Chat Thread - #8/INFO]: <maxcr1> so 11 endermen[m
+[15:58:35] [Async Chat Thread - #8/INFO]: <Toasty_boii> i have 2[m
+[15:58:37] [Async Chat Thread - #8/INFO]: <tlins> and enough equipment to not fucking die[m
+[15:58:39] [Async Chat Thread - #8/INFO]: <maxcr1> i used all of mine[m
+[15:58:45] [Async Chat Thread - #8/INFO]: <tlins> i have 4[m
+[15:59:00] [Async Chat Thread - #8/INFO]: <tlins> we should definitely wait until we can actually do it this time[m
+[16:01:05] [Async Chat Thread - #9/INFO]: <maxcr1> enterance: 595, 1624[m
+[16:01:13] [Async Chat Thread - #9/INFO]: <maxcr1> really close to a shipwreck[m
+[16:01:25] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[16:01:25] [Server thread/INFO]: maxcr1 left the game
+[16:03:21] [Server thread/INFO]: tlins lost connection: Disconnected
+[16:03:21] [Server thread/INFO]: tlins left the game
+[16:16:00] [User Authenticator #17/INFO]: UUID of player tlins is cca4ccb0-1441-40e3-b874-7d0c023f7f91
+[16:16:00] [Server thread/INFO]: tlins[/129.186.252.215:1977] logged in with entity id 123513 at ([world]-334.68636577659436, 64.0, 127.38781661685326)
+[16:16:09] [Async Chat Thread - #10/INFO]: <tlins> josh im on discord[m
+[16:16:20] [Server thread/INFO]: tlins issued server command: /help
+[16:16:31] [Server thread/INFO]: tlins issued server command: /bukkit
+[16:16:40] [Server thread/INFO]: tlins issued server command: /help 2
+[16:16:47] [Server thread/INFO]: tlins issued server command: /version
+[16:22:05] [Server thread/INFO]: Toasty_boii drowned
+[16:22:10] [Async Chat Thread - #11/INFO]: <Toasty_boii> ope[m
+[16:22:11] [Async Chat Thread - #11/INFO]: <tlins> rip[m
+[16:25:03] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[16:25:03] [Server thread/INFO]: Toasty_boii left the game
+[16:25:06] [Async Chat Thread - #12/INFO]: <tlins> ok[m
+[16:28:24] [User Authenticator #18/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[16:28:24] [Server thread/INFO]: Toasty_boii[/65.110.255.177:52384] logged in with entity id 128367 at ([world]-203.88980212610204, 58.0, 125.4065618291943)
+[16:44:38] [Server thread/INFO]: Toasty_boii drowned whilst trying to escape Zombie Villager
+[16:52:21] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[16:52:21] [Server thread/INFO]: Toasty_boii left the game
+[16:52:26] [User Authenticator #19/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[16:52:26] [Server thread/INFO]: Toasty_boii[/65.110.255.177:53218] logged in with entity id 143905 at ([world]-188.20001950944118, 55.839115572183964, 88.2638448290935)
+[16:52:30] [Server thread/INFO]: Toasty_boii drowned
+[17:01:39] [Server thread/WARN]: tlins moved too quickly! 5.42723599184653,0.7752370094690093,10.193907947741536
+[17:01:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2374ms or 47 ticks behind
+[17:04:54] [Async Chat Thread - #13/INFO]: <tlins> 0, 200[m
+[17:06:55] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[17:06:55] [Server thread/INFO]: Toasty_boii left the game
+[17:19:52] [Server thread/INFO]: tlins lost connection: Disconnected
+[17:19:52] [Server thread/INFO]: tlins left the game
+[17:43:08] [User Authenticator #20/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[17:43:10] [Server thread/INFO]: maxcr1[/127.0.0.1:54985] logged in with entity id 163025 at ([world]595.5784730386354, 72.0, 1624.4495046664404)
+[17:44:21] [User Authenticator #21/INFO]: UUID of player tlins is cca4ccb0-1441-40e3-b874-7d0c023f7f91
+[17:44:21] [Server thread/INFO]: tlins[/65.110.254.169:2158] logged in with entity id 163152 at ([world]0.8937457715153769, 63.0, 199.71134727791735)
+[17:44:31] [Async Chat Thread - #14/INFO]: <maxcr1> have you seen "the front fell off"[m
+[17:44:37] [Async Chat Thread - #14/INFO]: <tlins> yes its very funny[m
+[17:44:53] [Async Chat Thread - #14/INFO]: <maxcr1> "its not in an enviroment"[m
+[17:44:59] [Async Chat Thread - #14/INFO]: <tlins> did you turn up the tick rate again[m
+[17:45:01] [Async Chat Thread - #14/INFO]: <maxcr1> no[m
+[17:45:06] [Async Chat Thread - #14/INFO]: <tlins> im getting block lag[m
+[17:45:10] [Async Chat Thread - #14/INFO]: <maxcr1> erk sdfjk[m
+[17:45:11] [Async Chat Thread - #14/INFO]: <tlins> maybe its my connection[m
+[17:45:24] [Server thread/INFO]: [Server] server isn't reporting anything
+[17:45:27] [Async Chat Thread - #14/INFO]: <tlins> ok[m
+[17:50:48] [Async Chat Thread - #15/INFO]: <tlins> hey i just saw a video on an iron golem farm[m
+[17:50:56] [Async Chat Thread - #15/INFO]: <tlins> infinite iron sounds epic[m
+[17:50:56] [Async Chat Thread - #15/INFO]: <maxcr1> that would be epic[m
+[17:51:09] [Async Chat Thread - #15/INFO]: <tlins> we need villagers though[m
+[17:51:19] [Async Chat Thread - #15/INFO]: <tlins> ive trapped a villager on an island around 0 200[m
+[17:51:30] [Async Chat Thread - #15/INFO]: <tlins> and made him a libraian[m
+[17:51:34] [Async Chat Thread - #15/INFO]: <maxcr1> I actually just got to it to investigate[m
+[17:51:41] [Async Chat Thread - #15/INFO]: <maxcr1> I saw him and was very confused[m
+[17:51:45] [Async Chat Thread - #15/INFO]: <tlins> im gonna grab another and make him a tool smith[m
+[17:51:49] [Async Chat Thread - #15/INFO]: <maxcr1> lol[m
+[17:52:02] [Async Chat Thread - #15/INFO]: <tlins> then we have atleast 2 so we can breed them at a later date[m
+[17:52:31] [Async Chat Thread - #15/INFO]: <maxcr1> and record it and sell it[m
+[17:52:50] [Async Chat Thread - #15/INFO]: <tlins> yes and especially if one of them is famous[m
+[17:56:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2813ms or 56 ticks behind
+[18:01:45] [Server thread/WARN]: maxcr1 moved too quickly! -9.227469530439862,-0.5800000131130219,-4.349435437161901
+[18:01:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2918ms or 58 ticks behind
+[18:03:43] [Async Chat Thread - #16/INFO]: <tlins> ok the village im harvesting villagers from is -383 69 534[m
+[18:06:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2214ms or 44 ticks behind
+[18:08:34] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[18:08:34] [Server thread/INFO]: maxcr1 left the game
+[18:15:46] [Server thread/INFO]: tlins has made the advancement [What a Deal!]
+[18:16:02] [Server thread/INFO]: tlins lost connection: Disconnected
+[18:16:02] [Server thread/INFO]: tlins left the game
+[18:54:56] [User Authenticator #22/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[18:54:57] [Server thread/INFO]: maxcr1[/127.0.0.1:55384] logged in with entity id 194797 at ([world]657.6966445573185, 66.0, 1207.7523086570502)
+[18:55:44] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[18:55:44] [Server thread/INFO]: maxcr1 left the game
+[20:10:46] [User Authenticator #23/INFO]: UUID of player blazingalchemist is e326b185-d5de-4b69-a8a4-2fac29e5f71d
+[20:10:46] [Server thread/INFO]: blazingalchemist[/70.97.238.185:65183] logged in with entity id 195045 at ([world]-263.30000001192093, 35.0, 92.6660625623676)
+[20:23:20] [Server thread/INFO]: blazingalchemist lost connection: Disconnected
+[20:23:20] [Server thread/INFO]: blazingalchemist left the game
+[22:45:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@3432438[id=<null>,name=tlins,properties={},legacy=false] (/65.110.254.169:3994) lost connection: Disconnected

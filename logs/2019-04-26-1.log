@@ -1,0 +1,36 @@
+[07:26:13] [User Authenticator #50/INFO]: UUID of player blazingalchemist is e326b185-d5de-4b69-a8a4-2fac29e5f71d
+[07:26:13] [Server thread/INFO]: blazingalchemist[/70.97.238.185:53197] logged in with entity id 2367102 at (-255.9631232214062, 64.0, 165.43809830931903)
+[07:26:13] [Server thread/INFO]: blazingalchemist joined the game
+[07:27:13] [Server thread/INFO]: blazingalchemist has made the advancement [Take Aim]
+[07:27:53] [Server thread/WARN]: Fetching addPacket for removed entity
+[07:33:49] [Server thread/INFO]: blazingalchemist has made the advancement [We Need to Go Deeper]
+[07:33:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7465ms or 149 ticks behind
+[07:47:23] [Server thread/INFO]: blazingalchemist lost connection: Disconnected
+[07:47:23] [Server thread/INFO]: blazingalchemist left the game
+[15:36:09] [User Authenticator #51/INFO]: UUID of player blazingalchemist is e326b185-d5de-4b69-a8a4-2fac29e5f71d
+[15:36:10] [Server thread/INFO]: blazingalchemist[/70.97.238.185:62195] logged in with entity id 2407808 at (-258.65360549987173, 64.0, 163.44175041356308)
+[15:36:10] [Server thread/INFO]: blazingalchemist joined the game
+[15:57:07] [Server thread/WARN]: blazingalchemist moved too quickly! 5.143940679370189,-1.0,8.617242091059154
+[15:57:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3538ms or 70 ticks behind
+[16:11:57] [Server thread/INFO]: blazingalchemist blew up
+[16:26:48] [Server thread/WARN]: Fetching addPacket for removed entity
+[16:29:29] [Server thread/INFO]: blazingalchemist was shot by Skeleton
+[16:32:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3487ms or 69 ticks behind
+[16:33:12] [Server thread/INFO]: blazingalchemist lost connection: Disconnected
+[16:33:12] [Server thread/INFO]: blazingalchemist left the game
+[16:34:25] [Server thread/INFO]: Stopping the server
+[16:34:25] [Server thread/INFO]: Stopping server
+[16:34:25] [Server thread/INFO]: Saving players
+[16:34:25] [Server thread/INFO]: Saving worlds
+[16:34:25] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[16:34:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:34:25] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[16:34:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:34:25] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[16:34:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:34:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:34:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:34:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:34:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:34:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:34:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved

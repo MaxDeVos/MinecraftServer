@@ -1,0 +1,140 @@
+[19:39:49] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:39:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:39:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:39:49] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:39:49] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:39:49] [Server thread/INFO]: Starting minecraft server version 1.14 Pre-Release 3
+[19:39:49] [Server thread/INFO]: Loading properties
+[19:39:49] [Server thread/INFO]: Default game type: SURVIVAL
+[19:39:49] [Server thread/INFO]: Generating keypair
+[19:39:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:39:50] [Server thread/INFO]: Using default channel type
+[19:39:50] [Server thread/INFO]: Preparing level "world"
+[19:39:50] [Server thread/INFO]: Found new data pack vanilla, loading it automatically
+[19:39:50] [Server thread/INFO]: Reloading ResourceManager: Default
+[19:39:51] [Server thread/INFO]: Loaded 6 recipes
+[19:39:53] [Server thread/INFO]: Loaded 811 advancements
+[19:39:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:39:57] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[19:39:58] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[19:39:58] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[19:39:58] [Server-Worker-1/INFO]: Preparing spawn area: 3%
+[19:39:59] [Server-Worker-3/INFO]: Preparing spawn area: 7%
+[19:39:59] [Server-Worker-6/INFO]: Preparing spawn area: 12%
+[19:40:00] [Server-Worker-3/INFO]: Preparing spawn area: 18%
+[19:40:00] [Server-Worker-1/INFO]: Preparing spawn area: 23%
+[19:40:01] [Server-Worker-3/INFO]: Preparing spawn area: 30%
+[19:40:01] [Server-Worker-1/INFO]: Preparing spawn area: 36%
+[19:40:02] [Server-Worker-6/INFO]: Preparing spawn area: 46%
+[19:40:02] [Server-Worker-1/INFO]: Preparing spawn area: 55%
+[19:40:03] [Server-Worker-5/INFO]: Preparing spawn area: 59%
+[19:40:03] [Server-Worker-5/INFO]: Preparing spawn area: 69%
+[19:40:04] [Server-Worker-4/INFO]: Preparing spawn area: 73%
+[19:40:04] [Server-Worker-3/INFO]: Preparing spawn area: 84%
+[19:40:05] [Server-Worker-1/INFO]: Preparing spawn area: 92%
+[19:40:05] [Server thread/INFO]: Time elapsed: 8419 ms
+[19:40:05] [Server thread/INFO]: Done (15.352s)! For help, type "help"
+[19:41:16] [User Authenticator #1/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[19:41:16] [Server thread/INFO]: maxcr1[/127.0.0.1:51795] logged in with entity id 360 at (-237.5, 69.0, 132.5)
+[19:41:16] [Server thread/INFO]: maxcr1 joined the game
+[19:42:59] [Server thread/INFO]: [maxcr1: The difficulty has been set to Normal]
+[19:46:12] [Server thread/INFO]: maxcr1 has made the advancement [Suit Up]
+[19:47:25] [User Authenticator #2/INFO]: UUID of player LoeJins7777777 is a2866b7e-2c5e-495f-b42e-517b6a066d8e
+[19:47:25] [Server thread/INFO]: LoeJins7777777[/129.186.252.215:2691] logged in with entity id 6377 at (-237.5, 69.0, 133.5)
+[19:47:25] [Server thread/INFO]: LoeJins7777777 joined the game
+[19:48:04] [Server thread/INFO]: * LoeJins7777777 test
+[19:49:25] [Server thread/INFO]: maxcr1 has made the advancement [Stone Age]
+[19:49:42] [Server thread/INFO]: maxcr1 has made the advancement [Getting an Upgrade]
+[19:54:43] [Server thread/INFO]: LoeJins7777777 was shot by Skeleton
+[19:55:30] [Server thread/INFO]: LoeJins7777777 was shot by Skeleton
+[19:55:33] [User Authenticator #3/INFO]: UUID of player aja2000 is 98f76cb4-800d-4cb2-8b15-7d0a03914d70
+[19:55:33] [Server thread/INFO]: aja2000[/65.128.70.233:55255] logged in with entity id 12766 at (-230.5, 66.0, 138.5)
+[19:55:33] [Server thread/INFO]: aja2000 joined the game
+[19:55:54] [Server thread/INFO]: maxcr1 has made the advancement [Acquire Hardware]
+[19:56:06] [Server thread/INFO]: maxcr1 was slain by Iron Golem
+[19:56:26] [Server thread/INFO]: aja2000 was shot by Skeleton
+[19:56:49] [Server thread/INFO]: maxcr1 has made the advancement [Monster Hunter]
+[19:58:10] [User Authenticator #4/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[19:58:10] [Server thread/INFO]: Toasty_boii[/65.110.255.163:58357] logged in with entity id 14693 at (-237.5, 68.0, 126.5)
+[19:58:10] [Server thread/INFO]: Toasty_boii joined the game
+[19:59:13] [Server thread/INFO]: maxcr1 hit the ground too hard
+[19:59:16] [Server thread/INFO]: Toasty_boii has made the advancement [Sweet Dreams]
+[19:59:59] [Server thread/INFO]: Toasty_boii has made the advancement [Stone Age]
+[20:00:21] [Server thread/INFO]: LoeJins7777777 has made the advancement [Monster Hunter]
+[20:00:24] [Server thread/INFO]: Toasty_boii has made the advancement [Getting an Upgrade]
+[20:00:34] [Server thread/INFO]: LoeJins7777777 has made the advancement [Stone Age]
+[20:01:53] [Server thread/INFO]: maxcr1 has made the advancement [Isn't It Iron Pick]
+[20:01:58] [Server thread/INFO]: Toasty_boii has made the advancement [Acquire Hardware]
+[20:02:02] [Server thread/INFO]: LoeJins7777777 burned to death
+[20:04:19] [Server thread/INFO]: LoeJins7777777 has made the advancement [Acquire Hardware]
+[20:04:24] [Server thread/INFO]: LoeJins7777777 has made the advancement [Isn't It Iron Pick]
+[20:09:59] [Server thread/INFO]: maxcr1 fell from a high place
+[20:10:19] [Server thread/INFO]: aja2000 has made the advancement [Stone Age]
+[20:11:46] [Server thread/INFO]: aja2000 has made the advancement [Monster Hunter]
+[20:13:12] [Server thread/INFO]: maxcr1 was blown up by Creeper
+[20:13:44] [Server thread/INFO]: Toasty_boii has made the advancement [Monster Hunter]
+[20:15:07] [Server thread/WARN]: maxcr1 moved too quickly! 5.619370236951568,-1.1212968405392019,-8.346678545906727
+[20:15:29] [Server thread/INFO]: aja2000 lost connection: Disconnected
+[20:15:29] [Server thread/INFO]: aja2000 left the game
+[20:16:06] [Server thread/INFO]: Toasty_boii has made the advancement [Isn't It Iron Pick]
+[20:17:00] [Server thread/INFO]: LoeJins7777777 lost connection: Disconnected
+[20:17:00] [Server thread/INFO]: LoeJins7777777 left the game
+[20:18:08] [User Authenticator #5/INFO]: UUID of player LoeJins7777777 is a2866b7e-2c5e-495f-b42e-517b6a066d8e
+[20:18:08] [Server thread/INFO]: LoeJins7777777[/129.186.252.215:2855] logged in with entity id 34595 at (-332.79879744846136, 65.0, 141.10526987128378)
+[20:18:08] [Server thread/INFO]: LoeJins7777777 joined the game
+[20:18:53] [Server thread/INFO]: <LoeJins7777777> coordinates of village are -320 66 120
+[20:20:23] [Server thread/INFO]: Toasty_boii has made the advancement [Suit Up]
+[20:20:50] [Server thread/INFO]: Toasty_boii has made the advancement [A Seedy Place]
+[20:21:13] [Server thread/INFO]: maxcr1 was shot by Skeleton
+[20:21:36] [Server thread/INFO]: Toasty_boii has made the advancement [The Parrots and the Bats]
+[20:23:18] [Server thread/INFO]: maxcr1 was shot by Skeleton
+[20:24:37] [Server thread/INFO]: Toasty_boii has made the advancement [What a Deal!]
+[20:25:34] [Server thread/INFO]: Toasty_boii has made the advancement [Best Friends Forever]
+[20:25:50] [Server thread/INFO]: Toasty_boii has made the advancement [Take Aim]
+[20:27:28] [Server thread/INFO]: LoeJins7777777 lost connection: Disconnected
+[20:27:28] [Server thread/INFO]: LoeJins7777777 left the game
+[20:30:30] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[20:30:30] [Server thread/INFO]: Toasty_boii left the game
+[20:31:11] [Server thread/INFO]: [maxcr1: Created new objective [chungusKilled]]
+[20:31:36] [Server thread/INFO]: [maxcr1: Set display slot sidebar to show objective chungusKilled]
+[20:32:23] [User Authenticator #6/INFO]: UUID of player LoeJins7777777 is a2866b7e-2c5e-495f-b42e-517b6a066d8e
+[20:32:23] [Server thread/INFO]: LoeJins7777777[/129.186.252.215:2955] logged in with entity id 51577 at (-338.5336716757756, 67.0, 121.15536775029634)
+[20:32:23] [Server thread/INFO]: LoeJins7777777 joined the game
+[20:32:38] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[20:32:38] [Server thread/INFO]: maxcr1 left the game
+[20:34:26] [Server thread/INFO]: LoeJins7777777 lost connection: Disconnected
+[20:34:26] [Server thread/INFO]: LoeJins7777777 left the game
+[20:40:11] [User Authenticator #7/INFO]: UUID of player blazingalchemist is e326b185-d5de-4b69-a8a4-2fac29e5f71d
+[20:40:11] [Server thread/INFO]: blazingalchemist[/70.97.238.185:54368] logged in with entity id 52893 at (-240.5, 68.0, 124.5)
+[20:40:11] [Server thread/INFO]: blazingalchemist joined the game
+[20:41:45] [Server thread/INFO]: blazingalchemist lost connection: Disconnected
+[20:41:45] [Server thread/INFO]: blazingalchemist left the game
+[20:41:50] [User Authenticator #8/INFO]: UUID of player blazingalchemist is e326b185-d5de-4b69-a8a4-2fac29e5f71d
+[20:41:51] [Server thread/INFO]: blazingalchemist[/70.97.238.185:54455] logged in with entity id 55734 at (-248.71171165176648, 65.9375, 124.63895486229707)
+[20:41:51] [Server thread/INFO]: blazingalchemist joined the game
+[20:45:06] [Server thread/INFO]: blazingalchemist has made the advancement [A Seedy Place]
+[20:46:16] [Server thread/INFO]: blazingalchemist lost connection: Disconnected
+[20:46:16] [Server thread/INFO]: blazingalchemist left the game
+[20:48:45] [User Authenticator #9/INFO]: UUID of player blazingalchemist is e326b185-d5de-4b69-a8a4-2fac29e5f71d
+[20:48:45] [Server thread/INFO]: blazingalchemist[/70.97.238.185:54758] logged in with entity id 61901 at (-362.37296692640075, 72.0, 127.583607996062)
+[20:48:45] [Server thread/INFO]: blazingalchemist joined the game
+[20:50:37] [Server thread/INFO]: blazingalchemist has made the advancement [Sweet Dreams]
+[20:50:58] [Server thread/INFO]: blazingalchemist lost connection: Disconnected
+[20:50:58] [Server thread/INFO]: blazingalchemist left the game
+[21:55:06] [User Authenticator #10/INFO]: UUID of player LoeJins7777777 is a2866b7e-2c5e-495f-b42e-517b6a066d8e
+[21:55:06] [Server thread/INFO]: LoeJins7777777[/129.186.252.215:26001] logged in with entity id 64637 at (-301.9948621769402, 62.9375, 122.57519291295017)
+[21:55:06] [Server thread/INFO]: LoeJins7777777 joined the game
+[21:56:41] [Server thread/INFO]: LoeJins7777777 has made the advancement [Suit Up]
+[22:06:39] [User Authenticator #11/INFO]: UUID of player aja2000 is 98f76cb4-800d-4cb2-8b15-7d0a03914d70
+[22:06:39] [Server thread/INFO]: aja2000[/65.128.70.233:55992] logged in with entity id 81429 at (-329.22846024998415, 64.0, 27.975714165204366)
+[22:06:39] [Server thread/INFO]: aja2000 joined the game
+[22:06:47] [Server thread/INFO]: <LoeJins7777777> ./pee
+[22:06:59] [Server thread/INFO]: <aja2000> no functiona
+[22:07:03] [Server thread/INFO]: <LoeJins7777777> :(
+[22:07:11] [Server thread/INFO]: aja2000 was slain by Zombie
+[22:08:12] [Server thread/INFO]: LoeJins7777777 lost connection: Disconnected
+[22:08:12] [Server thread/INFO]: LoeJins7777777 left the game
+[22:12:03] [Server thread/INFO]: aja2000 has made the advancement [A Seedy Place]
+[22:21:12] [Server thread/INFO]: aja2000 has made the advancement [Getting an Upgrade]
+[22:33:20] [Server thread/INFO]: aja2000 lost connection: Disconnected
+[22:33:20] [Server thread/INFO]: aja2000 left the game

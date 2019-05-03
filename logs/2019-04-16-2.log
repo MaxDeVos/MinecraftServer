@@ -1,0 +1,77 @@
+[19:36:38] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:36:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:36:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:36:38] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:36:38] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:36:39] [Server thread/INFO]: Starting minecraft server version 1.14 Pre-Release 3
+[19:36:39] [Server thread/INFO]: Loading properties
+[19:36:39] [Server thread/INFO]: Default game type: SURVIVAL
+[19:36:39] [Server thread/INFO]: Generating keypair
+[19:36:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:36:39] [Server thread/INFO]: Using default channel type
+[19:36:42] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[19:36:42] [Server thread/WARN]: The exception was: java.net.BindException: Address already in use: bind
+[19:36:42] [Server thread/WARN]: Perhaps a server is already running on that port?
+[19:36:42] [Server thread/INFO]: Stopping server
+[19:36:42] [Server thread/INFO]: Saving worlds
+[19:36:42] [Server thread/ERROR]: Exception stopping the server
+java.lang.NullPointerException: null
+	at net.minecraft.server.MinecraftServer.a(SourceFile:536) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.l(SourceFile:564) ~[server.jar:?]
+	at ug.l(SourceFile:588) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:666) [server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+ar:?]
+[19:36:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:36:30] [Server thread/INFO]: Using default channel type
+[19:36:33] [Server thread/INFO]: Preparing level "world"
+[19:36:33] [Server thread/INFO]: Reloading ResourceManager: Default
+[19:36:34] [Server thread/INFO]: Loaded 6 recipes
+[19:36:36] [Server thread/INFO]: Loaded 811 advancements
+[19:36:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:36:43] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[19:36:43] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[19:36:43] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[19:36:43] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[19:36:43] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[19:36:43] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[19:36:43] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[19:36:43] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[19:36:43] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[19:36:43] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[19:36:43] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[19:36:43] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[19:36:43] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[19:36:43] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[19:36:43] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[19:36:44] [Server-Worker-4/INFO]: Preparing spawn area: 18%
+[19:36:44] [Server-Worker-7/INFO]: Preparing spawn area: 71%
+[19:36:45] [Server-Worker-7/INFO]: Preparing spawn area: 87%
+[19:36:45] [Server-Worker-2/INFO]: Preparing spawn area: 93%
+[19:36:46] [Server-Worker-4/INFO]: Preparing spawn area: 100%
+[19:36:47] [Server-Worker-4/INFO]: Preparing spawn area: 100%
+[19:36:47] [Server-Worker-7/INFO]: Preparing spawn area: 100%
+[19:36:47] [Server thread/INFO]: Time elapsed: 10569 ms
+[19:36:47] [Server thread/INFO]: Done (13.611s)! For help, type "help"
+[19:37:05] [User Authenticator #1/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[19:37:05] [Server thread/INFO]: maxcr1[/127.0.0.1:51597] logged in with entity id 183 at (170.5, 70.0, 218.5)
+[19:37:05] [Server thread/INFO]: maxcr1 joined the game
+[19:37:20] [Server thread/INFO]: Made maxcr1 a server operator
+[19:37:27] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[19:37:27] [Server thread/INFO]: maxcr1 left the game
+[19:37:31] [Server thread/INFO]: Stopping the server
+[19:37:32] [Server thread/INFO]: Stopping server
+[19:37:32] [Server thread/INFO]: Saving players
+[19:37:32] [Server thread/INFO]: Saving worlds
+[19:37:32] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[19:37:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:37:32] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[19:37:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:37:32] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[19:37:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:37:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:37:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:37:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:37:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:37:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:37:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved

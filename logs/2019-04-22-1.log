@@ -1,0 +1,85 @@
+[15:37:47] [User Authenticator #119/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[15:37:47] [Server thread/INFO]: Toasty_boii[/65.110.255.177:60368] logged in with entity id 2569350 at (-198.51605193320276, 63.0, 112.75839911739499)
+[15:37:47] [Server thread/INFO]: Toasty_boii joined the game
+[15:39:55] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[15:39:55] [Server thread/INFO]: Toasty_boii left the game
+[16:10:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@4a4a18d1[id=<null>,name=maxcr1,properties={},legacy=false] (/127.0.0.1:62885) lost connection: Disconnected
+[16:11:55] [User Authenticator #120/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[16:11:55] [Server thread/INFO]: maxcr1[/127.0.0.1:62948] logged in with entity id 2574182 at (-448.38641000187897, 37.0, 95.44951452101446)
+[16:11:55] [Server thread/INFO]: maxcr1 joined the game
+[16:19:27] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[16:19:27] [Server thread/INFO]: maxcr1 left the game
+[16:20:06] [User Authenticator #121/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[16:20:06] [Server thread/INFO]: maxcr1[/127.0.0.1:63070] logged in with entity id 2589031 at (-331.68048813011535, 67.0, 120.30000001192093)
+[16:20:06] [Server thread/INFO]: maxcr1 joined the game
+[16:26:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2288ms or 45 ticks behind
+[16:31:42] [Server thread/INFO]: [maxcr1: Set the time to 1000]
+[16:41:42] [Server thread/INFO]: [maxcr1: Set the time to 1000]
+[16:43:07] [Server thread/INFO]: [maxcr1: Set own game mode to Creative Mode]
+[16:43:28] [Server thread/INFO]: [maxcr1: Set own game mode to Survival Mode]
+[16:52:32] [Server thread/INFO]: [maxcr1: Set the time to 1000]
+[17:00:37] [User Authenticator #122/INFO]: UUID of player LoeJins7777777 is a2866b7e-2c5e-495f-b42e-517b6a066d8e
+[17:00:38] [Server thread/INFO]: LoeJins7777777[/129.186.252.215:1936] logged in with entity id 2659538 at (-359.3789706275878, 71.9375, 117.04471675392395)
+[17:00:38] [Server thread/INFO]: LoeJins7777777 joined the game
+[17:00:46] [Server thread/INFO]: <maxcr1> hey im rebuilding my house
+[17:00:48] [Server thread/INFO]: <LoeJins7777777> hey gamer
+[17:00:49] [Server thread/INFO]: <maxcr1> and adding a river
+[17:00:55] [Server thread/INFO]: <LoeJins7777777> oooh that sounds nice
+[17:02:16] [Server thread/INFO]: [maxcr1: Set the time to 1000]
+[17:04:05] [Server thread/INFO]: <LoeJins7777777> join the voice loser
+[17:04:11] [Server thread/INFO]: <maxcr1> in a minuite
+[17:08:25] [User Authenticator #123/INFO]: UUID of player ClockworkGold is 99a0df9c-9246-45b9-9a60-d7c5888f7704
+[17:08:25] [Server thread/INFO]: ClockworkGold[/98.166.107.185:50258] logged in with entity id 2668016 at (-40.54306967851078, 88.0, 13.688977246622478)
+[17:08:25] [Server thread/INFO]: ClockworkGold joined the game
+[17:09:18] [Server thread/INFO]: LoeJins7777777 lost connection: Disconnected
+[17:09:18] [Server thread/INFO]: LoeJins7777777 left the game
+[17:12:16] [Server thread/INFO]: <maxcr1> in a minuite
+[17:12:17] [Server thread/INFO]: [maxcr1: Set the time to 1000]
+[17:18:37] [Server thread/WARN]: maxcr1 moved too quickly! 6.894356047168685,-2.130906499714527,7.453022306505602
+[17:22:36] [Server thread/INFO]: [maxcr1: Set the time to 1000]
+[17:22:51] [Server thread/INFO]: ClockworkGold lost connection: Disconnected
+[17:22:51] [Server thread/INFO]: ClockworkGold left the game
+[17:23:19] [User Authenticator #124/INFO]: UUID of player aja2000 is 98f76cb4-800d-4cb2-8b15-7d0a03914d70
+[17:23:19] [Server thread/INFO]: aja2000[/65.128.70.57:50654] logged in with entity id 2708500 at (-329.6585577621894, 63.0, 25.436337868884955)
+[17:23:19] [Server thread/INFO]: aja2000 joined the game
+[17:32:08] [Server thread/INFO]: [maxcr1: Set the time to 1000]
+[17:33:03] [User Authenticator #125/INFO]: UUID of player ClockworkGold is 99a0df9c-9246-45b9-9a60-d7c5888f7704
+[17:33:03] [Server thread/INFO]: ClockworkGold[/98.166.107.185:50304] logged in with entity id 2724166 at (-24.952734281124073, 86.0, 18.57000682077296)
+[17:33:03] [Server thread/INFO]: ClockworkGold joined the game
+[17:43:52] [Server thread/INFO]: [maxcr1: Set the time to 1000]
+[17:45:29] [Server thread/INFO]: [maxcr1: Gamerule randomTickSpeed is now set to: 200]
+[17:46:11] [Server thread/INFO]: [maxcr1: Gamerule randomTickSpeed is now set to: 12]
+[17:50:25] [Server thread/INFO]: ClockworkGold has made the advancement [Suit Up]
+[17:50:58] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[17:50:58] [Server thread/INFO]: maxcr1 left the game
+[17:51:43] [Server thread/WARN]: aja2000 moved too quickly! 1.760852670137865,0.0,10.004571642809609
+[17:54:32] [Server thread/INFO]: aja2000 lost connection: Disconnected
+[17:54:32] [Server thread/INFO]: aja2000 left the game
+[17:55:27] [User Authenticator #126/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[17:55:28] [Server thread/INFO]: maxcr1[/127.0.0.1:63532] logged in with entity id 2768559 at (-338.92606272175357, 64.0, 118.53853106645562)
+[17:55:28] [Server thread/INFO]: maxcr1 joined the game
+[17:59:30] [Server thread/INFO]: maxcr1 was shot by Skeleton
+[18:01:21] [Server thread/INFO]: ClockworkGold has made the advancement [Hot Stuff]
+[18:03:19] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[18:04:19] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[18:41:01] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[18:41:01] [Server thread/INFO]: maxcr1 left the game
+[18:41:01] [Server Watchdog/ERROR]: This crash report has been saved to: C:\Users\Max\Desktop\MinecraftServer\.\crash-reports\crash-2019-04-22_18.41.01-server.txt
+[18:41:01] [Server thread/WARN]: ClockworkGold moved too quickly! 0.28079725967845093,0.0,-10.014317206404812
+[18:41:02] [Server thread/INFO]: Stopping server
+[18:41:02] [Server thread/INFO]: Saving players
+[18:41:02] [Server thread/INFO]: ClockworkGold lost connection: Disconnected
+[18:41:02] [Server thread/INFO]: ClockworkGold left the game
+[18:41:02] [Server thread/INFO]: Saving worlds
+[18:41:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[18:41:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:41:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[18:41:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:41:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[18:41:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:41:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:41:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:41:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:41:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:41:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:41:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

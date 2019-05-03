@@ -1,0 +1,379 @@
+[17:52:08] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:52:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:52:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:52:08] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:52:08] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:52:09] [Server thread/INFO]: Starting minecraft server version 1.14 Pre-Release 5
+[17:52:09] [Server thread/INFO]: Loading properties
+[17:52:09] [Server thread/INFO]: Default game type: SURVIVAL
+[17:52:09] [Server thread/INFO]: Generating keypair
+[17:52:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:52:10] [Server thread/INFO]: Using default channel type
+[17:52:10] [Server thread/INFO]: Preparing level "world"
+[17:52:10] [Server thread/INFO]: Reloading ResourceManager: Default
+[17:52:11] [Server thread/INFO]: Loaded 6 recipes
+[17:52:13] [Server thread/INFO]: Loaded 811 advancements
+[17:52:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:52:13] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[17:52:13] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[17:52:14] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:52:14] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[17:52:15] [Server-Worker-5/INFO]: Preparing spawn area: 4%
+[17:52:15] [Server-Worker-3/INFO]: Preparing spawn area: 6%
+[17:52:16] [Server-Worker-2/INFO]: Preparing spawn area: 16%
+[17:52:17] [Server-Worker-3/INFO]: Preparing spawn area: 22%
+[17:52:17] [Server-Worker-7/INFO]: Preparing spawn area: 22%
+[17:52:17] [Server-Worker-4/INFO]: Preparing spawn area: 33%
+[17:52:18] [Server-Worker-7/INFO]: Preparing spawn area: 68%
+[17:52:18] [Server-Worker-1/INFO]: Preparing spawn area: 98%
+[17:52:20] [Server-Worker-3/INFO]: Preparing spawn area: 100%
+[17:52:20] [Server-Worker-4/INFO]: Preparing spawn area: 100%
+[17:52:20] [Server-Worker-3/INFO]: Preparing spawn area: 100%
+[17:52:20] [Server thread/INFO]: Time elapsed: 7353 ms
+[17:52:20] [Server thread/INFO]: Done (10.092s)! For help, type "help"
+[17:53:56] [User Authenticator #1/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[17:53:56] [Server thread/INFO]: maxcr1[/127.0.0.1:63175] logged in with entity id 235 at (-496.8004228108839, 21.0, 112.68719371207904)
+[17:53:56] [Server thread/INFO]: maxcr1 joined the game
+[18:06:28] [User Authenticator #2/INFO]: UUID of player LoeJins7777777 is a2866b7e-2c5e-495f-b42e-517b6a066d8e
+[18:06:28] [Server thread/INFO]: LoeJins7777777[/65.110.255.144:1948] logged in with entity id 10444 at (-338.5224789788525, 68.0, 124.69999998807907)
+[18:06:28] [Server thread/INFO]: LoeJins7777777 joined the game
+[18:06:45] [User Authenticator #3/INFO]: UUID of player Strauberry_36 is 708c8d22-9af1-4ff4-a967-a4211d525576
+[18:06:45] [Server thread/INFO]: Strauberry_36[/134.129.60.95:58552] logged in with entity id 11594 at (-245.5, 67.0, 131.5)
+[18:06:45] [Server thread/INFO]: Strauberry_36 joined the game
+[18:08:49] [Server thread/INFO]: maxcr1 was slain by Enderman
+[18:09:34] [Server thread/INFO]: maxcr1 was killed by Witch using magic
+[18:12:47] [User Authenticator #4/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[18:12:47] [Server thread/INFO]: Toasty_boii[/65.110.255.177:53963] logged in with entity id 18032 at (-154.619250837799, 11.0, 150.798427344573)
+[18:12:47] [Server thread/INFO]: Toasty_boii joined the game
+[18:12:57] [Server thread/INFO]: <Toasty_boii> beep beep lettuce
+[18:13:00] [Server thread/INFO]: <maxcr1> same
+[18:13:04] [Server thread/INFO]: <LoeJins7777777> i do meth
+[18:13:14] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[18:13:14] [Server thread/INFO]: Toasty_boii left the game
+[18:13:45] [User Authenticator #5/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[18:13:45] [Server thread/INFO]: Toasty_boii[/65.110.255.177:53953] logged in with entity id 18660 at (-154.619250837799, 11.0, 150.798427344573)
+[18:13:45] [Server thread/INFO]: Toasty_boii joined the game
+[18:13:50] [Server thread/INFO]: Strauberry_36 has made the advancement [We Need to Go Deeper]
+[18:13:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3249ms or 64 ticks behind
+[18:13:58] [Server thread/INFO]: LoeJins7777777 has made the advancement [We Need to Go Deeper]
+[18:15:25] [Server thread/INFO]: Strauberry_36 has made the advancement [A Terrible Fortress]
+[18:15:25] [Server thread/INFO]: LoeJins7777777 has made the advancement [A Terrible Fortress]
+[18:17:26] [Server thread/WARN]: LoeJins7777777 moved too quickly! -10.04676987251608,0.756759288177264,-0.9270646138617167
+[18:17:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2324ms or 46 ticks behind
+[18:18:11] [Server thread/INFO]: LoeJins7777777 has made the advancement [Into Fire]
+[18:20:20] [Server thread/INFO]: LoeJins7777777 has completed the challenge [Return to Sender]
+[18:22:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2102ms or 42 ticks behind
+[18:22:31] [Server thread/INFO]: LoeJins7777777 fell from a high place
+[18:22:34] [Server thread/INFO]: <Toasty_boii> F
+[18:23:11] [Server thread/INFO]: Strauberry_36 has made the advancement [Stone Age]
+[18:23:12] [Server thread/INFO]: Strauberry_36 has made the advancement [Into Fire]
+[18:23:12] [Server thread/INFO]: Strauberry_36 has made the advancement [Isn't It Iron Pick]
+[18:23:12] [Server thread/INFO]: Strauberry_36 has made the advancement [Suit Up]
+[18:24:04] [Server thread/INFO]: maxcr1 has completed the challenge [Return to Sender]
+[18:25:04] [User Authenticator #6/INFO]: UUID of player aja2000 is 98f76cb4-800d-4cb2-8b15-7d0a03914d70
+[18:25:04] [Server thread/INFO]: aja2000[/65.128.70.233:54167] logged in with entity id 30515 at (-331.1019757850809, 64.0, 18.442016266756887)
+[18:25:04] [Server thread/INFO]: aja2000 joined the game
+[18:25:14] [Server thread/WARN]: Strauberry_36 moved too quickly! -5.927022687397766,-1.0752008901189498,-8.42967040666791
+[18:25:21] [Server thread/WARN]: aja2000 moved too quickly! 0.6874540470531656,1.2491870787446828,10.11102066327691
+[18:26:04] [Server thread/INFO]: <maxcr1> join discord
+[18:26:23] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[18:26:23] [Server thread/INFO]: maxcr1 left the game
+[18:28:09] [User Authenticator #7/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[18:28:09] [Server thread/INFO]: maxcr1[/127.0.0.1:63272] logged in with entity id 37186 at (-334.81133475246867, 67.0, 121.69999998807907)
+[18:28:09] [Server thread/INFO]: maxcr1 joined the game
+[18:28:31] [Server thread/INFO]: Toasty_boii has made the advancement [Diamonds!]
+[18:32:09] [Server thread/INFO]: Strauberry_36 has made the advancement [Monster Hunter]
+[18:32:31] [Server thread/WARN]: LoeJins7777777 moved too quickly! -4.965929810328305,-0.756759288177264,-9.091266164343125
+[18:32:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3245ms or 64 ticks behind
+[18:35:12] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[18:35:12] [Server thread/INFO]: Toasty_boii left the game
+[18:36:14] [User Authenticator #8/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[18:36:14] [Server thread/INFO]: Toasty_boii[/65.110.255.177:54056] logged in with entity id 60272 at (-203.6450682186445, 58.0, 126.69999998807907)
+[18:36:14] [Server thread/INFO]: Toasty_boii joined the game
+[18:37:35] [Server thread/WARN]: aja2000 moved too quickly! -9.236956285780366,0.7531999805212024,-4.544761493243385
+[18:37:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4139ms or 82 ticks behind
+[18:38:13] [Server thread/INFO]: Strauberry_36 fell from a high place
+[18:39:52] [Server thread/INFO]: <LoeJins7777777> -309 150
+[18:42:16] [Server thread/INFO]: <LoeJins7777777> -27 1000
+[18:42:39] [Server thread/WARN]: Horse moved wrongly!
+[18:42:39] [Server thread/WARN]: Horse moved wrongly!
+[18:42:39] [Server thread/WARN]: Horse moved wrongly!
+[18:42:39] [Server thread/WARN]: Horse moved wrongly!
+[18:42:39] [Server thread/WARN]: Horse moved wrongly!
+[18:42:39] [Server thread/WARN]: Boat (vehicle of maxcr1) moved too quickly! -8.995355355961543,0.0,5.0096280392568815
+[18:42:39] [Server thread/WARN]: Horse moved wrongly!
+[18:42:39] [Server thread/WARN]: Boat (vehicle of maxcr1) moved too quickly! -9.34819448792394,0.0,5.1662627327273185
+[18:42:39] [Server thread/WARN]: Horse moved wrongly!
+[18:42:39] [Server thread/WARN]: Boat (vehicle of maxcr1) moved too quickly! -9.705719697620914,0.0,5.30568501990183
+[18:42:39] [Server thread/WARN]: Horse moved wrongly!
+[18:42:39] [Server thread/WARN]: Boat (vehicle of maxcr1) moved too quickly! -10.067309413022336,0.0,5.427343630337077
+[18:42:39] [Server thread/WARN]: Boat (vehicle of maxcr1) moved too quickly! -10.432308892862466,0.0,5.530978538510453
+[18:42:39] [Server thread/WARN]: Boat (vehicle of maxcr1) moved too quickly! -10.800065055794931,0.0,5.616574264681844
+[18:42:39] [Server thread/WARN]: Boat (vehicle of maxcr1) moved too quickly! -11.16994985823544,0.0,5.684312134451261
+[18:42:39] [Server thread/WARN]: Boat (vehicle of maxcr1) moved too quickly! -11.541376685257376,0.0,5.73453380461126
+[18:42:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3611ms or 72 ticks behind
+[18:42:39] [Server thread/WARN]: Boat (vehicle of maxcr1) moved too quickly! -10.162635014956386,0.0,-0.8172786149974627
+[18:42:39] [Server thread/WARN]: Boat (vehicle of maxcr1) moved too quickly! -10.499517758629523,0.0,-1.0047405286157982
+[18:42:39] [Server thread/WARN]: Horse (vehicle of Toasty_boii) moved too quickly! -5.568660400667142,5.0,-6.787759758361915
+[18:42:39] [Server thread/WARN]: Boat (vehicle of maxcr1) moved too quickly! -10.828007825786443,0.0,-1.2044422481178572
+[18:42:39] [Server thread/WARN]: Horse (vehicle of Toasty_boii) moved too quickly! -6.0266586655550896,5.0,-7.021182558883638
+[18:42:39] [Server thread/WARN]: Boat (vehicle of maxcr1) moved too quickly! -11.145913122430741,0.0,-1.4174048518603968
+[18:42:39] [Server thread/WARN]: Horse (vehicle of Toasty_boii) moved too quickly! -6.473120197889699,5.0,-7.280427498964286
+[18:42:39] [Server thread/WARN]: Boat (vehicle of maxcr1) moved too quickly! -11.450778821349367,0.0,-1.6444039257792156
+[18:42:39] [Server thread/WARN]: Horse (vehicle of Toasty_boii) moved too quickly! -6.91340865465267,5.0,-7.553489351084991
+[18:42:39] [Server thread/WARN]: Boat (vehicle of maxcr1) moved too quickly! -11.739932260960721,0.0,-1.88587457365918
+[18:42:39] [Server thread/WARN]: Horse (vehicle of Toasty_boii) moved too quickly! -7.350394021755108,5.0,-7.833944357358831
+[18:42:39] [Server thread/WARN]: Boat (vehicle of maxcr1) moved too quickly! -12.010539162546237,0.0,-2.141830879153531
+[18:42:39] [Server thread/WARN]: Horse (vehicle of Toasty_boii) moved too quickly! -7.78561197143668,5.0,-8.118355293016421
+[18:42:39] [Server thread/WARN]: Boat (vehicle of maxcr1) moved too quickly! -12.259677523257373,0.0,-2.411798715239911
+[18:42:39] [Server thread/WARN]: Horse (vehicle of Toasty_boii) moved too quickly! -8.225334465650946,5.0,-8.396329690022881
+[18:42:39] [Server thread/WARN]: Boat (vehicle of maxcr1) moved too quickly! -12.484423580678403,0.0,-2.694766359196933
+[18:42:39] [Server thread/WARN]: Horse (vehicle of Toasty_boii) moved too quickly! -9.094270761414776,2.1537529488245184,-3.6032118802938413
+[18:42:39] [Server thread/WARN]: Horse moved wrongly!
+[18:42:39] [Server thread/WARN]: Horse moved wrongly!
+[18:42:39] [Server thread/WARN]: Horse moved wrongly!
+[18:42:39] [Server thread/WARN]: Horse moved wrongly!
+[18:42:39] [Server thread/WARN]: Horse moved wrongly!
+[18:42:39] [Server thread/WARN]: Horse moved wrongly!
+[18:42:39] [Server thread/WARN]: Horse moved wrongly!
+[18:42:39] [Server thread/WARN]: Horse moved wrongly!
+[18:42:39] [Server thread/WARN]: Horse moved wrongly!
+[18:42:39] [Server thread/WARN]: Horse (vehicle of Toasty_boii) moved too quickly! -10.828717355182164,7.998515309041409,-9.134259218433115
+[18:43:37] [Server thread/INFO]: LoeJins7777777 has made the advancement [A Seedy Place]
+[18:44:39] [Server thread/WARN]: LoeJins7777777 moved wrongly!
+[18:47:41] [Server thread/WARN]: maxcr1 moved too quickly! 7.1086595977994875,-0.023088109101550458,-7.511294753732074
+[18:47:41] [Server thread/WARN]: Strauberry_36 moved too quickly! -7.730701158740658,-0.7722207479599632,-6.4361491711020165
+[18:47:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2477ms or 49 ticks behind
+[18:47:42] [Server thread/WARN]: Fetching addPacket for removed entity
+[18:47:57] [Server thread/INFO]: Toasty_boii has made the advancement [Ice Bucket Challenge]
+[18:48:23] [Server thread/INFO]: aja2000 was impaled by Drowned
+[18:50:07] [Server thread/INFO]: aja2000 was impaled by Drowned
+[18:50:10] [Server thread/INFO]: <Toasty_boii> F
+[18:50:52] [Server thread/INFO]: Strauberry_36 was impaled by Drowned
+[18:51:39] [Server thread/INFO]: Strauberry_36 was impaled by Drowned
+[18:52:37] [Server thread/INFO]: LoeJins7777777 lost connection: Disconnected
+[18:52:37] [Server thread/INFO]: LoeJins7777777 left the game
+[18:52:41] [Server thread/INFO]: [maxcr1: Set the time to 1000]
+[18:52:43] [Server thread/WARN]: Strauberry_36 moved too quickly! 10.157346738969437,0.49520087700592796,0.9627518515324667
+[18:52:44] [User Authenticator #9/INFO]: UUID of player LoeJins7777777 is a2866b7e-2c5e-495f-b42e-517b6a066d8e
+[18:52:44] [Server thread/INFO]: LoeJins7777777[/65.110.255.144:2095] logged in with entity id 115177 at (-280.329181560207, 63.0, 119.64064029159604)
+[18:52:44] [Server thread/INFO]: LoeJins7777777 joined the game
+[18:58:36] [Server thread/INFO]: Strauberry_36 has made the advancement [Getting an Upgrade]
+[19:03:14] [Server thread/WARN]: Horse moved wrongly!
+[19:03:14] [Server thread/WARN]: Horse moved wrongly!
+[19:04:30] [Server thread/WARN]: Horse moved wrongly!
+[19:04:30] [Server thread/WARN]: Horse moved wrongly!
+[19:07:50] [Server thread/WARN]: Fetching addPacket for removed entity
+[19:09:03] [Server thread/INFO]: aja2000 was blown up by Creeper
+[19:12:13] [Server thread/WARN]: Fetching addPacket for removed entity
+[19:13:26] [Server thread/INFO]: <LoeJins7777777> creepuh whole
+[19:13:29] [Server thread/INFO]: <aja2000> Queepa Hole
+[19:15:01] [Server thread/INFO]: <Toasty_boii> nebba
+[19:15:02] [Server thread/INFO]: <maxcr1> neba
+[19:15:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3166ms or 63 ticks behind
+[19:17:47] [Server thread/WARN]: aja2000 moved too quickly! -8.882206556650829,0.41999998688697815,5.276785925750971
+[19:17:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2449ms or 48 ticks behind
+[19:20:36] [Server thread/WARN]: Horse (vehicle of Toasty_boii) moved too quickly! 4.9805940073061095,-2.0,8.753969043458653
+[19:20:36] [Server thread/WARN]: Horse (vehicle of Toasty_boii) moved too quickly! 5.221566000208412,-2.0,9.182355818346451
+[19:20:36] [Server thread/WARN]: Horse (vehicle of Toasty_boii) moved too quickly! 5.469246228711029,-2.0,9.622538292005999
+[19:20:36] [Server thread/WARN]: Horse (vehicle of Toasty_boii) moved too quickly! 5.7205159003355845,-2.0,10.069032408897442
+[19:20:36] [Server thread/WARN]: Horse (vehicle of Toasty_boii) moved too quickly! 5.97370621140891,-2.0,10.51890376024167
+[19:20:36] [Server thread/WARN]: Horse (vehicle of Toasty_boii) moved too quickly! 6.227924218357856,-2.0,10.970582202406831
+[19:20:36] [Server thread/WARN]: Horse (vehicle of Toasty_boii) moved too quickly! 6.482692124879804,-2.0,11.423227582840724
+[19:20:42] [Server thread/INFO]: <Toasty_boii> Nebba prodal
+[19:20:54] [Server thread/INFO]: <Toasty_boii> Pordal
+[19:22:15] [Server thread/INFO]: <LoeJins7777777> pee nut
+[19:22:24] [Server thread/INFO]: <aja2000> ee naut
+[19:22:48] [Server thread/WARN]: Horse (vehicle of Toasty_boii) moved too quickly! 5.93204874487094,4.0,-7.551029874426085
+[19:22:48] [Server thread/WARN]: Horse (vehicle of Toasty_boii) moved too quickly! 6.288250434351795,4.0,-7.9308492446146985
+[19:22:48] [Server thread/WARN]: Horse (vehicle of Toasty_boii) moved too quickly! 6.644463726827723,4.0,-8.310661361968837
+[19:22:48] [Server thread/WARN]: Horse (vehicle of Toasty_boii) moved too quickly! 7.0006832278349975,4.0,-8.690469598475854
+[19:22:48] [Server thread/WARN]: Horse (vehicle of Toasty_boii) moved too quickly! 7.3569060509036035,4.0,-9.070275758418955
+[19:22:48] [Server thread/WARN]: Horse (vehicle of Toasty_boii) moved too quickly! 7.713130651540979,5.0,-9.450080807234102
+[19:22:48] [Server thread/WARN]: Horse (vehicle of Toasty_boii) moved too quickly! 8.069356203319956,5.0,-9.829885261506838
+[19:22:48] [Server thread/WARN]: Horse (vehicle of Toasty_boii) moved too quickly! 8.425582264035853,5.0,-10.209689397651783
+[19:22:48] [Server thread/WARN]: Horse (vehicle of Toasty_boii) moved too quickly! 8.781808597073763,5.0,-10.589493363572888
+[19:25:15] [Server thread/INFO]: aja2000 has made the advancement [Sweet Dreams]
+[19:30:11] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[19:30:11] [Server thread/INFO]: Toasty_boii left the game
+[19:30:13] [User Authenticator #10/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[19:30:13] [Server thread/INFO]: Toasty_boii[/65.110.255.177:54233] logged in with entity id 164269 at (-201.30000001192093, 56.19598549543307, 122.29278701861789)
+[19:30:13] [Server thread/INFO]: Toasty_boii joined the game
+[19:30:51] [Server thread/INFO]: <aja2000> chiggins
+[19:32:09] [Server thread/WARN]: Horse moved wrongly!
+[19:32:09] [Server thread/WARN]: Horse moved wrongly!
+[19:32:10] [Server thread/WARN]: Horse moved wrongly!
+[19:32:19] [Server thread/WARN]: Horse moved wrongly!
+[19:32:19] [Server thread/WARN]: Horse moved wrongly!
+[19:32:19] [Server thread/WARN]: Horse moved wrongly!
+[19:32:19] [Server thread/WARN]: Horse moved wrongly!
+[19:32:19] [Server thread/WARN]: Horse moved wrongly!
+[19:32:19] [Server thread/WARN]: Horse moved wrongly!
+[19:32:19] [Server thread/WARN]: Horse moved wrongly!
+[19:32:19] [Server thread/WARN]: Horse moved wrongly!
+[19:32:20] [Server thread/WARN]: Horse moved wrongly!
+[19:32:20] [Server thread/WARN]: Horse moved wrongly!
+[19:32:20] [Server thread/WARN]: Horse moved wrongly!
+[19:32:20] [Server thread/WARN]: Horse moved wrongly!
+[19:32:20] [Server thread/WARN]: Horse moved wrongly!
+[19:32:20] [Server thread/WARN]: Horse moved wrongly!
+[19:32:20] [Server thread/WARN]: Horse moved wrongly!
+[19:32:20] [Server thread/WARN]: Horse moved wrongly!
+[19:32:20] [Server thread/WARN]: Horse moved wrongly!
+[19:32:20] [Server thread/WARN]: Horse moved wrongly!
+[19:32:20] [Server thread/WARN]: Horse moved wrongly!
+[19:32:20] [Server thread/WARN]: Horse moved wrongly!
+[19:32:20] [Server thread/WARN]: Horse moved wrongly!
+[19:32:20] [Server thread/WARN]: Horse moved wrongly!
+[19:32:20] [Server thread/WARN]: Horse moved wrongly!
+[19:32:20] [Server thread/WARN]: Horse moved wrongly!
+[19:32:20] [Server thread/WARN]: Horse moved wrongly!
+[19:32:20] [Server thread/WARN]: Horse moved wrongly!
+[19:32:20] [Server thread/WARN]: Horse moved wrongly!
+[19:34:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2776ms or 55 ticks behind
+[19:34:28] [Server thread/INFO]: <Toasty_boii> BROT
+[19:36:09] [Server thread/INFO]: Strauberry_36 has made the advancement [Acquire Hardware]
+[19:36:11] [Server thread/INFO]: LoeJins7777777 tried to swim in lava
+[19:37:04] [Server thread/INFO]: aja2000 lost connection: Disconnected
+[19:37:04] [Server thread/INFO]: aja2000 left the game
+[19:37:21] [Server thread/INFO]: <Toasty_boii> 159
+[19:37:24] [Server thread/INFO]: <Toasty_boii> 57
+[19:37:27] [Server thread/INFO]: <Toasty_boii> -67
+[19:37:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2447ms or 48 ticks behind
+[19:38:02] [Server thread/INFO]: <maxcr1> 106, 52, -31
+[19:38:50] [Server thread/INFO]: LoeJins7777777 lost connection: Disconnected
+[19:38:50] [Server thread/INFO]: LoeJins7777777 left the game
+[19:39:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@210a896d[id=<null>,name=LoeJins7777777,properties={},legacy=false] (/65.110.255.144:2411) lost connection: Disconnected
+[19:39:41] [Server thread/INFO]: Toasty_boii has made the advancement [A Terrible Fortress]
+[19:40:29] [User Authenticator #11/INFO]: UUID of player LoeJins7777777 is a2866b7e-2c5e-495f-b42e-517b6a066d8e
+[19:40:30] [Server thread/INFO]: LoeJins7777777[/65.110.255.144:2489] logged in with entity id 178198 at (-327.85874707239384, 64.0, 58.139044917220446)
+[19:40:30] [Server thread/INFO]: LoeJins7777777 joined the game
+[19:42:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[19:43:15] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[19:43:15] [Server thread/INFO]: Toasty_boii left the game
+[19:44:17] [Server thread/INFO]: LoeJins7777777 has made the advancement [Sweet Dreams]
+[19:44:24] [Server thread/INFO]: Strauberry_36 has made the advancement [Sweet Dreams]
+[19:47:00] [User Authenticator #12/INFO]: UUID of player aja2000 is 98f76cb4-800d-4cb2-8b15-7d0a03914d70
+[19:47:00] [Server thread/INFO]: aja2000[/65.128.70.233:54392] logged in with entity id 184008 at (-278.84416647811383, 63.0, 124.83556706240145)
+[19:47:00] [Server thread/INFO]: aja2000 joined the game
+[19:47:07] [Server thread/INFO]: maxcr1 was burnt to a crisp whilst fighting Blaze
+[19:47:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2985ms or 59 ticks behind
+[19:47:59] [Server thread/WARN]: maxcr1 moved too quickly! 7.709372090987372,-0.7539862017387691,-6.658380700592268
+[19:47:59] [Server thread/WARN]: aja2000 moved too quickly! -9.382887398449157,0.2277792520400368,-4.1565178700726335
+[19:47:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[19:52:10] [Server thread/INFO]: maxcr1 was fireballed by Blaze
+[19:52:25] [Server thread/WARN]: aja2000 moved too quickly! -9.845275372684227,-0.41999998688697815,2.916819367790495
+[19:52:25] [Server thread/WARN]: LoeJins7777777 moved too quickly! 6.290188600523152,1.7531999805212024,-8.055854458560702
+[19:52:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2752ms or 55 ticks behind
+[19:53:04] [Server thread/WARN]: maxcr1 moved too quickly! 8.085576063475429,0.2468000194787976,-6.365057635013265
+[19:53:04] [Server thread/WARN]: maxcr1 moved too quickly! 7.920675582086659,0.36809686001799236,-6.141016120339565
+[19:53:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2187ms or 43 ticks behind
+[19:55:48] [Server thread/INFO]: <Strauberry_36> queepa
+[19:58:06] [Server thread/WARN]: aja2000 moved too quickly! 4.464586268601806,-2.0554624345250403,-8.77839984008375
+[19:58:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
+[19:58:59] [Server thread/INFO]: maxcr1 was slain by Wither Skeleton
+[19:59:12] [Server thread/WARN]: aja2000 moved too quickly! 7.152172158197828,-0.5199434174207553,7.213149622709054
+[19:59:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3126ms or 62 ticks behind
+[20:00:56] [Server thread/INFO]: aja2000 was slain by LoeJins7777777
+[20:02:51] [Server thread/INFO]: <Strauberry_36> t bag
+[20:03:11] [Server thread/WARN]: maxcr1 moved too quickly! -8.234414049449068,0.2046003784434518,-6.086024798149619
+[20:03:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2468ms or 49 ticks behind
+[20:03:51] [Server thread/INFO]: <aja2000> I said "Is this the hot tub?"
+[20:08:21] [Server thread/INFO]: LoeJins7777777 lost connection: Disconnected
+[20:08:21] [Server thread/INFO]: LoeJins7777777 left the game
+[20:09:30] [User Authenticator #13/INFO]: UUID of player LoeJins7777777 is a2866b7e-2c5e-495f-b42e-517b6a066d8e
+[20:09:30] [Server thread/INFO]: LoeJins7777777[/65.110.255.144:2787] logged in with entity id 210006 at (-129.70478335789932, 65.0, 126.13864157193726)
+[20:09:30] [Server thread/INFO]: LoeJins7777777 joined the game
+[20:13:07] [Server thread/INFO]: [maxcr1: The difficulty has been set to Normal]
+[20:13:23] [Server thread/INFO]: <LoeJins7777777> ./effect give loejins7777777 minecraft:hunger 3 127
+[20:13:52] [Server thread/INFO]: [maxcr1: Applied effect Hunger to 4 targets]
+[20:16:29] [Server thread/INFO]: <LoeJins7777777> Oxeye DaisyRegeneration7sCornflowerJump Boost5sLily of the ValleyPoison11sWither RoseWither7sTulipsWeakness8sAzure BluetBlindness7sAlliumFire Resistance3sBlue OrchidSaturation5sPoppySpeed5sDandelionSaturation5s
+[20:18:04] [Server thread/INFO]: [maxcr1: Gamerule randomTickSpeed is now set to: 1]
+[20:18:49] [Server thread/INFO]: [maxcr1: Gamerule randomTickSpeed is now set to: 200]
+[20:19:08] [Server thread/INFO]: [maxcr1: Gamerule randomTickSpeed is now set to: 2000]
+[20:19:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[20:19:19] [Server thread/INFO]: [maxcr1: Gamerule randomTickSpeed is now set to: 200]
+[20:21:41] [Server thread/INFO]: [maxcr1: Gamerule randomTickSpeed is now set to: 12]
+[20:25:57] [Server thread/WARN]: aja2000 moved too quickly! -10.075219941499483,0.0625,0.6129339362823174
+[20:25:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2688ms or 53 ticks behind
+[20:27:29] [Server thread/INFO]: LoeJins7777777 was slain by Enderman
+[20:28:18] [Server thread/WARN]: LoeJins7777777 moved too quickly! -10.139890755995793,-0.8322033533667508,0.6370110304529817
+[20:28:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20:28:47] [Server thread/INFO]: [maxcr1: Created new objective [corndogs]]
+[20:29:02] [Server thread/INFO]: [maxcr1: Set display slot belowName to show objective corndogs]
+[20:29:09] [Server thread/INFO]: [maxcr1: Set display slot list to show objective corndogs]
+[20:30:26] [Server thread/INFO]: <aja2000> Kelpsumption
+[20:30:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[20:30:52] [Server thread/INFO]: [maxcr1: Created new objective [kelpsumption]]
+[20:31:00] [Server thread/INFO]: [maxcr1: Set display slot belowName to show objective kelpsumption]
+[20:32:58] [Server thread/INFO]: [maxcr1: Removed objective [kelpsumption]]
+[20:33:00] [Server thread/INFO]: [maxcr1: Created new objective [kelpsumption]]
+[20:33:04] [Server thread/INFO]: [maxcr1: Set display slot belowName to show objective kelpsumption]
+[20:33:57] [Server thread/INFO]: LoeJins7777777 drowned
+[20:45:14] [Server thread/INFO]: maxcr1 was blown up by Creeper
+[20:48:33] [Server thread/INFO]: [maxcr1: Applied effect Hunger to maxcr1]
+[20:48:38] [Server thread/INFO]: [maxcr1: Applied effect Hunger to maxcr1]
+[20:49:07] [Server thread/INFO]: [maxcr1: Applied effect Hunger to maxcr1]
+[20:49:09] [Server thread/INFO]: LoeJins7777777 lost connection: Disconnected
+[20:49:09] [Server thread/INFO]: LoeJins7777777 left the game
+[20:49:13] [Server thread/INFO]: [maxcr1: Applied effect Hunger to maxcr1]
+[20:49:40] [Server thread/INFO]: aja2000 was slain by Zombie
+[20:51:13] [Server thread/INFO]: [maxcr1: Applied effect Hunger to maxcr1]
+[20:57:17] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[20:57:17] [Server thread/INFO]: maxcr1 left the game
+[20:58:13] [User Authenticator #14/INFO]: UUID of player LoeJins7777777 is a2866b7e-2c5e-495f-b42e-517b6a066d8e
+[20:58:13] [Server thread/INFO]: LoeJins7777777[/65.110.255.144:3100] logged in with entity id 276467 at (-124.12586235940853, 65.0, 132.4113120186851)
+[20:58:13] [Server thread/INFO]: LoeJins7777777 joined the game
+[21:04:17] [Server thread/INFO]: aja2000 lost connection: Disconnected
+[21:04:17] [Server thread/INFO]: aja2000 left the game
+[21:04:20] [Server thread/INFO]: LoeJins7777777 lost connection: Disconnected
+[21:04:20] [Server thread/INFO]: LoeJins7777777 left the game
+[21:04:38] [Server thread/INFO]: There are 1 of a max 20 players online: Strauberry_36
+[21:04:42] [Server thread/INFO]: [Server] are they done for the night?
+[21:05:29] [User Authenticator #15/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[21:05:29] [Server thread/INFO]: maxcr1[/127.0.0.1:64045] logged in with entity id 281199 at (-322.2033129597054, 63.0, 76.11867885913813)
+[21:05:29] [Server thread/INFO]: maxcr1 joined the game
+[21:07:23] [User Authenticator #16/INFO]: UUID of player LoeJins7777777 is a2866b7e-2c5e-495f-b42e-517b6a066d8e
+[21:07:23] [Server thread/INFO]: LoeJins7777777[/65.110.255.144:3188] logged in with entity id 282780 at (-132.87715721220187, 64.0, 134.6458374240032)
+[21:07:23] [Server thread/INFO]: LoeJins7777777 joined the game
+[21:11:24] [Server thread/WARN]: Fetching addPacket for removed entity
+[21:25:24] [Server thread/WARN]: Strauberry_36 moved too quickly! 9.094641564452672,-0.9247991098810502,4.72854388997952
+[21:25:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2882ms or 57 ticks behind
+[21:26:48] [Server thread/INFO]: maxcr1 has made the advancement [Hot Stuff]
+[21:28:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[21:29:30] [Server thread/INFO]: LoeJins7777777 burned to death
+[21:29:45] [Server thread/WARN]: Strauberry_36 moved too quickly! -6.853243505895762,1.0,7.4997087440205235
+[21:29:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15350ms or 307 ticks behind
+[21:30:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2736ms or 54 ticks behind
+[21:34:24] [Server thread/INFO]: [maxcr1: Applied effect Hunger to LoeJins7777777]
+[21:34:59] [Server thread/INFO]: [maxcr1: Removed every effect from LoeJins7777777]
+[21:35:19] [Server thread/INFO]: [maxcr1: Applied effect Hunger to LoeJins7777777]
+[21:35:29] [Server thread/INFO]: [maxcr1: Applied effect Hunger to LoeJins7777777]
+[21:36:21] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[21:36:21] [Server thread/INFO]: maxcr1 left the game
+[21:41:10] [User Authenticator #17/INFO]: UUID of player aja2000 is 98f76cb4-800d-4cb2-8b15-7d0a03914d70
+[21:41:10] [Server thread/INFO]: aja2000[/65.128.70.233:54918] logged in with entity id 325263 at (-143.26259675940878, 63.0, 132.82111868333442)
+[21:41:10] [Server thread/INFO]: aja2000 joined the game
+[21:44:29] [User Authenticator #18/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[21:44:30] [Server thread/INFO]: maxcr1[/127.0.0.1:64295] logged in with entity id 329687 at (-337.7268075997191, 67.0, 122.1862267713915)
+[21:44:30] [Server thread/INFO]: maxcr1 joined the game
+[21:46:29] [Server thread/INFO]: [maxcr1: Gamerule randomTickSpeed is now set to: 200]
+[21:46:52] [Server thread/INFO]: [maxcr1: Gamerule randomTickSpeed is now set to: 12]
+[21:47:39] [Server thread/WARN]: Horse moved wrongly!
+[21:47:39] [Server thread/WARN]: Horse moved wrongly!
+[21:50:59] [Server thread/INFO]: aja2000 was slain by Enderman
+[21:52:06] [Server thread/INFO]: LoeJins7777777 has made the advancement [Hot Stuff]
+[21:53:53] [Server thread/INFO]: LoeJins7777777 lost connection: Disconnected
+[21:53:53] [Server thread/INFO]: LoeJins7777777 left the game
+[21:54:29] [Server thread/INFO]: <aja2000> yes
+[21:54:32] [Server thread/INFO]: <aja2000> but I am going to go to bed
+[21:54:36] [Server thread/INFO]: <aja2000> in like 2 sex
+[21:54:44] [Server thread/INFO]: aja2000 lost connection: Disconnected
+[21:54:44] [Server thread/INFO]: aja2000 left the game
+[21:56:21] [Server thread/INFO]: [maxcr1: Gamerule randomTickSpeed is now set to: 200]
+[21:57:30] [Server thread/INFO]: [maxcr1: Gamerule randomTickSpeed is now set to: 12]
+[22:06:16] [Server thread/INFO]: maxcr1 was blown up by Creeper
+[22:08:16] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[22:08:16] [Server thread/INFO]: maxcr1 left the game
+[22:16:31] [Server thread/INFO]: Strauberry_36 lost connection: Disconnected
+[22:16:31] [Server thread/INFO]: Strauberry_36 left the game

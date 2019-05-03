@@ -1,0 +1,554 @@
+[16:24:47] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:24:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:24:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:24:47] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:24:47] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:24:48] [Server thread/INFO]: Starting minecraft server version 1.14 Pre-Release 4
+[16:24:48] [Server thread/INFO]: Loading properties
+[16:24:48] [Server thread/INFO]: Default game type: SURVIVAL
+[16:24:48] [Server thread/INFO]: Generating keypair
+[16:24:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:24:49] [Server thread/INFO]: Using default channel type
+[16:24:50] [Server thread/INFO]: Preparing level "world"
+[16:24:50] [Server thread/INFO]: Reloading ResourceManager: Default
+[16:24:51] [Server thread/INFO]: Loaded 6 recipes
+[16:24:52] [Server thread/INFO]: Loaded 811 advancements
+[16:24:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:24:52] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[16:24:55] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[16:24:55] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[16:24:55] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[16:24:55] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[16:24:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[16:24:55] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[16:24:57] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[16:24:57] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[16:24:57] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[16:24:57] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[16:24:58] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[16:24:58] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[16:24:59] [Server-Worker-3/INFO]: Preparing spawn area: 9%
+[16:24:59] [Server-Worker-6/INFO]: Preparing spawn area: 33%
+[16:25:00] [Server-Worker-4/INFO]: Preparing spawn area: 69%
+[16:25:00] [Server-Worker-3/INFO]: Preparing spawn area: 82%
+[16:25:01] [Server-Worker-4/INFO]: Preparing spawn area: 98%
+[16:25:01] [Server thread/INFO]: Time elapsed: 8879 ms
+[16:25:01] [Server thread/INFO]: Done (11.509s)! For help, type "help"
+[16:25:04] [User Authenticator #1/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[16:25:04] [Server thread/INFO]: maxcr1[/127.0.0.1:56159] logged in with entity id 277 at (-332.4427942826913, 68.0, 120.74407854262472)
+[16:25:04] [Server thread/INFO]: maxcr1 joined the game
+[16:27:20] [Server thread/INFO]: maxcr1 was shot by Skeleton
+[16:28:56] [Server thread/INFO]: maxcr1 was shot by Skeleton
+[16:29:56] [Server thread/INFO]: maxcr1 was shot by Skeleton
+[16:31:19] [Server thread/INFO]: maxcr1 was blown up by Creeper
+[16:36:34] [User Authenticator #2/INFO]: UUID of player Donwersa2 is bd0b12f8-d7f0-4ed1-8c45-cc9c8fbb90a2
+[16:36:34] [Server thread/INFO]: Donwersa2[/76.164.49.234:49500] logged in with entity id 10954 at (-233.5, 67.0, 131.5)
+[16:36:34] [Server thread/INFO]: Donwersa2 joined the game
+[16:36:38] [Server thread/INFO]: <maxcr1> hey cutie
+[16:38:54] [Server thread/INFO]: maxcr1 was slain by Enderman
+[16:39:04] [Server thread/INFO]: <maxcr1> rip
+[16:39:18] [Server thread/INFO]: <Donwersa2> this seed is epic
+[16:39:25] [Server thread/INFO]: <maxcr1> i agree
+[16:40:18] [Server thread/WARN]: Fetching addPacket for removed entity
+[16:45:06] [Server thread/INFO]: <maxcr1> I've killed 4 endermen and none of them have dropped eyes
+[16:46:14] [Server thread/INFO]: maxcr1 was slain by Enderman
+[16:48:21] [Server thread/INFO]: <Donwersa2> sorry gotta go
+[16:48:23] [Server thread/INFO]: Donwersa2 lost connection: Disconnected
+[16:48:23] [Server thread/INFO]: Donwersa2 left the game
+[17:03:50] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[17:03:50] [Server thread/INFO]: maxcr1 left the game
+[17:08:44] [User Authenticator #3/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[17:08:44] [Server thread/INFO]: maxcr1[/127.0.0.1:56471] logged in with entity id 36810 at (-517.3000000119209, 8.0, 101.68459738731435)
+[17:08:44] [Server thread/INFO]: maxcr1 joined the game
+[17:13:08] [User Authenticator #4/INFO]: UUID of player aja2000 is 98f76cb4-800d-4cb2-8b15-7d0a03914d70
+[17:13:08] [Server thread/INFO]: aja2000[/65.128.70.233:50308] logged in with entity id 40023 at (-335.6602248919107, 67.0, 161.2401192210375)
+[17:13:08] [Server thread/INFO]: aja2000 joined the game
+[17:13:19] [Server thread/INFO]: <maxcr1> hi
+[17:13:32] [Server thread/INFO]: <aja2000> whats up qanoners
+[17:13:35] [Server thread/INFO]: <maxcr1> lol
+[17:16:19] [Server thread/INFO]: maxcr1 was killed by Witch using magic
+[17:16:29] [Server thread/INFO]: <maxcr1> oh no
+[17:19:22] [Server thread/INFO]: maxcr1 was shot by Skeleton
+[17:19:31] [Server thread/INFO]: <maxcr1> i found my stuff and died again
+[17:19:45] [Server thread/INFO]: <aja2000> epic fail
+[17:19:50] [Server thread/INFO]: <aja2000> who knew this game was so hard
+[17:22:56] [Server thread/INFO]: aja2000 has made the advancement [Acquire Hardware]
+[17:23:51] [Server thread/INFO]: maxcr1 has made the advancement [Diamonds!]
+[17:25:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2379ms or 47 ticks behind
+[17:26:49] [Server thread/INFO]: aja2000 has made the advancement [Diamonds!]
+[17:26:55] [Server thread/INFO]: <maxcr1> that was fast
+[17:27:03] [Server thread/INFO]: <aja2000> desert temple
+[17:28:39] [Server thread/INFO]: maxcr1 was shot by Skeleton
+[17:28:46] [Server thread/INFO]: <maxcr1> jfdfj
+[17:30:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2474ms or 49 ticks behind
+[17:42:27] [Server thread/INFO]: <maxcr1> where you at b
+[17:42:37] [Server thread/INFO]: <aja2000> esploring
+[17:42:43] [Server thread/INFO]: <maxcr1> epic
+[17:42:56] [Server thread/INFO]: <maxcr1> I did a lot of mining and think I have enough stuff to get us off the groun
+[17:43:26] [Server thread/INFO]: <maxcr1> 4 stacks of iron, 8 stacks of coal, 3 diamonds, a stack of gold, a stack of lapis, and 2 stacks of redstone
+[17:43:45] [Server thread/INFO]: <maxcr1> and 30 emerals
+[17:43:46] [Server thread/INFO]: <maxcr1> and 30 emeralds
+[17:43:49] [User Authenticator #5/INFO]: UUID of player Donwersa2 is bd0b12f8-d7f0-4ed1-8c45-cc9c8fbb90a2
+[17:43:49] [Server thread/INFO]: Donwersa2[/76.164.49.234:49598] logged in with entity id 97020 at (-274.06397244221995, 63.0625, 130.31335160631883)
+[17:43:49] [Server thread/INFO]: Donwersa2 joined the game
+[17:43:54] [Server thread/INFO]: <maxcr1> welcome back
+[17:44:37] [Server thread/INFO]: maxcr1 was slain by Zombie
+[17:47:32] [Server thread/INFO]: aja2000 lost connection: Disconnected
+[17:47:32] [Server thread/INFO]: aja2000 left the game
+[17:48:08] [Server thread/INFO]: maxcr1 was shot by Skeleton
+[17:48:29] [Server thread/INFO]: Donwersa2 was shot by Skeleton
+[17:48:47] [Server thread/WARN]: Fetching addPacket for removed entity
+[17:49:40] [User Authenticator #6/INFO]: UUID of player aja2000 is 98f76cb4-800d-4cb2-8b15-7d0a03914d70
+[17:49:40] [Server thread/INFO]: aja2000[/65.128.70.233:50388] logged in with entity id 103544 at (186.95758482175563, 64.0, 331.378520863756)
+[17:49:40] [Server thread/INFO]: aja2000 joined the game
+[17:49:48] [Server thread/INFO]: <Donwersa2> minecraft is hard
+[17:49:51] [Server thread/INFO]: <maxcr1> yeah
+[17:50:14] [Server thread/INFO]: <Donwersa2> oh god just saw a villager get killed ;(
+[17:50:34] [Server thread/INFO]: maxcr1 was slain by Zombie
+[17:53:11] [Server thread/INFO]: <maxcr1> i'm bouta go make a nether portal
+[17:54:16] [Server thread/INFO]: Donwersa2 was shot by Skeleton
+[17:54:27] [Server thread/INFO]: <Donwersa2> oh my god is this on hard or somthing
+[17:54:31] [Server thread/INFO]: <maxcr1> normal
+[17:55:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[17:55:35] [Server thread/INFO]: maxcr1 was shot by Skeleton
+[17:55:40] [Server thread/INFO]: <maxcr1> oh shit
+[17:55:43] [Server thread/INFO]: <maxcr1> s word
+[17:59:15] [Server thread/INFO]: maxcr1 has made the advancement [Ice Bucket Challenge]
+[18:00:10] [Server thread/WARN]: Donwersa2 moved too quickly! -1.7858269482073865,-0.0625,10.08324047632857
+[18:01:32] [Server thread/INFO]: <aja2000> ok what b the coords of spawn
+[18:01:39] [Server thread/INFO]: <maxcr1> uhhh
+[18:01:48] [Server thread/INFO]: <maxcr1> I'll let you know in a minute
+[18:02:57] [Server thread/INFO]: <Donwersa2> are you guys down to sleep tonight?
+[18:03:00] [Server thread/INFO]: <aja2000> no
+[18:03:11] [Server thread/INFO]: <aja2000> ill just leave
+[18:03:18] [Server thread/INFO]: Donwersa2 has made the advancement [Sweet Dreams]
+[18:03:18] [Server thread/INFO]: <maxcr1> i can too
+[18:03:20] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[18:03:20] [Server thread/INFO]: maxcr1 left the game
+[18:03:22] [Server thread/INFO]: aja2000 lost connection: Disconnected
+[18:03:22] [Server thread/INFO]: aja2000 left the game
+[18:03:24] [Server thread/INFO]: <Donwersa2> thanks
+[18:03:27] [User Authenticator #7/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[18:03:27] [Server thread/INFO]: maxcr1[/127.0.0.1:56733] logged in with entity id 139736 at (-403.1188967343588, 10.0, 104.30000001192093)
+[18:03:27] [Server thread/INFO]: maxcr1 joined the game
+[18:03:27] [User Authenticator #8/INFO]: UUID of player aja2000 is 98f76cb4-800d-4cb2-8b15-7d0a03914d70
+[18:03:27] [Server thread/INFO]: aja2000[/65.128.70.233:50420] logged in with entity id 139808 at (1169.669821578948, 71.0, 707.7359669448172)
+[18:03:27] [Server thread/INFO]: aja2000 joined the game
+[18:03:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2562ms or 51 ticks behind
+[18:03:40] [Server thread/INFO]: <aja2000> uhh
+[18:03:44] [Server thread/INFO]: <maxcr1> u h h h h
+[18:03:45] [Server thread/INFO]: <Donwersa2> i was ina bed
+[18:03:58] [Server thread/INFO]: <maxcr1> uh h h h h
+[18:04:33] [Server thread/INFO]: Donwersa2 has made the advancement [Acquire Hardware]
+[18:04:37] [Server thread/INFO]: <aja2000> try again?
+[18:04:41] [Server thread/INFO]: <maxcr1> hold up
+[18:04:42] [Server thread/INFO]: <aja2000> these baddies are getting close
+[18:04:50] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[18:04:50] [Server thread/INFO]: maxcr1 left the game
+[18:04:51] [Server thread/INFO]: aja2000 lost connection: Disconnected
+[18:04:51] [Server thread/INFO]: aja2000 left the game
+[18:04:56] [User Authenticator #9/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[18:04:57] [Server thread/INFO]: maxcr1[/127.0.0.1:56755] logged in with entity id 142544 at (-393.45476186447775, 15.0, 113.30000001192093)
+[18:04:57] [Server thread/INFO]: maxcr1 joined the game
+[18:05:04] [Server thread/INFO]: <maxcr1> nothing?
+[18:05:06] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[18:05:06] [Server thread/INFO]: maxcr1 left the game
+[18:05:08] [User Authenticator #10/INFO]: UUID of player aja2000 is 98f76cb4-800d-4cb2-8b15-7d0a03914d70
+[18:05:08] [Server thread/INFO]: aja2000[/65.128.70.233:50429] logged in with entity id 142670 at (1391.3701614442773, 71.0, 715.3717035032194)
+[18:05:08] [Server thread/INFO]: aja2000 joined the game
+[18:05:15] [User Authenticator #11/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[18:05:15] [Server thread/INFO]: maxcr1[/127.0.0.1:56769] logged in with entity id 143165 at (-391.30000001192093, 14.0, 114.88610029381343)
+[18:05:15] [Server thread/INFO]: maxcr1 joined the game
+[18:05:16] [Server thread/INFO]: <Donwersa2> leave for like 10 seconds
+[18:05:18] [Server thread/INFO]: <maxcr1> ok
+[18:05:18] [Server thread/INFO]: aja2000 lost connection: Disconnected
+[18:05:18] [Server thread/INFO]: aja2000 left the game
+[18:05:20] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[18:05:20] [Server thread/INFO]: maxcr1 left the game
+[18:05:32] [User Authenticator #12/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[18:05:32] [Server thread/INFO]: maxcr1[/127.0.0.1:56778] logged in with entity id 143355 at (-391.30000001192093, 14.0, 114.88610029381343)
+[18:05:32] [Server thread/INFO]: maxcr1 joined the game
+[18:05:38] [Server thread/INFO]: <maxcr1> ?
+[18:05:40] [Server thread/INFO]: <Donwersa2> what the hek
+[18:05:50] [Server thread/INFO]: [maxcr1: Set the time to 1000]
+[18:05:52] [Server thread/INFO]: <maxcr1> whatever
+[18:05:54] [Server thread/INFO]: <maxcr1> We tried
+[18:05:59] [User Authenticator #13/INFO]: UUID of player aja2000 is 98f76cb4-800d-4cb2-8b15-7d0a03914d70
+[18:05:59] [Server thread/INFO]: aja2000[/65.128.70.233:50447] logged in with entity id 143630 at (1391.3703211613583, 71.0, 715.6999999880791)
+[18:05:59] [Server thread/INFO]: aja2000 joined the game
+[18:07:20] [Server thread/INFO]: <aja2000> ok whats spawn
+[18:07:27] [Server thread/INFO]: <maxcr1> -329 66
+[18:07:41] [Server thread/INFO]: <maxcr1> -329 66 119
+[18:08:43] [Server thread/INFO]: <maxcr1> its netha time bois
+[18:08:55] [Server thread/INFO]: maxcr1 has made the advancement [We Need to Go Deeper]
+[18:08:55] [Server thread/WARN]: aja2000 moved too quickly! -9.85615521129239,1.7531999805212024,-0.9685338716832348
+[18:08:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4748ms or 94 ticks behind
+[18:09:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[18:09:24] [Server thread/INFO]: <maxcr1> ive gotta eat
+[18:09:25] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[18:09:25] [Server thread/INFO]: maxcr1 left the game
+[18:12:08] [Server thread/INFO]: <aja2000> me too
+[18:12:10] [Server thread/INFO]: aja2000 lost connection: Disconnected
+[18:12:10] [Server thread/INFO]: aja2000 left the game
+[18:14:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2104ms or 42 ticks behind
+[18:20:19] [Server thread/INFO]: Donwersa2 has made the advancement [Isn't It Iron Pick]
+[18:20:54] [Server thread/INFO]: Donwersa2 has made the advancement [Suit Up]
+[18:23:47] [Server thread/WARN]: Donwersa2 moved too quickly! 9.377821128142784,-1.0,3.6824544942341504
+[18:26:04] [User Authenticator #14/INFO]: UUID of player aja2000 is 98f76cb4-800d-4cb2-8b15-7d0a03914d70
+[18:26:04] [Server thread/INFO]: aja2000[/65.128.70.233:50492] logged in with entity id 172637 at (1340.3255258917993, 63.0, 654.3000000119209)
+[18:26:04] [Server thread/INFO]: aja2000 joined the game
+[18:28:09] [Server thread/INFO]: aja2000 fell from a high place
+[18:28:51] [Server thread/INFO]: <Donwersa2> abandoned mineshaft
+[18:29:19] [User Authenticator #15/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[18:29:20] [Server thread/INFO]: maxcr1[/127.0.0.1:56923] logged in with entity id 178848 at (-327.69999998807907, 66.0, 120.09484746610774)
+[18:29:20] [Server thread/INFO]: maxcr1 joined the game
+[18:29:24] [Server thread/INFO]: <maxcr1> join discord
+[18:29:45] [Server thread/INFO]: <Donwersa2> hol up
+[18:29:46] [Server thread/INFO]: Donwersa2 lost connection: Disconnected
+[18:29:46] [Server thread/INFO]: Donwersa2 left the game
+[18:30:42] [User Authenticator #16/INFO]: UUID of player Donwersa2 is bd0b12f8-d7f0-4ed1-8c45-cc9c8fbb90a2
+[18:30:42] [Server thread/INFO]: Donwersa2[/76.164.49.234:50068] logged in with entity id 183364 at (-220.08733559989062, 29.0, 231.50258591937845)
+[18:30:42] [Server thread/INFO]: Donwersa2 joined the game
+[18:33:17] [Server thread/WARN]: aja2000 moved too quickly! 6.096817515503915,-7.994784233604683,0.04394584043330951
+[18:33:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2490ms or 49 ticks behind
+[18:33:39] [Server thread/INFO]: <maxcr1> ok I have no idea how this happened
+[18:33:54] [Server thread/INFO]: <maxcr1> but somehow 2 villagers and a zombie got through my nether portal
+[18:34:28] [Server thread/INFO]: <aja2000> can we sleep
+[18:34:39] [Server thread/INFO]: <aja2000> its an emergency
+[18:34:42] [Server thread/INFO]: [maxcr1: Set the time to 1000]
+[18:34:47] [Server thread/INFO]: <aja2000> ??
+[18:34:49] [Server thread/INFO]: <maxcr1> sleeping never works
+[18:34:56] [Server thread/INFO]: <maxcr1> I'll just do it instead
+[18:35:00] [Server thread/INFO]: <maxcr1> Its the same thing
+[18:35:25] [Server thread/WARN]: aja2000 moved too quickly! -0.6862014661064677,-1.0,10.107612199211928
+[18:35:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3061ms or 61 ticks behind
+[18:35:57] [Server thread/INFO]: <maxcr1> something is broken with the server sleeping mechanic
+[18:36:12] [Server thread/INFO]: <maxcr1> so for now we can do this
+[18:37:30] [Server thread/INFO]: maxcr1 has made the advancement [Take Aim]
+[18:39:20] [Server thread/INFO]: <aja2000> ok stuff retrived
+[18:39:25] [Server thread/INFO]: <aja2000> 1500 locks away
+[18:39:53] [Server thread/INFO]: <maxcr1> nether fortress spotted
+[18:40:27] [Server thread/INFO]: <Donwersa2> -291 21 is mineshaft
+[18:40:42] [Server thread/INFO]: maxcr1 has made the advancement [A Terrible Fortress]
+[18:40:46] [Server thread/INFO]: <maxcr1> yeet
+[18:41:25] [Server thread/INFO]: <maxcr1> diamond horse armor
+[18:42:11] [Server thread/INFO]: <maxcr1> also I think these fortresses use the same generation mehcnaics as mineshafts
+[18:42:25] [Server thread/INFO]: <maxcr1> entrance to fortress
+[18:42:33] [Server thread/INFO]: <maxcr1> 218 63 -135
+[18:42:36] [Server thread/INFO]: aja2000 has made the advancement [Best Friends Forever]
+[18:43:33] [Server thread/INFO]: <aja2000> just got a super high jumping horse
+[18:43:52] [Server thread/INFO]: <maxcr1> update: blazes are really really hard
+[18:44:45] [Server thread/INFO]: <maxcr1> also this blaze spawner is adding difficulty to the situation
+[18:45:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2829ms or 56 ticks behind
+[18:45:52] [Server thread/INFO]: maxcr1 has made the advancement [Into Fire]
+[18:46:35] [Server thread/INFO]: maxcr1 was burnt to a crisp whilst fighting Blaze
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 1.4213900276479308,1.0,10.165142419609992
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 1.408782062964292,1.0,10.509906375547644
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 1.399529318707664,1.0,10.854759010896487
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 1.3933327733093392,1.0,11.199673848436305
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 1.3887715389860205,1.0,11.544621969128457
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 1.3875259525598267,1.0,11.88958789897174
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 1.3862803661334056,1.0,12.234563358136711
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 1.3850347797072118,1.0,12.579543916251623
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 1.3837891932807906,1.0,12.92452720271308
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 1.3825436068545969,0.9231679985046384,13.26951194905837
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 1.3824190482118865,0.7725465413369932,13.470145515372451
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 1.3822944895694036,0.5510576895623984,13.665109641766321
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 1.3823375472575208,0.26150779068264285,13.85501818788498
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 1.3826327836723067,0.0,14.04041550769739
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 1.3881062049556476,0.0,14.366055333696295
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 1.3939945653528412,0.0,14.700586499651536
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 1.4030336699975123,0.0,15.039875244343193
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 1.41375867506963,0.0,15.381709674560852
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 1.4253857718474592,0.0,15.724906250348113
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 1.4374955599112127,0.0,16.068831683071267
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 1.4523830481764435,1.0,16.41303471168021
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 1.4729458280698964,1.0,16.757111378268746
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 1.496545343360367,1.0,17.10112043105937
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 1.5238535414744092,1.0,17.444915473152605
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 1.5502190599629557,1.0,17.788838041540885
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 1.5760801693788835,1.0,18.132828846706843
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 1.6016713795568194,1.0,18.47685616401236
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 1.6271181720335335,1.0,18.82090301823564
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 1.6524876894779936,1.0,19.164960326274013
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 1.6778158585932488,1.0,19.509023227940588
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 1.7031219030420743,1.0,19.853089122645997
+[18:47:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3044ms or 60 ticks behind
+[18:47:02] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 0.2944392335068642,0.0,10.37677681948071
+[18:47:58] [Server thread/INFO]: <aja2000> can horses go in boars
+[18:48:01] [Server thread/INFO]: <aja2000> bpats
+[18:49:02] [Server thread/WARN]: Horse moved wrongly!
+[18:49:02] [Server thread/WARN]: Horse moved wrongly!
+[18:50:02] [Server thread/INFO]: maxcr1 hit the ground too hard
+[18:50:08] [Server thread/INFO]: <maxcr1> splendid
+[18:50:52] [Server thread/INFO]: maxcr1 was slain by Husk
+[18:51:53] [Server thread/INFO]: <Donwersa2> its a battlefeild out here gosh dang
+[18:52:03] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 7.181938686703461,0.0,-7.267959105339287
+[18:52:03] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 7.471855214202833,0.0,-7.454940756185351
+[18:52:03] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 7.760714323966795,0.0,-7.643551541116494
+[18:52:03] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 8.046405477856979,0.0,-7.836843255911617
+[18:52:03] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 8.328442445330438,0.0,-8.035359923248734
+[18:52:03] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 8.604687489194248,0.0,-8.241675017257649
+[18:52:03] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 8.871583460707825,0.0,-8.459523084917691
+[18:52:03] [Server thread/WARN]: Donwersa2 moved too quickly! 9.325881118252,-3.0,-3.076825133634543
+[18:52:03] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 9.127691527909292,-0.07683200149536162,-8.689625825089252
+[18:52:03] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 9.275969976678653,-0.2274534586630068,-8.824191589912289
+[18:52:03] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 9.419444829355825,-0.4489423104376016,-8.955639718750945
+[18:52:03] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 9.558665416521762,-0.7384922093173572,-9.084278405555551
+[18:52:03] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 9.69450239568232,-1.0,-9.209991331568062
+[18:52:03] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 9.937495896422888,-1.0,-9.426401837970388
+[18:52:03] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 10.193375607882217,-1.0,-9.641629294998438
+[18:52:03] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 10.461180589814148,-1.0,-9.84950219432858
+[18:52:03] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 10.73913476416601,-1.0,-10.047876233402349
+[18:52:03] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 11.025185030332977,-1.0,-10.23690389131275
+[18:52:03] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 11.316002483170678,-1.0,-10.420205229982912
+[18:52:03] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 11.609370762548224,-1.0,-10.600442529398151
+[18:52:04] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 11.904103938349408,-1.0,-10.779040322498531
+[18:52:04] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 12.199567443013848,-1.0,-10.956760848457861
+[18:52:04] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 12.4954217320917,-1.0,-11.134011966260914
+[18:52:04] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 12.79148512211782,-1.0,-11.311011913118591
+[18:52:04] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 13.08766039789225,-1.0,-11.487877463411223
+[18:52:04] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 13.383895541499896,-1.0,-11.664671100781334
+[18:52:04] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 13.68206188092563,-1.0,-11.838154700739551
+[18:52:04] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 13.985382291576116,-1.0,-12.002079875978325
+[18:52:04] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 14.295316314535057,-1.0,-12.152492639171442
+[18:52:04] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 14.612009148901052,-1.0,-12.287474329162023
+[18:52:04] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 14.932464245453275,-1.0,-12.413794006634589
+[18:52:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2927ms or 58 ticks behind
+[18:52:07] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 9.523697104002622,0.7384922093173572,-3.580070505892081
+[18:52:07] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 9.854985494656376,0.6616602078219955,-3.672453876456075
+[18:52:07] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 10.047487609339441,0.5110387506543503,-3.7268987166175975
+[18:52:07] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 10.234397302183652,0.2895498988797556,-3.780464966971067
+[18:52:07] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 10.41627979786199,0.0,-3.8333673175459353
+[18:52:07] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 10.593262124937382,-0.26150779068264285,-3.8867773646322803
+[18:52:07] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 10.896683932915948,-0.26150779068264285,-4.001718915719948
+[18:52:07] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 11.204627856930983,-0.26150779068264285,-4.130532317743246
+[18:52:07] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 11.51499147507593,-0.26150779068264285,-4.2667682706271535
+[18:52:07] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 11.826649823306298,-0.26150779068264285,-4.406975882486904
+[18:52:07] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 12.139000955791289,-0.26150779068264285,-4.549308649878185
+[18:53:57] [Server thread/INFO]: maxcr1 was burnt to a crisp whilst fighting Blaze
+[18:54:01] [Server thread/INFO]: <maxcr1> ok so basically
+[18:54:08] [Server thread/INFO]: <maxcr1> the nether is impossible on normal
+[18:59:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2919ms or 58 ticks behind
+[19:00:39] [Server thread/WARN]: maxcr1 moved too quickly! -10.130909484637154,-0.9245559348105132,0.09813998648350264
+[19:00:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2414ms or 48 ticks behind
+[19:00:51] [Server thread/INFO]: <Donwersa2> ok not gonna lie kelp is kinda fire as a food source
+[19:01:46] [Server thread/INFO]: <aja2000> just pushed a horse across the ocean
+[19:02:08] [Server thread/INFO]: <maxcr1> update: the nether is going extremely poor
+[19:05:41] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 7.504996659445169,1.0,-6.60462255142545
+[19:05:41] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 7.769019511744318,1.0,-6.826691777106589
+[19:05:41] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 8.033042367170765,1.0,-7.0487609992615035
+[19:05:41] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 8.297065224270568,1.0,-7.270830219529557
+[19:05:41] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 8.561088082265712,2.0,-7.492899438787958
+[19:05:41] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 8.82511094073999,2.0,-7.714968657506233
+[19:05:41] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 9.08913379947063,2.0,-7.9370378759354026
+[19:05:41] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 9.353156658338435,2.0,-8.159107094209958
+[19:05:41] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 9.617179517279624,2.0,-8.381176312401749
+[19:05:41] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 9.881202376260092,2.0,-8.603245530549202
+[19:05:41] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 10.146033112754708,2.0,-8.824346553822124
+[19:05:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[19:06:24] [Server thread/INFO]: aja2000 lost connection: Disconnected
+[19:06:24] [Server thread/INFO]: aja2000 left the game
+[19:06:48] [Server thread/INFO]: <maxcr1> the nether was a mistake
+[19:07:27] [Server thread/INFO]: maxcr1 was burnt to a crisp whilst fighting Blaze
+[19:07:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2941ms or 58 ticks behind
+[19:08:09] [User Authenticator #17/INFO]: UUID of player aja2000 is 98f76cb4-800d-4cb2-8b15-7d0a03914d70
+[19:08:09] [Server thread/INFO]: aja2000[/65.128.70.233:50570] logged in with entity id 251752 at (466.3163524279029, 66.45086869540799, 637.8142959004444)
+[19:08:09] [Server thread/INFO]: aja2000 joined the game
+[19:08:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[19:08:15] [Server thread/INFO]: Donwersa2 has made the advancement [Take Aim]
+[19:09:12] [Server thread/INFO]: <maxcr1> i will bring a blaze rod home if it literally kills me
+[19:10:47] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 9.577057587043385,-1.0,3.6293641986645753
+[19:10:47] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! 9.914444366693147,-1.0,3.694242045153203
+[19:14:26] [Server thread/INFO]: maxcr1 was slain by Blaze
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -2.9630461163243353,4.0,9.129751890045641
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -3.064522587003921,4.0,9.459487084853643
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -3.1659987739816415,4.0,9.789222397125572
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -3.267063107412696,4.0,10.11908386358718
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -3.367907066222415,4.0,10.449012832640443
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -3.468633106966081,4.0,10.778977920984643
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -3.5692960521035957,5.0,11.108962336041282
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -3.669925236040285,5.0,11.438957092436416
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -3.7705363550315383,5.0,11.768957382275593
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -3.871137807830621,5.0,12.098960632950353
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -3.9717340884430428,5.0,12.428965467909203
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -4.072327601521465,5.0,12.758971150586879
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -4.172919633747654,5.0,13.088977286861999
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -4.273510873599321,5.0,13.418983665848065
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -4.374101689467182,5.0,13.748990174703922
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -4.4746922784697745,5.0,14.078996753050513
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -4.575282746081257,5.0,14.40900336858021
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -4.675873148738788,5.0,14.739010004005847
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -4.776463516640774,5.0,15.069016650077403
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -4.877053865945754,5.0,15.39902330184538
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -4.977644205299839,5.0,15.729029956661398
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -5.078234539329401,5.0,16.05903661310836
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -5.178824870509914,5.0,16.38904327042801
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -5.2794152001659995,5.0,16.719049928214623
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -5.380005529006326,5.0,17.04905658625109
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -5.480595857410208,5.0,17.379063244421253
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -5.5811861855805205,5.0,17.709069902662954
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -5.681776513625891,5.0,18.03907656094293
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -5.782366841604414,5.0,18.369083219243393
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -5.882957169547126,5.0,18.699089877554812
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -5.983547497470681,5.0,19.029096535872092
+[19:14:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2912ms or 58 ticks behind
+[19:14:44] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -3.2225687099437437,2.0,10.559086279428989
+[19:15:06] [Server thread/INFO]: <aja2000> either this village has a nether portal or I finally made it home
+[19:15:10] [Server thread/INFO]: <maxcr1> you did
+[19:15:18] [Server thread/INFO]: <maxcr1> dont come to the nether
+[19:15:35] [Server thread/INFO]: <aja2000> whers the cow I trapped
+[19:15:44] [Server thread/INFO]: <aja2000> poopy I cant find him
+[19:16:09] [Server thread/INFO]: <Donwersa2> ok i think next prodject should be a village enchant table
+[19:16:24] [Server thread/INFO]: <aja2000> ok I have 11 diamond
+[19:16:31] [Server thread/INFO]: <Donwersa2> i have uhhh
+[19:16:31] [Server thread/INFO]: <maxcr1> We have 7 extra obsidian in the barrells
+[19:16:36] [Server thread/INFO]: <Donwersa2> 0
+[19:18:35] [Server thread/INFO]: <Donwersa2> there is like one living villager here now
+[19:18:54] [Server thread/INFO]: <maxcr1> EVERYTHINg is on fire
+[19:18:59] [Server thread/INFO]: <maxcr1> and I am in a stone hut
+[19:19:29] [Server thread/INFO]: maxcr1 burned to death
+[19:19:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2934ms or 58 ticks behind
+[19:20:55] [Server thread/INFO]: <aja2000> yeah this village is toast
+[19:21:06] [Server thread/INFO]: <aja2000> sorry to say but living near a bvillage ruins them
+[19:22:19] [Server thread/INFO]: <maxcr1> stuff recovered for the 90th time
+[19:22:56] [Server thread/INFO]: maxcr1 was burnt to a crisp whilst fighting Blaze
+[19:23:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2980ms or 59 ticks behind
+[19:24:32] [Server thread/INFO]: <aja2000> travelling trader
+[19:24:47] [Server thread/INFO]: aja2000 has made the advancement [What a Deal!]
+[19:24:47] [Server thread/INFO]: <Donwersa2> dude
+[19:25:19] [Server thread/INFO]: maxcr1 was shot by Skeleton
+[19:25:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2938ms or 58 ticks behind
+[19:26:19] [Server thread/INFO]: aja2000 lost connection: Disconnected
+[19:26:19] [Server thread/INFO]: aja2000 left the game
+[19:27:30] [User Authenticator #18/INFO]: UUID of player aja2000 is 98f76cb4-800d-4cb2-8b15-7d0a03914d70
+[19:27:30] [Server thread/INFO]: aja2000[/65.128.70.233:50645] logged in with entity id 283862 at (-336.323740692632, 64.0, 39.553547987733026)
+[19:27:30] [Server thread/INFO]: aja2000 joined the game
+[19:27:36] [Server thread/INFO]: <maxcr1> discord?
+[19:27:54] [Server thread/INFO]: <Donwersa2> id have to find my headphones
+[19:28:30] [Server thread/INFO]: <Donwersa2> where is he?
+[19:28:37] [Server thread/INFO]: <aja2000> the guy will reapear in day
+[19:29:36] [Server thread/INFO]: maxcr1 was burnt to a crisp whilst fighting Blaze
+[19:29:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2944ms or 58 ticks behind
+[19:30:14] [Server thread/INFO]: [maxcr1: Set the time to 1000]
+[19:30:18] [Server thread/WARN]: maxcr1 moved wrongly!
+[19:31:11] [Server thread/INFO]: <Donwersa2> what the frik these guys are crazy
+[19:31:15] [Server thread/WARN]: maxcr1 moved wrongly!
+[19:31:41] [Server thread/INFO]: <aja2000> he had bad stuff
+[19:33:09] [Server thread/WARN]: maxcr1 moved wrongly!
+[19:33:38] [Server thread/WARN]: maxcr1 moved wrongly!
+[19:35:34] [Server thread/INFO]: aja2000 has made the advancement [We Need to Go Deeper]
+[19:35:53] [Server thread/INFO]: maxcr1 was slain by Zombie Pigman
+[19:37:34] [Server thread/INFO]: aja2000 has made the advancement [A Terrible Fortress]
+[19:38:35] [Server thread/INFO]: maxcr1 burned to death
+[19:39:20] [Server thread/INFO]: <Donwersa2> how do you get smooth stone
+[19:42:02] [Server thread/INFO]: aja2000 was slain by Wither Skeleton
+[19:43:27] [Server thread/INFO]: [maxcr1: Set the time to 1000]
+[19:43:44] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[19:43:44] [Server thread/INFO]: maxcr1 left the game
+[19:44:01] [Server thread/INFO]: <Donwersa2> i think im bout to head out
+[19:44:03] [Server thread/INFO]: Donwersa2 lost connection: Disconnected
+[19:44:03] [Server thread/INFO]: Donwersa2 left the game
+[19:48:06] [User Authenticator #19/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[19:48:06] [Server thread/INFO]: maxcr1[/127.0.0.1:57329] logged in with entity id 306935 at (-309.90036872467346, 54.0, 109.69999998807907)
+[19:48:06] [Server thread/INFO]: maxcr1 joined the game
+[19:48:46] [Server thread/INFO]: aja2000 has made the advancement [Isn't It Iron Pick]
+[19:54:01] [Server thread/INFO]: aja2000 lost connection: Disconnected
+[19:54:01] [Server thread/INFO]: aja2000 left the game
+[19:55:12] [Server thread/INFO]: maxcr1 was slain by Zombie
+[19:57:15] [User Authenticator #20/INFO]: UUID of player aja2000 is 98f76cb4-800d-4cb2-8b15-7d0a03914d70
+[19:57:15] [Server thread/INFO]: aja2000[/65.128.70.233:50764] logged in with entity id 315406 at (-371.7430317809663, 22.0, 21.300000011920933)
+[19:57:15] [Server thread/INFO]: aja2000 joined the game
+[20:03:45] [Server thread/INFO]: maxcr1 blew up
+[20:03:49] [Server thread/WARN]: Fetching addPacket for removed entity
+[20:04:10] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[20:04:10] [Server thread/INFO]: maxcr1 left the game
+[20:10:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2636ms or 52 ticks behind
+[20:12:22] [Server thread/INFO]: aja2000 lost connection: Disconnected
+[20:12:22] [Server thread/INFO]: aja2000 left the game
+[20:41:13] [User Authenticator #21/INFO]: UUID of player aja2000 is 98f76cb4-800d-4cb2-8b15-7d0a03914d70
+[20:41:13] [Server thread/INFO]: aja2000[/65.128.70.233:50914] logged in with entity id 336382 at (-331.0776356517652, 63.0, 25.319626792873972)
+[20:41:13] [Server thread/INFO]: aja2000 joined the game
+[20:42:11] [Server thread/INFO]: aja2000 has made the advancement [Ice Bucket Challenge]
+[20:42:59] [Server thread/INFO]: aja2000 has made the advancement [Enchanter]
+[20:54:04] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -10.088083273618338,0.0,2.144657328854109
+[20:54:04] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -10.419767739863403,0.0,2.2395689278951707
+[20:54:04] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -10.75145211149129,0.0,2.334480908537003
+[20:54:04] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -11.083136432491358,0.0,2.4293930933658032
+[20:54:04] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -11.414820726401501,0.0,2.5243053874509798
+[20:54:04] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -11.746505005816402,0.0,2.6192177399970618
+[20:54:04] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -12.078189277475133,0.0,2.714130123824411
+[20:54:04] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -12.409873544983725,0.0,2.8090425243897386
+[20:54:04] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -12.741557810271672,0.0,2.90395493391123
+[20:54:04] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -13.073242074371365,0.0,2.9988673482249837
+[20:54:04] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -13.404926337835263,0.0,3.0937797651029797
+[20:54:04] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -13.736610600958954,0.0,3.188692183353048
+[20:54:04] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -14.068294863900633,0.0,3.2836046023372916
+[20:54:04] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -14.399979126744881,0.0,3.378517021714373
+[20:54:04] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -14.731663389537005,0.0,3.473429441301654
+[20:54:04] [Server thread/WARN]: Horse (vehicle of aja2000) moved too quickly! -15.064759915429931,0.0,3.5630688644987742
+[20:54:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2198ms or 43 ticks behind
+[20:55:03] [Server thread/INFO]: aja2000 has made the advancement [The Parrots and the Bats]
+[21:19:36] [Server thread/INFO]: aja2000 was shot by Skeleton
+[21:31:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2973ms or 59 ticks behind
+[21:59:50] [Server thread/INFO]: aja2000 was shot by Skeleton
+[22:04:03] [User Authenticator #22/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[22:04:03] [Server thread/INFO]: maxcr1[/127.0.0.1:58118] logged in with entity id 417217 at (-364.1404565871885, 72.0, 134.04666209068387)
+[22:04:03] [Server thread/INFO]: maxcr1 joined the game
+[22:04:08] [Server thread/INFO]: <maxcr1> you alright?
+[22:04:12] [Server thread/INFO]: <aja2000> yes
+[22:04:20] [Server thread/INFO]: <aja2000> skeletons are just so hard
+[22:04:26] [Server thread/INFO]: <maxcr1> get a sheild dude
+[22:04:37] [Server thread/INFO]: <maxcr1> they made them good for a reason
+[22:07:57] [Server thread/INFO]: <aja2000> no
+[22:08:14] [Server thread/INFO]: <aja2000> yeah
+[22:08:28] [Server thread/INFO]: <aja2000> I found some diamonds but I am waiting to get fortune
+[22:08:45] [Server thread/INFO]: <aja2000> why would I need lapis
+[22:08:57] [Server thread/INFO]: <aja2000> I already have a bunch
+[22:09:38] [User Authenticator #23/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[22:09:38] [Server thread/INFO]: Toasty_boii[/65.110.255.177:57831] logged in with entity id 425637 at (-336.3174611367132, 67.0, 120.13999574340139)
+[22:09:38] [Server thread/INFO]: Toasty_boii joined the game
+[22:10:33] [Server thread/INFO]: <aja2000> u mean the car show
+[22:13:40] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[22:13:40] [Server thread/INFO]: Toasty_boii left the game
+[22:14:45] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[22:14:45] [Server thread/INFO]: maxcr1 left the game
+[22:17:45] [Server thread/INFO]: aja2000 lost connection: Disconnected
+[22:17:45] [Server thread/INFO]: aja2000 left the game
+[22:28:18] [User Authenticator #24/INFO]: UUID of player aja2000 is 98f76cb4-800d-4cb2-8b15-7d0a03914d70
+[22:28:18] [Server thread/INFO]: aja2000[/65.128.70.233:51241] logged in with entity id 435252 at (-329.08798981914066, 63.0, 8.645116586718647)
+[22:28:18] [Server thread/INFO]: aja2000 joined the game
+[22:32:13] [User Authenticator #25/INFO]: UUID of player blazingalchemist is e326b185-d5de-4b69-a8a4-2fac29e5f71d
+[22:32:13] [Server thread/INFO]: blazingalchemist[/70.97.238.185:59505] logged in with entity id 439607 at (-308.69999998807907, 64.0, 160.29999997466803)
+[22:32:13] [Server thread/INFO]: blazingalchemist joined the game
+[22:33:48] [Server thread/INFO]: blazingalchemist has made the advancement [Stone Age]
+[22:34:09] [Server thread/INFO]: blazingalchemist has made the advancement [Getting an Upgrade]
+[22:35:32] [Server thread/INFO]: blazingalchemist has made the advancement [Monster Hunter]
+[22:36:12] [Server thread/INFO]: aja2000 was slain by Husk
+[22:36:32] [User Authenticator #26/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[22:36:32] [Server thread/INFO]: maxcr1[/127.0.0.1:59638] logged in with entity id 443633 at (-333.30000001192093, 66.0, 120.69999998807907)
+[22:36:32] [Server thread/INFO]: maxcr1 joined the game
+[22:47:48] [Server thread/INFO]: <blazingalchemist> sleep
+[22:51:39] [Server thread/INFO]: maxcr1 was shot by Skeleton
+[22:52:33] [Server thread/INFO]: blazingalchemist lost connection: Disconnected
+[22:52:33] [Server thread/INFO]: blazingalchemist left the game
+[22:58:07] [Server thread/INFO]: maxcr1 was shot by Skeleton
+[23:00:06] [Server thread/INFO]: maxcr1 was slain by Zombie
+[23:01:41] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[23:01:41] [Server thread/INFO]: maxcr1 left the game
+[23:02:34] [User Authenticator #27/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[23:02:34] [Server thread/INFO]: maxcr1[/127.0.0.1:59921] logged in with entity id 496197 at (-515.4784930005127, 21.0, 100.81094395691115)
+[23:02:34] [Server thread/INFO]: maxcr1 joined the game
+[23:03:30] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[23:03:30] [Server thread/INFO]: maxcr1 left the game
+[23:04:44] [User Authenticator #28/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[23:04:44] [Server thread/INFO]: maxcr1[/127.0.0.1:60014] logged in with entity id 498587 at (-533.4457783122217, 24.0, 108.69999998807907)
+[23:04:44] [Server thread/INFO]: maxcr1 joined the game
+[23:06:01] [Server thread/INFO]: maxcr1 was blown up by Creeper
+[23:08:24] [Server thread/INFO]: maxcr1 was shot by Skeleton
+[23:08:42] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[23:08:42] [Server thread/INFO]: maxcr1 left the game
+[23:15:02] [Server thread/INFO]: aja2000 lost connection: Kicked by an operator
+[23:15:02] [Server thread/INFO]: aja2000 left the game
+[23:15:02] [Server thread/INFO]: Kicked aja2000: Kicked by an operator
+[23:15:02] [Server thread/WARN]: handleDisconnection() called twice

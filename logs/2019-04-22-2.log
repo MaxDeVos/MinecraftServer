@@ -1,0 +1,180 @@
+[18:41:17] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:41:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:41:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:41:17] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:41:17] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:41:18] [Server thread/INFO]: Starting minecraft server version 1.14 Pre-Release 5
+[18:41:18] [Server thread/INFO]: Loading properties
+[18:41:18] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:279) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:290) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:351) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:185) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:326) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:392) ~[?:?]
+	at ug$2.run(SourceFile:109) [server.jar:?]
+[18:41:18] [Server thread/INFO]: Default game type: SURVIVAL
+[18:41:18] [Server thread/INFO]: Generating keypair
+[18:41:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:41:18] [Server thread/INFO]: Using default channel type
+[18:41:19] [Server thread/INFO]: Preparing level "world"
+[18:41:20] [Server thread/INFO]: Reloading ResourceManager: Default
+[18:41:22] [Server thread/INFO]: Loaded 6 recipes
+[18:41:23] [Server thread/INFO]: Loaded 811 advancements
+[18:41:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:41:23] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[18:41:24] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[18:41:25] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[18:41:25] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[18:41:25] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[18:41:26] [Server-Worker-5/INFO]: Preparing spawn area: 1%
+[18:41:26] [Server-Worker-4/INFO]: Preparing spawn area: 4%
+[18:41:27] [Server-Worker-5/INFO]: Preparing spawn area: 4%
+[18:41:27] [Server-Worker-7/INFO]: Preparing spawn area: 6%
+[18:41:28] [Server-Worker-6/INFO]: Preparing spawn area: 6%
+[18:41:28] [Server-Worker-3/INFO]: Preparing spawn area: 6%
+[18:41:29] [Server-Worker-5/INFO]: Preparing spawn area: 16%
+[18:41:29] [Server-Worker-3/INFO]: Preparing spawn area: 35%
+[18:41:30] [Server-Worker-4/INFO]: Preparing spawn area: 81%
+[18:41:30] [Server thread/INFO]: Time elapsed: 6998 ms
+[18:41:30] [Server thread/INFO]: Done (10.789s)! For help, type "help"
+[18:41:46] [User Authenticator #1/INFO]: UUID of player aja2000 is 98f76cb4-800d-4cb2-8b15-7d0a03914d70
+[18:41:46] [Server thread/INFO]: aja2000[/65.128.70.57:50964] logged in with entity id 161 at (-323.02955103167847, 64.0, 61.518109633596154)
+[18:41:46] [Server thread/INFO]: aja2000 joined the game
+[18:41:52] [User Authenticator #2/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[18:41:52] [Server thread/INFO]: maxcr1[/127.0.0.1:63791] logged in with entity id 1163 at (-329.06267618575754, 64.0, 135.027146207914)
+[18:41:52] [Server thread/INFO]: maxcr1 joined the game
+[18:42:04] [Server thread/INFO]: [maxcr1: Set the weather to clear]
+[18:43:51] [Server thread/INFO]: [maxcr1: Gave 1 [Dark Oak Log] to maxcr1]
+[18:44:02] [Server thread/INFO]: [maxcr1: Gave 1 [Dark Oak Log] to maxcr1]
+[18:44:41] [Server thread/INFO]: [maxcr1: Gave 12 [Dark Oak Log] to maxcr1]
+[18:47:09] [Server thread/INFO]: [maxcr1: Set the weather to clear]
+[18:49:12] [Server thread/INFO]: [maxcr1: Gave 256 [Dark Oak Log] to maxcr1]
+[18:51:43] [Server thread/INFO]: [maxcr1: Set the time to 1000]
+[18:52:04] [User Authenticator #3/INFO]: UUID of player ClockworkGold is 99a0df9c-9246-45b9-9a60-d7c5888f7704
+[18:52:04] [Server thread/INFO]: ClockworkGold[/98.166.107.185:52884] logged in with entity id 13721 at (33.339986119503315, 33.0, -136.21589766149225)
+[18:52:04] [Server thread/INFO]: ClockworkGold joined the game
+[18:52:32] [User Authenticator #4/INFO]: UUID of player LoeJins7777777 is a2866b7e-2c5e-495f-b42e-517b6a066d8e
+[18:52:32] [Server thread/INFO]: LoeJins7777777[/129.186.252.215:2846] logged in with entity id 14363 at (-319.83477586807686, 64.0, 57.350624635040035)
+[18:52:32] [Server thread/INFO]: LoeJins7777777 joined the game
+[18:55:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3390ms or 67 ticks behind
+[18:56:36] [Server thread/WARN]: LoeJins7777777 moved too quickly! -4.008558316939116,-2.0,-9.06601268218948
+[18:56:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2662ms or 53 ticks behind
+[18:56:59] [Server thread/INFO]: maxcr1 hit the ground too hard
+[19:00:11] [Server thread/INFO]: aja2000 fell from a high place
+[19:05:02] [Server thread/WARN]: Fetching addPacket for removed entity
+[19:09:02] [Server thread/INFO]: [maxcr1: Set the time to 1000]
+[19:10:06] [Server thread/INFO]: ClockworkGold has made the advancement [Not Today, Thank You]
+[19:11:45] [Server thread/INFO]: LoeJins7777777 has made the advancement [The Parrots and the Bats]
+[19:12:48] [Server thread/INFO]: [maxcr1: Gave 256 [Dark Oak Log] to maxcr1]
+[19:12:51] [User Authenticator #5/INFO]: UUID of player PizzaScripters is e2fee0bb-bf85-4615-9cf7-4985b7dff842
+[19:12:52] [Server thread/INFO]: PizzaScripters[/173.28.9.221:57592] logged in with entity id 56860 at (-235.5, 68.0, 125.5)
+[19:12:52] [Server thread/INFO]: PizzaScripters joined the game
+[19:13:02] [Server thread/WARN]: PizzaScripters moved too quickly! -6.013879751011615,1.1661092609382138,8.157284628568334
+[19:13:37] [Server thread/WARN]: PizzaScripters moved too quickly! 2.1517888749719987,0.0,-10.014481166091315
+[19:13:45] [Server thread/WARN]: aja2000 moved too quickly! -1.4785440874325104,-0.7531999805212024,-10.11433449299264
+[19:13:48] [Server thread/INFO]: <ClockworkGold> 39 29 -103
+[19:14:26] [Server thread/WARN]: PizzaScripters moved too quickly! -10.01639641540433,-0.24918707874468282,1.5249414773513479
+[19:15:26] [Server thread/WARN]: PizzaScripters moved too quickly! -8.490713390704286,1.7531999805212024,-5.029321006106073
+[19:16:02] [Server thread/WARN]: PizzaScripters moved too quickly! 9.187188027855143,-4.0,-0.3349050799382951
+[19:16:14] [Server thread/WARN]: PizzaScripters moved too quickly! 10.041330951971645,0.5625,1.5350869491556693
+[19:16:16] [Server thread/INFO]: PizzaScripters lost connection: Disconnected
+[19:16:16] [Server thread/INFO]: PizzaScripters left the game
+[19:16:27] [Server thread/INFO]: <ClockworkGold> 36 29 -125
+[19:21:46] [Server thread/INFO]: [maxcr1: Gave 66 [Dark Oak Sapling] to maxcr1]
+[19:24:05] [Server thread/INFO]: LoeJins7777777 was shot by Skeleton
+[19:25:10] [Server thread/INFO]: <ClockworkGold> 31 20 -100
+[19:25:27] [Server thread/INFO]: LoeJins7777777 fell from a high place
+[19:28:10] [Server thread/INFO]: <LoeJins7777777> \ww\
+[19:28:14] [Server thread/WARN]: Fetching addPacket for removed entity
+[19:29:41] [Server thread/INFO]: LoeJins7777777 fell from a high place
+[19:30:20] [Server thread/INFO]: aja2000 was blown up by Creeper
+[19:31:38] [Server thread/WARN]: LoeJins7777777 moved too quickly! 7.628157530962724,0.4186640077748365,-7.389241070978109
+[19:32:00] [User Authenticator #6/INFO]: UUID of player blazingalchemist is e326b185-d5de-4b69-a8a4-2fac29e5f71d
+[19:32:00] [Server thread/INFO]: blazingalchemist[/70.97.238.185:60345] logged in with entity id 120629 at (-252.9438703633922, 7.0, 58.44165022578586)
+[19:32:00] [Server thread/INFO]: blazingalchemist joined the game
+[19:32:47] [Server thread/INFO]: LoeJins7777777 has made the advancement [Getting an Upgrade]
+[19:35:31] [Server thread/WARN]: Fetching addPacket for removed entity
+[19:36:13] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[19:36:13] [Server thread/INFO]: maxcr1 left the game
+[19:36:14] [User Authenticator #7/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[19:36:14] [Server thread/INFO]: maxcr1[/127.0.0.1:63948] logged in with entity id 138784 at (-333.8733541198842, 64.0, 126.91626585026887)
+[19:36:14] [Server thread/INFO]: maxcr1 joined the game
+[19:37:24] [Server thread/INFO]: [maxcr1: Gave 64 [Oak Sign] to maxcr1]
+[19:39:28] [Server thread/INFO]: [maxcr1: Set the time to 1000]
+[19:40:20] [Server thread/INFO]: LoeJins7777777 burned to death
+[19:42:40] [Server thread/INFO]: LoeJins7777777 fell from a high place
+[19:44:00] [Server thread/INFO]: blazingalchemist lost connection: Disconnected
+[19:44:00] [Server thread/INFO]: blazingalchemist left the game
+[19:46:13] [Server thread/INFO]: LoeJins7777777 lost connection: Disconnected
+[19:46:13] [Server thread/INFO]: LoeJins7777777 left the game
+[19:49:14] [User Authenticator #8/INFO]: UUID of player blazingalchemist is e326b185-d5de-4b69-a8a4-2fac29e5f71d
+[19:49:14] [Server thread/INFO]: blazingalchemist[/70.97.238.185:60605] logged in with entity id 195149 at (-248.48571221351457, 64.0, 169.63430526383576)
+[19:49:14] [Server thread/INFO]: blazingalchemist joined the game
+[19:49:32] [Server thread/INFO]: [maxcr1: Set the time to 1000]
+[19:50:37] [Server thread/INFO]: blazingalchemist lost connection: Disconnected
+[19:50:37] [Server thread/INFO]: blazingalchemist left the game
+[19:58:33] [Server thread/INFO]: ClockworkGold has made the advancement [Diamonds!]
+[19:59:18] [Server thread/INFO]: [maxcr1: Set the time to 1000]
+[19:59:34] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[19:59:34] [Server thread/INFO]: maxcr1 left the game
+[20:00:58] [Server thread/INFO]: aja2000 lost connection: Disconnected
+[20:00:58] [Server thread/INFO]: aja2000 left the game
+[20:05:24] [Server thread/INFO]: There are 1 of a max 20 players online: ClockworkGold
+[20:05:35] [User Authenticator #9/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[20:05:35] [Server thread/INFO]: maxcr1[/127.0.0.1:64121] logged in with entity id 253068 at (-335.5124732873705, 64.0, 135.011323347955)
+[20:05:35] [Server thread/INFO]: maxcr1 joined the game
+[20:07:01] [User Authenticator #10/INFO]: UUID of player blazingalchemist is e326b185-d5de-4b69-a8a4-2fac29e5f71d
+[20:07:01] [Server thread/INFO]: blazingalchemist[/70.97.238.185:60812] logged in with entity id 255688 at (-257.6093829692679, 64.0, 164.76249998807907)
+[20:07:01] [Server thread/INFO]: blazingalchemist joined the game
+[20:09:16] [Server thread/INFO]: [maxcr1: Set the time to 1000]
+[20:12:47] [Server thread/INFO]: blazingalchemist lost connection: Disconnected
+[20:12:47] [Server thread/INFO]: blazingalchemist left the game
+[20:15:11] [User Authenticator #11/INFO]: UUID of player blazingalchemist is e326b185-d5de-4b69-a8a4-2fac29e5f71d
+[20:15:11] [Server thread/INFO]: blazingalchemist[/70.97.238.185:60856] logged in with entity id 271313 at (-257.2232196965191, 64.0, 163.74862663408715)
+[20:15:11] [Server thread/INFO]: blazingalchemist joined the game
+[20:18:41] [Server thread/INFO]: [maxcr1: Set the time to 1000]
+[20:19:27] [Server thread/INFO]: blazingalchemist lost connection: Disconnected
+[20:19:27] [Server thread/INFO]: blazingalchemist left the game
+[20:21:13] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[20:21:13] [Server thread/INFO]: maxcr1 left the game
+[20:31:14] [Server thread/INFO]: ClockworkGold lost connection: Disconnected
+[20:31:14] [Server thread/INFO]: ClockworkGold left the game
+[20:52:12] [User Authenticator #12/INFO]: UUID of player blazingalchemist is e326b185-d5de-4b69-a8a4-2fac29e5f71d
+[20:52:12] [Server thread/INFO]: blazingalchemist[/70.97.238.185:61149] logged in with entity id 289727 at (-255.5322394834551, 64.0, 166.1301625568415)
+[20:52:12] [Server thread/INFO]: blazingalchemist joined the game
+[20:52:25] [Server thread/INFO]: [Server] check out my new house
+[20:52:43] [Server thread/INFO]: <blazingalchemist> can you add /pee
+[20:53:06] [Server thread/INFO]: Unknown command
+[20:53:06] [Server thread/INFO]: Nope since it is a vanilla server<--[HERE]
+[20:53:12] [Server thread/INFO]: [Server] no since it is vanilla
+[20:53:38] [Server thread/INFO]: <blazingalchemist> okay, are you going to put a map online again?
+[21:19:59] [User Authenticator #13/INFO]: UUID of player aja2000 is 98f76cb4-800d-4cb2-8b15-7d0a03914d70
+[21:19:59] [Server thread/INFO]: aja2000[/65.128.70.57:51727] logged in with entity id 297790 at (33.30000001192093, 17.0, -116.69999998807907)
+[21:19:59] [Server thread/INFO]: aja2000 joined the game
+[21:20:23] [Server thread/INFO]: aja2000 has made the advancement [Hot Stuff]
+[21:25:13] [Server thread/INFO]: <blazingalchemist> eat kid
+[21:26:22] [Server thread/INFO]: <aja2000> NO
+[21:26:25] [Server thread/INFO]: <aja2000> no
+[21:32:35] [Server thread/INFO]: blazingalchemist lost connection: Disconnected
+[21:32:35] [Server thread/INFO]: blazingalchemist left the game
+[21:44:00] [Server thread/INFO]: aja2000 fell from a high place
+[21:45:20] [Server thread/INFO]: aja2000 fell from a high place
+[21:48:20] [Server thread/INFO]: aja2000 lost connection: Disconnected
+[21:48:20] [Server thread/INFO]: aja2000 left the game
+[22:06:50] [User Authenticator #14/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[22:06:50] [Server thread/INFO]: maxcr1[/127.0.0.1:64981] logged in with entity id 340727 at (-338.33894730734096, 64.0, 119.16822378272036)
+[22:06:50] [Server thread/INFO]: maxcr1 joined the game
+[22:09:11] [Server thread/INFO]: [maxcr1: Set the time to 1000]
+[22:34:09] [Server thread/INFO]: maxcr1 was slain by Spider
+[22:36:18] [Server thread/INFO]: maxcr1 was shot by Skeleton
+[22:36:19] [Server thread/WARN]: maxcr1 moved too quickly! 115.58272491144635,50.099998474121094,-94.23336828055139
+[23:11:56] [Server thread/INFO]: [maxcr1: Set the time to 13000]
+[23:12:05] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[23:12:05] [Server thread/INFO]: maxcr1 left the game

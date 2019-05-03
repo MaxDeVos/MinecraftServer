@@ -1,0 +1,77 @@
+[22:09:52] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:09:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:09:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:09:52] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:09:52] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:09:52] [Server thread/INFO]: Starting minecraft server version 1.14
+[22:09:52] [Server thread/INFO]: Loading properties
+[22:09:52] [Server thread/INFO]: Default game type: SURVIVAL
+[22:09:52] [Server thread/INFO]: Generating keypair
+[22:09:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:09:52] [Server thread/INFO]: Using default channel type
+[22:09:53] [Server thread/INFO]: Preparing level "world"
+[22:09:53] [Server thread/INFO]: Reloading ResourceManager: Default
+[22:09:54] [Server thread/INFO]: Loaded 6 recipes
+[22:09:56] [Server thread/INFO]: Loaded 811 advancements
+[22:09:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:09:56] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[22:09:58] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[22:09:58] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[22:09:58] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[22:09:58] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[22:09:58] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[22:09:59] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:09:59] [Server-Worker-3/INFO]: Preparing spawn area: 2%
+[22:10:00] [Server-Worker-7/INFO]: Preparing spawn area: 4%
+[22:10:00] [Server-Worker-6/INFO]: Preparing spawn area: 4%
+[22:10:01] [Server-Worker-5/INFO]: Preparing spawn area: 45%
+[22:10:01] [Server-Worker-3/INFO]: Preparing spawn area: 100%
+[22:10:02] [Server thread/INFO]: Time elapsed: 5723 ms
+[22:10:02] [Server thread/INFO]: Done (8.888s)! For help, type "help"
+[22:13:34] [User Authenticator #1/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[22:13:34] [Server thread/INFO]: maxcr1[/127.0.0.1:53763] logged in with entity id 321 at (-337.700000025332, 64.0, 118.30000001192093)
+[22:13:34] [Server thread/INFO]: maxcr1 joined the game
+[22:15:29] [Server thread/INFO]: [maxcr1: Gave 114 [Iron Ingot] to maxcr1]
+[22:21:22] [Server thread/INFO]: [maxcr1: Set own game mode to Creative Mode]
+[22:23:08] [Server thread/INFO]: [maxcr1: Set own game mode to Survival Mode]
+[22:23:31] [Server thread/INFO]: [maxcr1: Set own game mode to Creative Mode]
+[22:30:33] [Server thread/INFO]: [maxcr1: Set own game mode to Survival Mode]
+[22:30:48] [Server thread/INFO]: [maxcr1: Set own game mode to Creative Mode]
+[22:32:16] [Server thread/INFO]: [maxcr1: Set own game mode to Survival Mode]
+[22:34:06] [Server thread/INFO]: [maxcr1: Set own game mode to Creative Mode]
+[22:34:11] [Server thread/INFO]: [maxcr1: Set own game mode to Survival Mode]
+[22:34:45] [Server thread/INFO]: [maxcr1: Set the time to 13000]
+[22:39:10] [Server thread/INFO]: maxcr1 was shot by Skeleton
+[22:49:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3423ms or 68 ticks behind
+[22:51:59] [Server thread/INFO]: [maxcr1: The difficulty has been set to Normal]
+[23:03:42] [Server thread/INFO]: maxcr1 was slain by Wither Skeleton
+[23:03:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3000ms or 60 ticks behind
+[23:05:10] [Server thread/WARN]: maxcr1 moved too quickly! 0.27912958020877454,0.0,-10.081553987125261
+[23:06:06] [Server thread/INFO]: maxcr1 tried to swim in lava to escape Blaze
+[23:06:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3201ms or 64 ticks behind
+[23:11:56] [Server thread/INFO]: maxcr1 burned to death
+[23:12:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2883ms or 57 ticks behind
+[23:15:38] [Server thread/INFO]: maxcr1 burned to death
+[23:15:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2888ms or 57 ticks behind
+[23:20:19] [Server thread/WARN]: maxcr1 moved too quickly! -0.19952450213068573,-0.756759288177264,-9.998034964719523
+[23:38:21] [Server thread/INFO]: maxcr1 was slain by Zombie Pigman
+[23:38:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3358ms or 67 ticks behind
+[23:40:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3035ms or 60 ticks behind
+[23:44:54] [Server thread/INFO]: maxcr1 burned to death
+[23:45:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3141ms or 62 ticks behind
+[23:45:26] [Server thread/INFO]: [maxcr1: Set own game mode to Creative Mode]
+[23:45:28] [Server thread/WARN]: maxcr1 moved too quickly! -4.336826051404174,8.683106947314236,3.327285612869451
+[23:45:34] [Server thread/INFO]: [maxcr1: Set own game mode to Survival Mode]
+[23:45:41] [Server thread/INFO]: maxcr1 was slain by Zombie Pigman
+[23:45:47] [Server thread/INFO]: [maxcr1: Set own game mode to Creative Mode]
+[23:45:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2928ms or 58 ticks behind
+[23:46:00] [Server thread/INFO]: [maxcr1: Set own game mode to Survival Mode]
+[23:48:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2934ms or 58 ticks behind
+[23:49:04] [Server thread/INFO]: maxcr1 was slain by Zombie Pigman
+[23:49:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4262ms or 85 ticks behind
+[23:49:48] [Server thread/INFO]: maxcr1 was slain by Zombie Pigman
+[23:50:02] [Server thread/INFO]: maxcr1 was slain by Zombie Pigman
+[23:50:17] [Server thread/INFO]: [maxcr1: Set own game mode to Creative Mode]
+[23:50:41] [Server thread/INFO]: [maxcr1: Set own game mode to Survival Mode]
+[23:54:58] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[23:54:58] [Server thread/INFO]: maxcr1 left the game

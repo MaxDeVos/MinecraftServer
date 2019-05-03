@@ -1,0 +1,161 @@
+[19:04:39] [Server thread/INFO]: Starting minecraft server version 1.14
+[19:04:39] [Server thread/INFO]: Loading properties
+[19:04:39] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-47463c2-6de3aa1 (MC: 1.14) (Implementing API version 1.14-R0.1-SNAPSHOT)
+[19:04:39] [Server thread/INFO]: Debug logging is disabled
+[19:04:39] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:04:39] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:04:39] [Server thread/INFO]: Default game type: SURVIVAL
+[19:04:39] [Server thread/INFO]: Generating keypair
+[19:04:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:04:39] [Server thread/INFO]: Using default channel type
+[19:04:40] [Server thread/INFO]: Preparing level "world"
+[19:04:40] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[19:04:41] [Server thread/INFO]: Loaded 6 recipes
+[19:04:42] [Server thread/INFO]: -------- World Settings For [world] --------
+[19:04:42] [Server thread/INFO]: View Distance: 10
+[19:04:42] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:04:42] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:04:42] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:04:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:04:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:04:42] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[19:04:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:04:42] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:04:42] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:04:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:04:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:04:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:04:42] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:04:42] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:04:42] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:04:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:04:42] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:04:42] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:04:42] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:04:42] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:04:42] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[19:04:42] [Server thread/INFO]: Mob Spawn Range: 6
+[19:04:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:04:42] [Server thread/INFO]: Max TNT Explosions: 100
+[19:04:42] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:04:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:04:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[19:04:43] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[19:04:43] [Server thread/INFO]: View Distance: 10
+[19:04:43] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:04:43] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:04:43] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:04:43] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:04:43] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:04:43] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[19:04:43] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:04:43] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:04:43] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:04:43] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:04:43] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:04:43] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:04:43] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:04:43] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:04:43] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:04:43] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:04:43] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:04:43] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:04:43] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:04:43] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:04:43] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[19:04:43] [Server thread/INFO]: Mob Spawn Range: 6
+[19:04:43] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:04:43] [Server thread/INFO]: Max TNT Explosions: 100
+[19:04:43] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:04:43] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:04:43] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[19:04:43] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[19:04:43] [Server thread/INFO]: View Distance: 10
+[19:04:43] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:04:43] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:04:43] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:04:43] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:04:43] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:04:43] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[19:04:43] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:04:43] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:04:43] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:04:43] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:04:43] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:04:43] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:04:43] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:04:43] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:04:43] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:04:43] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:04:43] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:04:43] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:04:43] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:04:43] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:04:43] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[19:04:43] [Server thread/INFO]: Mob Spawn Range: 6
+[19:04:43] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:04:43] [Server thread/INFO]: Max TNT Explosions: 100
+[19:04:43] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:04:43] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:04:43] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[19:04:43] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[19:04:43] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[19:04:43] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[19:04:44] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[19:04:44] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[19:04:45] [User Authenticator #1/INFO]: UUID of player tlins is cca4ccb0-1441-40e3-b874-7d0c023f7f91
+[19:04:45] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[19:04:46] [Server-Worker-3/INFO]: Preparing spawn area: 10%
+[19:04:46] [Server-Worker-3/INFO]: Preparing spawn area: 10%
+[19:04:46] [Server-Worker-3/INFO]: Preparing spawn area: 10%
+[19:04:47] [Server-Worker-1/INFO]: Preparing spawn area: 24%
+[19:04:47] [Server-Worker-7/INFO]: Preparing spawn area: 66%
+[19:04:48] [Server thread/INFO]: Time elapsed: 4976 ms
+[19:04:48] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[19:04:48] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[19:04:48] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[19:04:49] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[19:04:49] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[19:04:50] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[19:04:50] [Server-Worker-5/INFO]: Preparing spawn area: 10%
+[19:04:51] [Server-Worker-4/INFO]: Preparing spawn area: 90%
+[19:04:51] [Server thread/INFO]: Time elapsed: 3047 ms
+[19:04:51] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[19:04:51] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[19:04:51] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[19:04:52] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[19:04:52] [User Authenticator #2/INFO]: UUID of player LoeJins7777777 is a2866b7e-2c5e-495f-b42e-517b6a066d8e
+[19:04:52] [Server-Worker-1/INFO]: Preparing spawn area: 2%
+[19:04:53] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[19:04:53] [Server thread/INFO]: Time elapsed: 2282 ms
+[19:04:53] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:04:53] [Server thread/INFO]: Done (12.790s)! For help, type "help"
+[19:04:54] [User Authenticator #3/INFO]: UUID of player tlins is cca4ccb0-1441-40e3-b874-7d0c023f7f91
+[19:04:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@3a0899fe[id=cca4ccb0-1441-40e3-b874-7d0c023f7f91,name=tlins,properties={textures=[com.mojang.authlib.properties.Property@2bfaacfd]},legacy=false] (/129.186.252.215:2412) lost connection: Disconnected
+[19:04:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@265b4ca0[id=a2866b7e-2c5e-495f-b42e-517b6a066d8e,name=LoeJins7777777,properties={textures=[com.mojang.authlib.properties.Property@591c620c]},legacy=false] (/65.110.255.19:55914) lost connection: Disconnected
+[19:04:56] [Server thread/INFO]: tlins[/129.186.252.215:2414] logged in with entity id 460 at ([world]0.10384973199050884, 63.0, 200.96204761204)
+[19:04:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3851ms or 77 ticks behind
+[19:05:03] [User Authenticator #4/INFO]: UUID of player LoeJins7777777 is a2866b7e-2c5e-495f-b42e-517b6a066d8e
+[19:05:03] [Server thread/INFO]: LoeJins7777777[/65.110.255.19:55916] logged in with entity id 770 at ([world]2.059737302174301, 64.33088254276429, 203.7474251068625)
+[19:05:39] [User Authenticator #5/INFO]: UUID of player blazingalchemist is e326b185-d5de-4b69-a8a4-2fac29e5f71d
+[19:05:40] [Server thread/INFO]: blazingalchemist[/70.97.238.185:50611] logged in with entity id 802 at ([world]-284.9784453992811, 59.0, 92.64394516060383)
+[19:06:40] [Server thread/INFO]: blazingalchemist lost connection: Disconnected
+[19:06:40] [Server thread/INFO]: blazingalchemist left the game
+[19:09:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2273ms or 45 ticks behind
+[19:20:43] [Server thread/INFO]: LoeJins7777777 lost connection: Disconnected
+[19:20:43] [Server thread/INFO]: LoeJins7777777 left the game
+[19:20:46] [Async Chat Thread - #0/INFO]: <tlins> uh[m
+[19:21:29] [User Authenticator #6/INFO]: UUID of player LoeJins7777777 is a2866b7e-2c5e-495f-b42e-517b6a066d8e
+[19:21:29] [Server thread/INFO]: LoeJins7777777[/65.110.255.19:55969] logged in with entity id 13121 at ([world]-2.5870430878765025, 62.07326356591065, 209.42998814632716)
+[19:26:06] [Server thread/INFO]: tlins lost connection: Disconnected
+[19:26:06] [Server thread/INFO]: tlins left the game
+[19:26:11] [Server thread/INFO]: LoeJins7777777 lost connection: Disconnected
+[19:26:11] [Server thread/INFO]: LoeJins7777777 left the game
+[21:27:01] [User Authenticator #7/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[21:27:01] [Server thread/INFO]: maxcr1[/127.0.0.1:59878] logged in with entity id 13696 at ([world]-338.64615092751166, 64.0, 124.57040646724865)
+[21:30:19] [Server thread/INFO]: maxcr1 issued server command: /difficulty normal
+[21:30:19] [Server thread/INFO]: [maxcr1: The difficulty has been set to Normal]
+[21:39:11] [Server thread/INFO]: maxcr1 was slain by Zombie Pigman
+[21:39:54] [Server thread/INFO]: maxcr1 discovered the floor was lava
+[21:40:01] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[21:40:01] [Server thread/INFO]: maxcr1 left the game
