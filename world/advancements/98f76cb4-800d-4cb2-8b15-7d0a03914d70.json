@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2019-05-03 14:05:02 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2019-05-02 21:04:47 -0500"
@@ -785,9 +791,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting": {
+    "criteria": {
+      "has_coal_ore": "2019-05-07 21:21:47 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2019-04-17 17:26:56 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2019-05-10 21:26:03 -0500"
     },
     "done": true
   },
@@ -860,6 +878,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2019-04-19 22:00:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2019-05-10 21:28:59 -0500"
     },
     "done": true
   },
@@ -1253,6 +1277,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2019-05-03 14:05:02 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2019-04-17 18:49:49 -0500"
@@ -1577,6 +1607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2019-05-03 14:05:02 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2019-04-17 18:50:04 -0500"
@@ -1664,6 +1700,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-04-21 12:53:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2019-05-10 21:36:19 -0500"
     },
     "done": true
   },
@@ -1789,6 +1831,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2019-05-03 17:11:29 -0500",
+      "cooked_mutton": "2019-05-03 17:33:20 -0500",
       "cooked_beef": "2019-04-17 21:50:25 -0500",
       "baked_potato": "2019-04-17 20:09:43 -0500",
       "apple": "2019-04-17 18:37:51 -0500",
@@ -2505,6 +2549,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2019-05-10 21:36:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2019-05-10 21:36:19 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2019-04-21 12:52:09 -0500"
@@ -2652,6 +2708,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2019-04-17 21:12:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2019-05-07 21:21:47 -0500"
     },
     "done": true
   },
@@ -2889,6 +2951,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2019-05-10 21:36:19 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2019-04-17 17:22:56 -0500"
@@ -2934,6 +3002,18 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-04-21 12:53:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2019-05-10 21:28:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2019-05-10 21:36:19 -0500"
     },
     "done": true
   },

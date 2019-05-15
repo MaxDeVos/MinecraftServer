@@ -10,7 +10,7 @@
 # IRC: #spigot @ irc.spi.gt ( http://www.spigotmc.org/pages/irc/ )
 # Forums: http://www.spigotmc.org/
 
-config-version: 11
+config-version: 12
 settings:
   debug: false
   save-user-cache-on-stop-only: false
@@ -61,7 +61,6 @@ advancements:
 world-settings:
   default:
     verbose: true
-    view-distance: 10
     wither-spawn-sound-radius: 0
     arrow-despawn-rate: 1200
     item-despawn-rate: 6000
