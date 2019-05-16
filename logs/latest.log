@@ -130,3 +130,11 @@
 [20:24:43] [Server thread/INFO]: Done (13.399s)! For help, type "help"
 [20:24:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2233ms or 44 ticks behind
 [20:29:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2733ms or 54 ticks behind
+[22:00:57] [User Authenticator #1/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[22:00:57] [Server thread/INFO]: Toasty_boii[/70.99.74.169:60943] logged in with entity id 204 at ([world]-291.20252284893303, 64.0, 186.84899508602183)
+[22:05:51] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[22:05:51] [Server thread/INFO]: Toasty_boii left the game
+[22:09:34] [User Authenticator #2/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[22:09:34] [Server thread/INFO]: Toasty_boii[/70.99.74.169:60963] logged in with entity id 5672 at ([world]-197.3837200232659, 47.0, 83.88103644019125)
+[22:11:15] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[22:11:15] [Server thread/INFO]: Toasty_boii left the game
