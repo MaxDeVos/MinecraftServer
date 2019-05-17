@@ -9,3 +9,5 @@
 [15:34:44] [Server thread/INFO]: blazingalchemist[/70.97.238.185:58973] logged in with entity id 124387 at ([world]-257.41471686399893, 64.0, 163.5845991737597)
 [15:42:17] [Server thread/WARN]: blazingalchemist moved too quickly! 5.702170561214757,0.0,-10.021882521285349
 [15:42:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6086ms or 121 ticks behind
+[16:07:05] [Server thread/INFO]: blazingalchemist lost connection: Disconnected
+[16:07:05] [Server thread/INFO]: blazingalchemist left the game
