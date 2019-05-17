@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2019-05-16 22:05:17 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2019-05-15 03:27:32 -0500"
@@ -407,7 +413,8 @@
       "cooked_beef": "2019-05-15 03:26:43 -0500",
       "baked_potato": "2019-05-16 00:03:08 -0500",
       "potato": "2019-05-16 01:15:52 -0500",
-      "rotten_flesh": "2019-05-15 03:03:57 -0500"
+      "rotten_flesh": "2019-05-15 03:03:57 -0500",
+      "rabbit_stew": "2019-05-16 22:00:40 -0500"
     },
     "done": false
   },
