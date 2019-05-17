@@ -1,0 +1,11 @@
+[14:43:00] [User Authenticator #11/INFO]: UUID of player VivaLaVida77 is 3680f65f-7ddf-4450-bce1-1321995a3c08
+[14:43:00] [Server thread/INFO]: VivaLaVida77[/70.99.74.169:50789] logged in with entity id 106612 at ([world]-245.3889293426048, 63.90290000319481, 153.44762327815823)
+[14:52:49] [Server thread/INFO]: VivaLaVida77 fell from a high place
+[14:59:40] [Server thread/INFO]: VivaLaVida77 has made the advancement [Stone Age]
+[15:02:47] [Server thread/INFO]: VivaLaVida77 has made the advancement [Getting an Upgrade]
+[15:15:23] [Server thread/INFO]: VivaLaVida77 lost connection: Disconnected
+[15:15:23] [Server thread/INFO]: VivaLaVida77 left the game
+[15:34:44] [User Authenticator #12/INFO]: UUID of player blazingalchemist is e326b185-d5de-4b69-a8a4-2fac29e5f71d
+[15:34:44] [Server thread/INFO]: blazingalchemist[/70.97.238.185:58973] logged in with entity id 124387 at ([world]-257.41471686399893, 64.0, 163.5845991737597)
+[15:42:17] [Server thread/WARN]: blazingalchemist moved too quickly! 5.702170561214757,0.0,-10.021882521285349
+[15:42:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6086ms or 121 ticks behind
