@@ -741,15 +741,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
-    "criteria": {
-      "has_andesite": "2019-05-16 00:15:04 -0500"
-    },
-    "done": true
-  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2019-05-15 23:52:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2019-05-16 00:15:04 -0500"
     },
     "done": true
   },
@@ -1352,15 +1352,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2019-05-16 00:23:37 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2019-05-16 00:15:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2019-05-16 00:23:37 -0500"
     },
     "done": true
   },
@@ -1460,15 +1460,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2019-05-16 00:30:42 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2019-05-16 00:22:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2019-05-16 00:30:42 -0500"
     },
     "done": true
   },
@@ -1592,15 +1592,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2019-05-16 00:30:42 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2019-05-16 00:23:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2019-05-16 00:30:42 -0500"
     },
     "done": true
   },
@@ -1707,15 +1707,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2019-05-16 00:26:39 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2019-05-16 00:23:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2019-05-16 00:26:39 -0500"
     },
     "done": true
   },
@@ -1859,15 +1859,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2019-05-16 00:23:37 -0500"
-    },
-    "done": true
-  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2019-05-15 23:59:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2019-05-16 00:23:37 -0500"
     },
     "done": true
   },
@@ -1901,15 +1901,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2019-05-16 00:23:37 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2019-05-16 00:22:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2019-05-16 00:23:37 -0500"
     },
     "done": true
   },
@@ -1979,15 +1979,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_fence_gate": {
-    "criteria": {
-      "has_planks": "2019-05-16 01:05:47 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-05-16 00:16:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-05-16 01:05:47 -0500"
     },
     "done": true
   },
@@ -2015,15 +2015,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2019-05-16 00:23:37 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2019-05-16 00:18:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2019-05-16 00:23:37 -0500"
     },
     "done": true
   },
