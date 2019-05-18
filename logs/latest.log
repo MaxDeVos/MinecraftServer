@@ -137,3 +137,5 @@
 [19:10:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
 [19:36:35] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
 [19:36:35] [Server thread/INFO]: Toasty_boii left the game
+[19:39:50] [User Authenticator #3/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[19:39:50] [Server thread/INFO]: Toasty_boii[/208.187.44.252:50643] logged in with entity id 16264 at ([world]-190.9692063915369, 47.0, 100.69999998807907)
