@@ -1,157 +1,37 @@
-[19:04:52] [Server thread/INFO]: Starting minecraft server version 1.14
-[19:04:52] [Server thread/INFO]: Loading properties
-[19:04:53] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1eece4f-fe1199c (MC: 1.14) (Implementing API version 1.14-R0.1-SNAPSHOT)
-[19:04:53] [Server thread/INFO]: Debug logging is disabled
-[19:04:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[19:04:53] [Server thread/INFO]: Using 4 threads for Netty based IO
-[19:04:53] [Server thread/INFO]: Default game type: SURVIVAL
-[19:04:53] [Server thread/INFO]: Generating keypair
-[19:04:53] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:04:53] [Server thread/INFO]: Using default channel type
-[19:04:54] [Server thread/INFO]: Preparing level "world"
-[19:04:54] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[19:04:55] [Server thread/INFO]: Loaded 6 recipes
-[19:04:56] [Server thread/INFO]: -------- World Settings For [world] --------
-[19:04:56] [Server thread/INFO]: View Distance: 10
-[19:04:56] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[19:04:56] [Server thread/INFO]: Item Despawn Rate: 6000
-[19:04:56] [Server thread/INFO]: Item Merge Radius: 2.5
-[19:04:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[19:04:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[19:04:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[19:04:56] [Server thread/INFO]: Experience Merge Radius: 3.0
-[19:04:56] [Server thread/INFO]: Mob Spawn Range: 6
-[19:04:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[19:04:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[19:04:56] [Server thread/INFO]: Max TNT Explosions: 100
-[19:04:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[19:04:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Cane Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Melon Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Potato Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Vine Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[19:04:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[19:04:56] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[19:04:56] [Server thread/INFO]: View Distance: 10
-[19:04:56] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[19:04:56] [Server thread/INFO]: Item Despawn Rate: 6000
-[19:04:56] [Server thread/INFO]: Item Merge Radius: 2.5
-[19:04:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[19:04:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[19:04:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[19:04:56] [Server thread/INFO]: Experience Merge Radius: 3.0
-[19:04:56] [Server thread/INFO]: Mob Spawn Range: 6
-[19:04:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[19:04:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[19:04:56] [Server thread/INFO]: Max TNT Explosions: 100
-[19:04:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[19:04:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Cane Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Melon Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Potato Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Vine Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[19:04:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[19:04:56] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[19:04:56] [Server thread/INFO]: View Distance: 10
-[19:04:56] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[19:04:56] [Server thread/INFO]: Item Despawn Rate: 6000
-[19:04:56] [Server thread/INFO]: Item Merge Radius: 2.5
-[19:04:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[19:04:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[19:04:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[19:04:56] [Server thread/INFO]: Experience Merge Radius: 3.0
-[19:04:56] [Server thread/INFO]: Mob Spawn Range: 6
-[19:04:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[19:04:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[19:04:56] [Server thread/INFO]: Max TNT Explosions: 100
-[19:04:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[19:04:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Cane Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Melon Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Potato Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Vine Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[19:04:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[19:04:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[19:04:56] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
-[19:04:56] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[19:04:57] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[19:04:57] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[19:04:58] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[19:05:00] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[19:05:00] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[19:05:00] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[19:05:00] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[19:05:00] [Server-Worker-4/INFO]: Preparing spawn area: 11%
-[19:05:01] [Server-Worker-1/INFO]: Preparing spawn area: 65%
-[19:05:01] [Server thread/INFO]: Time elapsed: 5129 ms
-[19:05:01] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
-[19:05:01] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[19:05:02] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[19:05:03] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[19:05:03] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[19:05:03] [Server-Worker-1/INFO]: Preparing spawn area: 1%
-[19:05:04] [Server-Worker-5/INFO]: Preparing spawn area: 22%
-[19:05:04] [Server thread/INFO]: Time elapsed: 2980 ms
-[19:05:04] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
-[19:05:04] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[19:05:05] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[19:05:05] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[19:05:06] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[19:05:06] [Server-Worker-4/INFO]: Preparing spawn area: 52%
-[19:05:07] [Server thread/INFO]: Time elapsed: 2263 ms
-[19:05:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:05:07] [Server thread/INFO]: Done (13.025s)! For help, type "help"
-[19:05:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2364ms or 47 ticks behind
-[19:06:17] [User Authenticator #1/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
-[19:06:17] [Server thread/INFO]: Toasty_boii[/208.187.44.252:50596] logged in with entity id 303 at ([world]-202.1443275388444, 56.0, 122.93782632339644)
-[19:07:23] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
-[19:07:23] [Server thread/INFO]: Toasty_boii left the game
-[19:07:25] [User Authenticator #2/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
-[19:07:25] [Server thread/INFO]: Toasty_boii[/208.187.44.252:50600] logged in with entity id 1054 at ([world]-202.46256719077266, 63.0, 118.42891749949544)
-[19:10:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
-[19:36:35] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
-[19:36:35] [Server thread/INFO]: Toasty_boii left the game
-[19:39:50] [User Authenticator #3/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
-[19:39:50] [Server thread/INFO]: Toasty_boii[/208.187.44.252:50643] logged in with entity id 16264 at ([world]-190.9692063915369, 47.0, 100.69999998807907)
-[21:11:56] [User Authenticator #4/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
-[21:11:56] [Server thread/INFO]: maxcr1[/173.28.8.178:62772] logged in with entity id 59914 at ([world]-291.8779713202744, 62.9375, 123.04426300509579)
-[21:13:05] [Async Chat Thread - #0/INFO]: <maxcr1> Toasty_boii sleep pls-peter[m
-[21:13:19] [Async Chat Thread - #0/INFO]: <Toasty_boii> uhhh[m
-[21:13:28] [Async Chat Thread - #0/INFO]: <maxcr1> ty[m
-[21:13:30] [Async Chat Thread - #0/INFO]: <Toasty_boii> sleep machine fixed[m
-[21:23:36] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
-[21:23:36] [Server thread/INFO]: Toasty_boii left the game
-[21:25:42] [User Authenticator #5/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
-[21:25:42] [Server thread/INFO]: Toasty_boii[/208.187.44.252:50760] logged in with entity id 66874 at ([world]-193.59413108072496, 47.0, 80.27069149239404)
-[21:27:02] [Server thread/INFO]: maxcr1 lost connection: Disconnected
-[21:27:02] [Server thread/INFO]: maxcr1 left the game
-[21:38:58] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
-[21:38:58] [Server thread/INFO]: Toasty_boii left the game
-[22:20:00] [User Authenticator #6/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
-[22:20:00] [Server thread/INFO]: Toasty_boii[/208.187.44.252:51027] logged in with entity id 71095 at ([world]-193.61473622306653, 47.0, 82.78380320896748)
+[00:18:52] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[00:18:52] [Server thread/INFO]: Toasty_boii left the game
+[00:30:34] [User Authenticator #11/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[00:30:34] [Server thread/INFO]: Toasty_boii[/208.187.44.252:51247] logged in with entity id 140765 at ([world]-196.05438645336736, 47.0, 89.44976412292087)
+[00:51:05] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[00:51:05] [Server thread/INFO]: Toasty_boii left the game
+[00:51:21] [User Authenticator #12/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[00:51:21] [Server thread/INFO]: Toasty_boii[/208.187.44.252:51271] logged in with entity id 145351 at ([world]-190.292387918438, 47.0, 100.34456239286949)
+[01:04:31] [Server thread/INFO]: Toasty_boii lost connection: Timed out
+[01:04:31] [Server thread/INFO]: Toasty_boii left the game
+[01:04:32] [User Authenticator #13/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[01:04:32] [Server thread/INFO]: Toasty_boii[/208.187.44.252:51282] logged in with entity id 154098 at ([world]-338.19216172902554, 63.0, 73.85983208425387)
+[02:00:16] [Server thread/INFO]: Toasty_boii issued server command: /gamemode spectator
+[02:00:16] [Server thread/INFO]: [Toasty_boii: Set own game mode to Spectator Mode]
+[02:01:17] [Server thread/INFO]: Toasty_boii issued server command: /gamemode survival
+[02:01:17] [Server thread/INFO]: [Toasty_boii: Set own game mode to Survival Mode]
+[02:01:54] [Server thread/WARN]: Toasty_boii moved too quickly! -495.14370533666295,29.23363200604248,-1661.4464014039754
+[02:01:55] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[02:01:55] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[02:05:29] [Async Chat Thread - #7/INFO]: <Toasty_boii> -955, -300[m
+[02:09:25] [Server thread/INFO]: Toasty_boii issued server command: /tp Toasty_boii spawn
+[02:09:38] [Server thread/INFO]: Toasty_boii issued server command: /tp Toasty_boii 0 70 0
+[02:09:38] [Server thread/INFO]: [Toasty_boii: Teleported Toasty_boii to 0.5, 70.0, 0.5]
+[02:10:02] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[02:10:02] [Server thread/INFO]: Toasty_boii left the game
+[02:10:41] [User Authenticator #14/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[02:10:41] [Server thread/INFO]: Toasty_boii[/208.187.44.252:51390] logged in with entity id 183011 at ([world_the_end]0.6965868961645575, 63.0, 0.42774464246501265)
+[02:10:53] [Server thread/INFO]: Toasty_boii issued server command: /xp add Toasty_boii 12
+[02:10:53] [Server thread/INFO]: [Toasty_boii: Gave 12 experience points to Toasty_boii]
+[02:11:08] [Server thread/INFO]: Toasty_boii issued server command: /xp add Toasty_boii -12
+[02:11:08] [Server thread/INFO]: [Toasty_boii: Gave -12 experience points to Toasty_boii]
+[02:11:43] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[02:11:43] [Server thread/INFO]: Toasty_boii left the game
+[02:11:56] [User Authenticator #15/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[02:11:56] [Server thread/INFO]: Toasty_boii[/208.187.44.252:51403] logged in with entity id 184818 at ([world]-210.30000001192093, 61.0, 66.36996734035132)
+[02:14:53] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[02:14:53] [Server thread/INFO]: Toasty_boii left the game
