@@ -39,3 +39,9 @@
 [10:59:35] [Server thread/INFO]: blazingalchemist[/70.97.238.185:50829] logged in with entity id 185955 at ([world]-307.700000025332, 64.0000002, 160.29999997466803)
 [11:33:48] [Server thread/INFO]: blazingalchemist lost connection: Disconnected
 [11:33:48] [Server thread/INFO]: blazingalchemist left the game
+[16:25:57] [User Authenticator #17/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[16:25:57] [Server thread/INFO]: Toasty_boii[/208.187.44.252:50557] logged in with entity id 202495 at ([world]-288.8467361704611, 63.0, 122.20302386564153)
+[16:35:26] [Server thread/INFO]: Toasty_boii issued server command: /gamemode spectator
+[16:35:26] [Server thread/INFO]: [Toasty_boii: Set own game mode to Spectator Mode]
+[16:35:57] [Server thread/INFO]: Toasty_boii issued server command: /gamemode survival
+[16:35:57] [Server thread/INFO]: [Toasty_boii: Set own game mode to Survival Mode]
