@@ -211,3 +211,36 @@
 [14:40:18] [Server thread/INFO]: [maxcr1: Gave 64 [Cobblestone] to maxcr1]
 [14:42:02] [Server thread/INFO]: blazingalchemist was slain by Zombie Pigman
 [14:47:30] [Server thread/INFO]: blazingalchemist fell from a high place
+[15:05:11] [Server thread/INFO]: maxcr1 issued server command: /give maxcr1 minecraft:obsidian 2
+[15:05:11] [Server thread/INFO]: [maxcr1: Gave 2 [Obsidian] to maxcr1]
+[15:05:30] [Server thread/INFO]: maxcr1 issued server command: /give maxcr1 minecraft:flint_and_steel 1
+[15:05:30] [Server thread/INFO]: [maxcr1: Gave 1 [Flint and Steel] to maxcr1]
+[15:05:41] [Server thread/WARN]: maxcr1 moved too quickly! 523.8177866620085,0.0,1417.6588391187497
+[15:05:41] [Server thread/WARN]: maxcr1 moved too quickly! 523.8177866620085,0.0,1417.6588391187497
+[15:05:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5024ms or 100 ticks behind
+[15:06:45] [Server thread/INFO]: maxcr1 issued server command: /give maxcr1 ladder 15
+[15:06:45] [Server thread/INFO]: [maxcr1: Gave 15 [Ladder] to maxcr1]
+[15:07:49] [Server thread/WARN]: maxcr1 moved too quickly! -495.43773668946017,29.1875,-1659.3513373196413
+[15:07:50] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[15:07:50] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[15:19:02] [User Authenticator #8/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[15:19:02] [Server thread/INFO]: Toasty_boii[/208.187.44.252:58894] logged in with entity id 91286 at ([world]-191.5720788342575, 48.0, 77.85581458960505)
+[15:19:20] [Async Chat Thread - #1/INFO]: <Toasty_boii> owo hewwo der[m
+[15:19:27] [Async Chat Thread - #1/INFO]: <blazingalchemist> uwu[m
+[15:22:44] [Async Chat Thread - #2/INFO]: <Toasty_boii> sleep?[m
+[15:22:55] [Async Chat Thread - #2/INFO]: <maxcr1> sure[m
+[15:22:59] [Async Chat Thread - #2/INFO]: <blazingalchemist> 1 sec[m
+[15:26:17] [Server thread/INFO]: maxcr1 issued server command: /give maxcr1 minecraft:minecart
+[15:26:17] [Server thread/INFO]: [maxcr1: Gave 1 [Minecart] to maxcr1]
+[15:29:08] [Server thread/WARN]: Toasty_boii moved wrongly!
+[15:30:34] [Server thread/WARN]: maxcr1 moved wrongly!
+[15:30:58] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[15:30:58] [Server thread/INFO]: Toasty_boii left the game
+[15:41:11] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[15:41:11] [Server thread/INFO]: maxcr1 left the game
+[15:45:36] [User Authenticator #9/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[15:45:36] [Server thread/INFO]: Toasty_boii[/208.187.44.252:58945] logged in with entity id 117488 at ([world]-195.61898792861976, 47.5625, 79.51062967475156)
+[15:45:56] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[15:45:56] [Server thread/INFO]: Toasty_boii left the game
+[15:46:02] [Server thread/INFO]: blazingalchemist lost connection: Disconnected
+[15:46:02] [Server thread/INFO]: blazingalchemist left the game

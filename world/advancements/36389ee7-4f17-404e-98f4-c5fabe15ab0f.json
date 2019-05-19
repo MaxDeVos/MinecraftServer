@@ -688,8 +688,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:blaze": "2019-04-18 19:40:32 -0500",
       "minecraft:pillager": "2019-04-18 15:37:15 -0500",
+      "minecraft:blaze": "2019-04-18 19:40:32 -0500",
       "minecraft:skeleton": "2019-04-16 20:25:19 -0500",
       "minecraft:ravager": "2019-04-30 21:18:42 -0500",
       "minecraft:ghast": "2019-04-18 16:34:41 -0500",
@@ -1336,8 +1336,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-04-18 13:02:36 -0500",
-      "minecraft:forest": "2019-04-16 19:58:15 -0500",
       "minecraft:mountains": "2019-04-18 13:31:08 -0500",
+      "minecraft:forest": "2019-04-16 19:58:15 -0500",
       "minecraft:taiga": "2019-05-11 23:02:42 -0500",
       "minecraft:desert_hills": "2019-04-16 19:58:38 -0500",
       "minecraft:deep_cold_ocean": "2019-04-18 13:04:39 -0500",
@@ -1352,8 +1352,8 @@
       "minecraft:savanna_plateau": "2019-04-16 20:12:33 -0500",
       "minecraft:beach": "2019-04-18 13:02:30 -0500",
       "minecraft:dark_forest": "2019-04-18 13:42:54 -0500",
-      "minecraft:river": "2019-04-16 20:03:28 -0500",
       "minecraft:lukewarm_ocean": "2019-04-18 13:47:55 -0500",
+      "minecraft:river": "2019-04-16 20:03:28 -0500",
       "minecraft:snowy_taiga": "2019-04-20 12:55:07 -0500",
       "minecraft:birch_forest_hills": "2019-04-18 13:45:35 -0500",
       "minecraft:wooded_mountains": "2019-04-20 13:46:06 -0500",
@@ -3360,5 +3360,5 @@
     },
     "done": true
   },
-  "DataVersion": 1952
+  "DataVersion": 1957
 }
