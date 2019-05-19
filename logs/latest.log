@@ -151,3 +151,63 @@
 [13:47:23] [Server thread/INFO]: maxcr1 left the game
 [13:53:52] [User Authenticator #5/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
 [13:53:52] [Server thread/INFO]: maxcr1[/127.0.0.1:62373] logged in with entity id 22795 at ([world]-365.51330275973487, 72.02442408821369, 93.95998755732398)
+[14:05:42] [Server thread/INFO]: maxcr1 fell from a high place
+[14:06:16] [Server thread/INFO]: maxcr1 issued server command: /gamerule keepInventory
+[14:12:55] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[14:12:55] [Server thread/INFO]: maxcr1 left the game
+[14:14:56] [User Authenticator #6/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[14:14:56] [Server thread/INFO]: maxcr1[/127.0.0.1:62818] logged in with entity id 33164 at ([world]-388.490736385524, 22.0, -48.45845199311159)
+[14:19:13] [User Authenticator #7/INFO]: UUID of player blazingalchemist is e326b185-d5de-4b69-a8a4-2fac29e5f71d
+[14:19:13] [Server thread/INFO]: blazingalchemist[/70.97.238.185:52312] logged in with entity id 34950 at ([world]-270.31169080091047, 63.0, 148.63057945866342)
+[14:19:45] [Async Chat Thread - #0/INFO]: <maxcr1> I am going to establisgh[m
+[14:19:51] [Async Chat Thread - #0/INFO]: <maxcr1> some infrastructure[m
+[14:20:04] [Async Chat Thread - #0/INFO]: <maxcr1> And by that I mean a nether train to the end portal[m
+[14:20:07] [Async Chat Thread - #0/INFO]: <maxcr1> because walking is hard[m
+[14:20:59] [Server thread/INFO]: maxcr1 was slain by Zombie
+[14:21:17] [Server thread/INFO]: maxcr1 issued server command: /gamemode creative
+[14:21:17] [Server thread/INFO]: [maxcr1: Set own game mode to Creative Mode]
+[14:25:39] [Server thread/INFO]: maxcr1 issued server command: /back
+[14:32:31] [Server thread/INFO]: maxcr1 issued server command: /give @p[limit=1] diamond_sword{Enchantments:[{id:sharpness,lvl:5},{id:knockback,lvl:2},{id:fire_aspect,lvl:2},{id:looting,lvl:2},{id:sweeping,lvl:3},{id:unbreaking,lvl:3}]} 1
+[14:32:31] [Server thread/INFO]: [maxcr1: Gave 1 [Diamond Sword] to maxcr1]
+[14:33:00] [Server thread/INFO]: maxcr1 issued server command: /give @p[limit=1] bow{display:{Name:"\"Police Brutality\""},Enchantments:[{id:unbreaking,lvl:3},{id:power,lvl:5},{id:flame,lvl:1},{id:mending,lvl:1}]} 1
+[14:33:00] [Server thread/INFO]: [maxcr1: Gave 1 [Police Brutality] to maxcr1]
+[14:34:02] [Server thread/INFO]: maxcr1 issued server command: /give @p diamond_helmet{Enchantments:[{id:fire_protection,lvl:4},{id:respiration,lvl:2},{id:unbreaking,lvl:3},{id:mending,lvl:1}]} 1
+[14:34:02] [Server thread/INFO]: [maxcr1: Gave 1 [Diamond Helmet] to maxcr1]
+[14:34:21] [Server thread/INFO]: maxcr1 issued server command: /give @p diamond_chestplate{Enchantments:[{id:fire_protection,lvl:4},{id:unbreaking,lvl:3},{id:mending,lvl:1}]} 1
+[14:34:21] [Server thread/INFO]: [maxcr1: Gave 1 [Diamond Chestplate] to maxcr1]
+[14:34:45] [Server thread/INFO]: maxcr1 issued server command: /give @p diamond_leggings{Enchantments:[{id:fire_protection,lvl:4},{id:unbreaking,lvl:3},{id:mending,lvl:1}]} 1
+[14:34:45] [Server thread/INFO]: [maxcr1: Gave 1 [Diamond Leggings] to maxcr1]
+[14:35:04] [Server thread/INFO]: maxcr1 issued server command: /give @p diamond_boots{Enchantments:[{id:fire_protection,lvl:4},{id:unbreaking,lvl:3},{id:mending,lvl:1}]} 1
+[14:35:04] [Server thread/INFO]: [maxcr1: Gave 1 [Diamond Boots] to maxcr1]
+[14:35:35] [Server thread/INFO]: maxcr1 issued server command: /give @p diamond_axe{Enchantments:[{id:sharpness,lvl:5},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:mending,lvl:1}]} 1
+[14:35:35] [Server thread/INFO]: [maxcr1: Gave 1 [Diamond Axe] to maxcr1]
+[14:35:50] [Server thread/INFO]: maxcr1 issued server command: /give @p diamond_axe{Enchantments:[{id:sharpness,lvl:5},{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:mending,lvl:1}]} 1
+[14:35:50] [Server thread/INFO]: [maxcr1: Gave 1 [Diamond Axe] to maxcr1]
+[14:36:06] [Server thread/INFO]: maxcr1 issued server command: /give @p diamond_pickaxe{Enchantments:[{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:fortune,lvl:3},{id:mending,lvl:1}]} 1
+[14:36:06] [Server thread/INFO]: [maxcr1: Gave 1 [Diamond Pickaxe] to maxcr1]
+[14:36:25] [Server thread/INFO]: maxcr1 issued server command: /give @p diamond_shovel{Enchantments:[{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:fortune,lvl:3},{id:mending,lvl:1}]} 1
+[14:36:25] [Server thread/INFO]: [maxcr1: Gave 1 [Diamond Shovel] to maxcr1]
+[14:36:47] [Server thread/INFO]: maxcr1 issued server command: /give maxcr1 minecraft:iron_ore 14
+[14:36:47] [Server thread/INFO]: [maxcr1: Gave 14 [Iron Ore] to maxcr1]
+[14:36:54] [Server thread/INFO]: maxcr1 issued server command: /give maxcr1 minecraft:coal 11
+[14:36:54] [Server thread/INFO]: [maxcr1: Gave 11 [Coal] to maxcr1]
+[14:37:05] [Server thread/INFO]: maxcr1 issued server command: /give maxcr1 minecraft:ender_chest
+[14:37:05] [Server thread/INFO]: [maxcr1: Gave 1 [Ender Chest] to maxcr1]
+[14:37:13] [Server thread/INFO]: maxcr1 issued server command: /give maxcr1 rail 64
+[14:37:13] [Server thread/INFO]: [maxcr1: Gave 64 [Rail] to maxcr1]
+[14:37:29] [Server thread/INFO]: maxcr1 issued server command: /give @p iron_pickaxe{Enchantments:[{id:silk_touch,lvl:1},{id:unbreaking,lvl:3}]} 1
+[14:37:29] [Server thread/INFO]: [maxcr1: Gave 1 [Iron Pickaxe] to maxcr1]
+[14:37:59] [Server thread/INFO]: maxcr1 issued server command: /give maxcr1 minecraft:baked_potato 64
+[14:37:59] [Server thread/INFO]: [maxcr1: Gave 64 [Baked Potato] to maxcr1]
+[14:38:15] [Server thread/INFO]: maxcr1 issued server command: /give maxcr1 minecraft:torch 64
+[14:38:15] [Server thread/INFO]: [maxcr1: Gave 64 [Torch] to maxcr1]
+[14:38:21] [Server thread/INFO]: maxcr1 issued server command: /give maxcr1 minecraft:arrow 1
+[14:38:21] [Server thread/INFO]: [maxcr1: Gave 1 [Arrow] to maxcr1]
+[14:38:56] [Server thread/INFO]: maxcr1 issued server command: /give maxcr1 shield
+[14:38:56] [Server thread/INFO]: [maxcr1: Gave 1 [Shield] to maxcr1]
+[14:39:01] [Server thread/INFO]: maxcr1 issued server command: /gamemode survival
+[14:39:01] [Server thread/INFO]: [maxcr1: Set own game mode to Survival Mode]
+[14:40:18] [Server thread/INFO]: maxcr1 issued server command: /give maxcr1 minecraft:cobblestone 64
+[14:40:18] [Server thread/INFO]: [maxcr1: Gave 64 [Cobblestone] to maxcr1]
+[14:42:02] [Server thread/INFO]: blazingalchemist was slain by Zombie Pigman
+[14:47:30] [Server thread/INFO]: blazingalchemist fell from a high place
