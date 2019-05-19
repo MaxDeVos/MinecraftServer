@@ -679,8 +679,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:blaze": "2019-04-17 18:44:58 -0500",
       "minecraft:pillager": "2019-04-29 22:43:34 -0500",
+      "minecraft:blaze": "2019-04-17 18:44:58 -0500",
       "minecraft:skeleton": "2019-04-16 19:57:12 -0500",
       "minecraft:zombie_pigman": "2019-04-17 19:34:26 -0500",
       "minecraft:ravager": "2019-04-29 22:49:14 -0500",
@@ -695,8 +695,8 @@
       "minecraft:wither_skeleton": "2019-04-17 18:44:51 -0500",
       "minecraft:husk": "2019-04-16 20:00:21 -0500",
       "minecraft:cave_spider": "2019-05-03 00:41:58 -0500",
-      "minecraft:enderman": "2019-04-17 10:04:13 -0500",
       "minecraft:silverfish": "2019-04-27 15:55:31 -0500",
+      "minecraft:enderman": "2019-04-17 10:04:13 -0500",
       "minecraft:zombie": "2019-04-16 20:03:00 -0500",
       "minecraft:drowned": "2019-04-17 16:26:23 -0500",
       "minecraft:zombie_villager": "2019-04-17 09:47:42 -0500"
@@ -3276,5 +3276,5 @@
     },
     "done": true
   },
-  "DataVersion": 1952
+  "DataVersion": 1957
 }
