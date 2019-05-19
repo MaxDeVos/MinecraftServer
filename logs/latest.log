@@ -1,65 +1,19 @@
-[00:18:52] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
-[00:18:52] [Server thread/INFO]: Toasty_boii left the game
-[00:30:34] [User Authenticator #11/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
-[00:30:34] [Server thread/INFO]: Toasty_boii[/208.187.44.252:51247] logged in with entity id 140765 at ([world]-196.05438645336736, 47.0, 89.44976412292087)
-[00:51:05] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
-[00:51:05] [Server thread/INFO]: Toasty_boii left the game
-[00:51:21] [User Authenticator #12/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
-[00:51:21] [Server thread/INFO]: Toasty_boii[/208.187.44.252:51271] logged in with entity id 145351 at ([world]-190.292387918438, 47.0, 100.34456239286949)
-[01:04:31] [Server thread/INFO]: Toasty_boii lost connection: Timed out
-[01:04:31] [Server thread/INFO]: Toasty_boii left the game
-[01:04:32] [User Authenticator #13/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
-[01:04:32] [Server thread/INFO]: Toasty_boii[/208.187.44.252:51282] logged in with entity id 154098 at ([world]-338.19216172902554, 63.0, 73.85983208425387)
-[02:00:16] [Server thread/INFO]: Toasty_boii issued server command: /gamemode spectator
-[02:00:16] [Server thread/INFO]: [Toasty_boii: Set own game mode to Spectator Mode]
-[02:01:17] [Server thread/INFO]: Toasty_boii issued server command: /gamemode survival
-[02:01:17] [Server thread/INFO]: [Toasty_boii: Set own game mode to Survival Mode]
-[02:01:54] [Server thread/WARN]: Toasty_boii moved too quickly! -495.14370533666295,29.23363200604248,-1661.4464014039754
-[02:01:55] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[02:01:55] [Server thread/INFO]: Found that the dragon has been killed in this world already.
-[02:05:29] [Async Chat Thread - #7/INFO]: <Toasty_boii> -955, -300[m
-[02:09:25] [Server thread/INFO]: Toasty_boii issued server command: /tp Toasty_boii spawn
-[02:09:38] [Server thread/INFO]: Toasty_boii issued server command: /tp Toasty_boii 0 70 0
-[02:09:38] [Server thread/INFO]: [Toasty_boii: Teleported Toasty_boii to 0.5, 70.0, 0.5]
-[02:10:02] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
-[02:10:02] [Server thread/INFO]: Toasty_boii left the game
-[02:10:41] [User Authenticator #14/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
-[02:10:41] [Server thread/INFO]: Toasty_boii[/208.187.44.252:51390] logged in with entity id 183011 at ([world_the_end]0.6965868961645575, 63.0, 0.42774464246501265)
-[02:10:53] [Server thread/INFO]: Toasty_boii issued server command: /xp add Toasty_boii 12
-[02:10:53] [Server thread/INFO]: [Toasty_boii: Gave 12 experience points to Toasty_boii]
-[02:11:08] [Server thread/INFO]: Toasty_boii issued server command: /xp add Toasty_boii -12
-[02:11:08] [Server thread/INFO]: [Toasty_boii: Gave -12 experience points to Toasty_boii]
-[02:11:43] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
-[02:11:43] [Server thread/INFO]: Toasty_boii left the game
-[02:11:56] [User Authenticator #15/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
-[02:11:56] [Server thread/INFO]: Toasty_boii[/208.187.44.252:51403] logged in with entity id 184818 at ([world]-210.30000001192093, 61.0, 66.36996734035132)
-[02:14:53] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
-[02:14:53] [Server thread/INFO]: Toasty_boii left the game
-[10:59:35] [User Authenticator #16/INFO]: UUID of player blazingalchemist is e326b185-d5de-4b69-a8a4-2fac29e5f71d
-[10:59:35] [Server thread/INFO]: blazingalchemist[/70.97.238.185:50829] logged in with entity id 185955 at ([world]-307.700000025332, 64.0000002, 160.29999997466803)
-[11:33:48] [Server thread/INFO]: blazingalchemist lost connection: Disconnected
-[11:33:48] [Server thread/INFO]: blazingalchemist left the game
-[16:25:57] [User Authenticator #17/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
-[16:25:57] [Server thread/INFO]: Toasty_boii[/208.187.44.252:50557] logged in with entity id 202495 at ([world]-288.8467361704611, 63.0, 122.20302386564153)
-[16:35:26] [Server thread/INFO]: Toasty_boii issued server command: /gamemode spectator
-[16:35:26] [Server thread/INFO]: [Toasty_boii: Set own game mode to Spectator Mode]
-[16:35:57] [Server thread/INFO]: Toasty_boii issued server command: /gamemode survival
-[16:35:57] [Server thread/INFO]: [Toasty_boii: Set own game mode to Survival Mode]
-[16:55:48] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
-[16:55:48] [Server thread/INFO]: Toasty_boii left the game
-[17:13:18] [User Authenticator #18/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
-[17:13:18] [Server thread/INFO]: Toasty_boii[/208.187.44.252:50633] logged in with entity id 217607 at ([world]-199.1106317583924, 47.0, 93.91298298761014)
-[17:21:52] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
-[17:21:52] [Server thread/INFO]: Toasty_boii left the game
-[17:22:54] [User Authenticator #19/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
-[17:22:54] [Server thread/INFO]: Toasty_boii[/208.187.44.252:50665] logged in with entity id 220598 at ([world]-201.75431827072714, 47.0, 94.75307853593694)
-[17:22:59] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
-[17:22:59] [Server thread/INFO]: Toasty_boii left the game
-[19:52:43] [User Authenticator #20/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
-[19:52:43] [Server thread/INFO]: Toasty_boii[/208.187.44.252:50933] logged in with entity id 220624 at ([world]-201.75431827072714, 47.0, 94.75307853593694)
-[19:53:18] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
-[19:53:18] [Server thread/INFO]: Toasty_boii left the game
-[20:58:21] [User Authenticator #21/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
-[20:58:21] [Server thread/INFO]: Toasty_boii[/208.187.44.252:51229] logged in with entity id 220732 at ([world]-192.83897684931486, 47.0, 95.10487816520924)
-[21:24:01] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
-[21:24:01] [Server thread/INFO]: Toasty_boii left the game
+[00:01:21] [Async Chat Thread - #15/INFO]: <Toasty_boii> ok so i just lost 3 mending books[m
+[00:01:24] [Async Chat Thread - #15/INFO]: <Toasty_boii> rip[m
+[00:01:30] [Async Chat Thread - #15/INFO]: <blazingalchemist> F[m
+[00:04:03] [Server thread/INFO]: Toasty_boii issued server command: /minecraft:summon minecraft:villager ~ ~ ~
+[00:04:03] [Server thread/INFO]: [Toasty_boii: Summoned new Villager]
+[00:04:24] [Server thread/INFO]: Toasty_boii issued server command: /minecraft:summon minecraft:villager ~ ~ ~
+[00:04:24] [Server thread/INFO]: [Toasty_boii: Summoned new Villager]
+[00:04:53] [Server thread/INFO]: Toasty_boii issued server command: /minecraft:summon minecraft:villager ~ ~ ~
+[00:04:53] [Server thread/INFO]: [Toasty_boii: Summoned new Villager]
+[00:06:55] [Async Chat Thread - #16/INFO]: <Toasty_boii> Sleep?[m
+[00:07:03] [Async Chat Thread - #16/INFO]: <blazingalchemist> 2 sec[m
+[00:17:43] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[00:17:43] [Server thread/INFO]: Toasty_boii left the game
+[01:41:36] [Server thread/INFO]: blazingalchemist lost connection: Disconnected
+[01:41:36] [Server thread/INFO]: blazingalchemist left the game
+[02:33:50] [User Authenticator #24/INFO]: UUID of player CurrentlyCoding is 8f773209-088c-41db-bf60-dd49caf2b434
+[02:33:50] [Server thread/INFO]: CurrentlyCoding[/174.219.10.250:9298] logged in with entity id 303961 at ([world]-279.1173091021208, 64.0, 86.02287453555775)
+[02:37:15] [Server thread/INFO]: CurrentlyCoding lost connection: Disconnected
+[02:37:15] [Server thread/INFO]: CurrentlyCoding left the game
