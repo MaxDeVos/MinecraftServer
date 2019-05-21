@@ -1,0 +1,29 @@
+[13:39:56] [User Authenticator #35/INFO]: UUID of player tlins is cca4ccb0-1441-40e3-b874-7d0c023f7f91
+[13:39:56] [Server thread/INFO]: tlins[/50.81.72.157:2997] logged in with entity id 508311 at ([world]-338.66838752210305, 64.0, 130.9337169151741)
+[13:40:50] [Server thread/INFO]: tlins issued server command: /scoreboard objectives add ki xp
+[13:40:50] [Server thread/INFO]: [tlins: Created new objective [ki]]
+[13:41:03] [Server thread/INFO]: tlins issued server command: /scoreboard objectives list
+[13:41:24] [Server thread/INFO]: tlins issued server command: /scoreboard objectives setdisplay belowName
+[13:41:24] [Server thread/INFO]: [tlins: Cleared any objectives in display slot belowName]
+[13:41:32] [Server thread/INFO]: tlins lost connection: Disconnected
+[13:41:32] [Server thread/INFO]: tlins left the game
+[13:41:36] [User Authenticator #36/INFO]: UUID of player tlins is cca4ccb0-1441-40e3-b874-7d0c023f7f91
+[13:41:36] [Server thread/INFO]: tlins[/50.81.72.157:3005] logged in with entity id 510173 at ([world]-334.43460428484013, 64.0, 131.2115507172959)
+[13:43:41] [Server thread/INFO]: tlins lost connection: Timed out
+[13:43:41] [Server thread/INFO]: tlins left the game
+[13:44:24] [User Authenticator #37/INFO]: UUID of player tlins is cca4ccb0-1441-40e3-b874-7d0c023f7f91
+[13:44:24] [Server thread/INFO]: tlins[/50.81.72.157:3112] logged in with entity id 510917 at ([world]-339.02564350658815, 64.0, 129.19715324421975)
+[14:07:14] [Server thread/INFO]: tlins lost connection: Disconnected
+[14:07:14] [Server thread/INFO]: tlins left the game
+[14:14:26] [User Authenticator #38/INFO]: UUID of player tlins is cca4ccb0-1441-40e3-b874-7d0c023f7f91
+[14:14:26] [Server thread/INFO]: tlins[/50.81.72.157:3217] logged in with entity id 578977 at ([world]6886.369118148717, 66.0, -150.12028348092647)
+[14:25:14] [Server thread/WARN]: tlins moved too quickly! 2.342570636934397,-1.1661092609382138,-10.945870774124614
+[14:29:12] [Server thread/WARN]: tlins moved too quickly! 18.500647074080916,-7.2015659167318375,0.1903262584512504
+[14:29:15] [Server thread/WARN]: tlins moved too quickly! -5.04772719421635,-15.31694786374095,-6.72129049620321
+[14:29:25] [Server thread/WARN]: tlins moved too quickly! 6.41471152898248,35.13100607804586,0.21841032087081658
+[14:38:15] [Async Chat Thread - #12/INFO]: <tlins> 9862 -975[m
+[14:38:45] [User Authenticator #39/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[14:38:45] [Server thread/INFO]: Toasty_boii[/208.187.44.252:53302] logged in with entity id 615185 at ([world]-186.60315392748953, 43.0, 70.51863171597529)
+[14:38:49] [Async Chat Thread - #12/INFO]: <tlins> hey gamer[m
+[14:39:03] [Async Chat Thread - #12/INFO]: <Toasty_boii> Whats up gamer[m
+[14:39:13] [Async Chat Thread - #12/INFO]: <tlins> just flying east until something interesting appears[m
