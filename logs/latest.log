@@ -179,3 +179,8 @@
 [20:45:48] [Server thread/INFO]: [Toasty_boii: Set own game mode to Spectator Mode]
 [20:45:59] [Server thread/INFO]: Toasty_boii issued server command: /gamemode survival
 [20:45:59] [Server thread/INFO]: [Toasty_boii: Set own game mode to Survival Mode]
+[21:00:38] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[21:00:38] [Server thread/INFO]: Toasty_boii left the game
+[21:31:10] [User Authenticator #32/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[21:31:10] [Server thread/INFO]: Toasty_boii[/208.187.44.252:52808] logged in with entity id 447246 at ([world]-195.95487893256015, 47.0, 64.46925692142673)
+[21:53:59] [Server thread/INFO]: Toasty_boii has made the advancement [Hot Stuff]
