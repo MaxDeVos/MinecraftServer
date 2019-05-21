@@ -69,3 +69,28 @@
 [15:48:52] [Server thread/WARN]: tlins moved too quickly! -34.86420487263058,1.0791612835891726,-1.2339208836224316
 [15:49:25] [Server thread/WARN]: tlins moved too quickly! -23.30169768365363,-0.06292533143630408,3.9930460646106667
 [15:49:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 42333ms or 846 ticks behind
+[15:56:20] [Server thread/WARN]: tlins moved too quickly! -42.80995256559095,-3.8109110596580535,5.243872667647139
+[15:59:53] [Server thread/INFO]: tlins issued server command: /effect give @e[type=minecraft:pillager] minecraft:glowing 30 1
+[15:59:53] [Server thread/INFO]: [tlins: Applied effect Glowing to 9 targets]
+[16:01:20] [Server thread/WARN]: tlins moved too quickly! 11.988830120578712,3.2987031463477763,10.542934051560678
+[16:01:20] [Server thread/WARN]: tlins moved too quickly! 11.496129327439348,2.878703159460798,10.396239181943088
+[16:05:18] [Server thread/INFO]: tlins issued server command: /effect clear tlins
+[16:05:18] [Server thread/INFO]: [tlins: Removed every effect from tlins]
+[16:11:22] [Async Chat Thread - #17/INFO]: <Toasty_boii> 600, 1620[m
+[16:12:49] [Server thread/WARN]: Toasty_boii moved too quickly! -495.431909705727,28.945106652967947,-1661.4220656433815
+[16:15:04] [Server thread/WARN]: Toasty_boii moved too quickly! -18.23952696010571,0.2522033402537289,8.375401395864419
+[16:15:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5239ms or 104 ticks behind
+[16:15:49] [Server thread/WARN]: tlins moved too quickly! -494.912261810324,31.99866402088785,-1661.2800596955778
+[16:21:28] [Server thread/WARN]: Toasty_boii moved too quickly! -8.064781511771912,0.975575911786315,-15.134097221017555
+[16:21:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5325ms or 106 ticks behind
+[16:21:44] [User Authenticator #43/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[16:21:44] [Server thread/INFO]: maxcr1[/127.0.0.1:55271] logged in with entity id 813440 at ([world]-332.1735160396045, 64.0, 131.69675200310664)
+[16:21:44] [Async Chat Thread - #18/INFO]: <tlins> -914 -2800[m
+[16:23:14] [Async Chat Thread - #19/INFO]: <tlins> -1200 -4468[m
+[16:23:15] [Async Chat Thread - #19/INFO]: <Toasty_boii> -677 -1434[m
+[16:27:00] [Server thread/INFO]: Toasty_boii has made the advancement [The City at the End of the Game]
+[16:31:31] [Server thread/WARN]: tlins moved too quickly! 72.47914281988687,4.108890390522234,30.81385490039338
+[16:32:27] [Server thread/WARN]: tlins moved too quickly! 0.7912147769025069,-5.237242862038713,48.256874009130115
+[16:33:38] [Server thread/INFO]: maxcr1 issued server command: /enchant maxcr1 minecraft:feather_falling 3
+[16:33:38] [Server thread/INFO]: [maxcr1: Applied enchantment Feather Falling III to maxcr1's item]
+[16:38:29] [Server thread/INFO]: Toasty_boii has reached the goal [Sky's the Limit]
