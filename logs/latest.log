@@ -27,3 +27,45 @@
 [14:38:49] [Async Chat Thread - #12/INFO]: <tlins> hey gamer[m
 [14:39:03] [Async Chat Thread - #12/INFO]: <Toasty_boii> Whats up gamer[m
 [14:39:13] [Async Chat Thread - #12/INFO]: <tlins> just flying east until something interesting appears[m
+[14:39:52] [Async Chat Thread - #12/INFO]: <Toasty_boii> there are a lot of illagers right outside my window[m
+[14:40:00] [Async Chat Thread - #12/INFO]: <tlins> hmm[m
+[14:40:10] [Async Chat Thread - #12/INFO]: <Toasty_boii> lmao[m
+[14:43:46] [Async Chat Thread - #13/INFO]: <Toasty_boii> is there a kind of villager that will trade emeralds for leather[m
+[14:44:19] [Server thread/INFO]: tlins lost connection: Disconnected
+[14:44:19] [Server thread/INFO]: tlins left the game
+[14:45:43] [User Authenticator #40/INFO]: UUID of player tlins is cca4ccb0-1441-40e3-b874-7d0c023f7f91
+[14:45:43] [Server thread/INFO]: tlins[/50.81.72.157:3426] logged in with entity id 625106 at ([world]9862.472650489997, 71.0, -978.4496923673312)
+[14:45:52] [Async Chat Thread - #14/INFO]: <tlins> idk it disconnected me[m
+[14:50:15] [Server thread/WARN]: tlins moved too quickly! 26.566202584706843,-13.255458532840038,3.1424833079069003
+[14:51:36] [Server thread/INFO]: tlins lost connection: Disconnected
+[14:51:36] [Server thread/INFO]: tlins left the game
+[14:57:48] [Server thread/WARN]: Toasty_boii was kicked for floating too long!
+[14:57:48] [Server thread/INFO]: Toasty_boii lost connection: Flying is not enabled on this server
+[14:57:48] [Server thread/INFO]: Toasty_boii left the game
+[14:58:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@62d8edb2[id=<null>,name=Toasty_boii,properties={},legacy=false] (/208.187.44.252:53404) lost connection: Disconnected
+[14:58:03] [User Authenticator #41/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[14:58:03] [Server thread/INFO]: Toasty_boii[/208.187.44.252:53406] logged in with entity id 648455 at ([world]-198.48530252169135, 47.92293597758627, 81.71331022957555)
+[15:00:25] [User Authenticator #42/INFO]: UUID of player tlins is cca4ccb0-1441-40e3-b874-7d0c023f7f91
+[15:00:26] [Server thread/INFO]: tlins[/50.81.72.157:3659] logged in with entity id 651405 at ([world]13964.435761715717, 65.0, -965.8908009978963)
+[15:23:54] [Server thread/WARN]: tlins moved too quickly! -11.458931552238937,5.747796659746271,-2.170766667524049
+[15:23:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5479ms or 109 ticks behind
+[15:28:52] [Async Chat Thread - #15/INFO]: <tlins> voice?[m
+[15:29:00] [Async Chat Thread - #15/INFO]: <Toasty_boii> ye[m
+[15:30:01] [Async Chat Thread - #16/INFO]: <tlins> 11000 -1226[m
+[15:44:32] [Server thread/WARN]: tlins moved too quickly! -23.161810889027038,-2.540671193870537,4.073876890938209
+[15:45:20] [Server thread/WARN]: tlins moved too quickly! -28.118567533852,-3.23455662874872,6.088205004579095
+[15:46:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5438ms or 108 ticks behind
+[15:46:35] [Server thread/WARN]: tlins moved too quickly! -23.55250222700215,-2.5377133193613446,-1.2045988730689032
+[15:46:35] [Server thread/WARN]: tlins moved too quickly! -22.52834681997956,-2.4273839462378106,-1.1522181774953424
+[15:47:05] [Server thread/WARN]: tlins moved too quickly! -24.03097765727307,15.707771182532014,0.03808944478714693
+[15:47:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6660ms or 133 ticks behind
+[15:47:54] [Server thread/WARN]: tlins moved too quickly! -46.383015277442155,-5.383078899221999,-0.6670833579604505
+[15:47:54] [Server thread/WARN]: tlins moved too quickly! -45.05780372644949,-5.2335346118995005,-0.6480240839359794
+[15:48:39] [Server thread/WARN]: tlins moved too quickly! -32.157433599219985,20.94132012989654,-1.9266312555303102
+[15:48:40] [Server thread/WARN]: tlins moved too quickly! -29.827971408277335,14.580064483940944,-0.2659948938094203
+[15:48:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5269ms or 105 ticks behind
+[15:48:49] [Server thread/WARN]: tlins moved too quickly! -39.791772066240355,1.0484973703005664,-1.901807363988155
+[15:48:50] [Server thread/WARN]: tlins moved too quickly! -33.204092688507444,1.0695797448452709,-1.1106144925624903
+[15:48:52] [Server thread/WARN]: tlins moved too quickly! -34.86420487263058,1.0791612835891726,-1.2339208836224316
+[15:49:25] [Server thread/WARN]: tlins moved too quickly! -23.30169768365363,-0.06292533143630408,3.9930460646106667
+[15:49:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 42333ms or 846 ticks behind

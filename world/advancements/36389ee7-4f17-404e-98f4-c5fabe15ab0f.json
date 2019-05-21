@@ -356,6 +356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_the_recipe": "2019-05-21 15:34:58 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2019-04-16 20:01:58 -0500"
@@ -2025,6 +2031,7 @@
       "bread": "2019-04-18 13:11:34 -0500",
       "rotten_flesh": "2019-04-18 16:53:52 -0500",
       "dried_kelp": "2019-04-19 21:45:14 -0500",
+      "golden_carrot": "2019-05-21 15:40:30 -0500",
       "cooked_chicken": "2019-05-04 22:25:44 -0500",
       "mushroom_stew": "2019-04-18 19:42:33 -0500",
       "cod": "2019-04-18 13:09:20 -0500",
@@ -2602,6 +2609,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2019-04-18 16:11:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2019-05-21 15:35:10 -0500"
     },
     "done": true
   },
