@@ -208,3 +208,26 @@
 [20:44:18] [Server thread/INFO]: [tlins: Applied enchantment Unbreaking III to tlins's item]
 [20:44:19] [User Authenticator #52/INFO]: UUID of player ClockworkGold is 99a0df9c-9246-45b9-9a60-d7c5888f7704
 [20:44:20] [Server thread/INFO]: ClockworkGold[/98.166.107.111:51751] logged in with entity id 991774 at ([world]-315.4280396406384, 68.0, 38.100063882932936)
+[21:04:34] [Server thread/INFO]: ClockworkGold lost connection: Disconnected
+[21:04:34] [Server thread/INFO]: ClockworkGold left the game
+[21:06:41] [User Authenticator #53/INFO]: UUID of player ClockworkGold is 99a0df9c-9246-45b9-9a60-d7c5888f7704
+[21:06:41] [Server thread/INFO]: ClockworkGold[/98.166.107.111:51767] logged in with entity id 1014513 at ([world]-309.4306328981762, 62.9375, 166.44580637653593)
+[21:07:15] [Server thread/INFO]: tlins lost connection: Disconnected
+[21:07:15] [Server thread/INFO]: tlins left the game
+[21:10:45] [User Authenticator #54/INFO]: UUID of player tlins is cca4ccb0-1441-40e3-b874-7d0c023f7f91
+[21:10:45] [Server thread/INFO]: tlins[/50.81.72.157:18339] logged in with entity id 1016950 at ([world]-284.30000001192093, 63.0, 115.67822428255765)
+[21:19:20] [Async Chat Thread - #21/INFO]: <ClockworkGold> patch your creeper holes, retard[m
+[21:19:34] [Async Chat Thread - #21/INFO]: <tlins> lmao :)))))))))))))))))))))))[m
+[21:20:50] [Server thread/INFO]: ClockworkGold lost connection: Disconnected
+[21:20:50] [Server thread/INFO]: ClockworkGold left the game
+[21:21:08] [Server thread/INFO]: tlins lost connection: Disconnected
+[21:21:08] [Server thread/INFO]: tlins left the game
+[21:36:15] [Server thread/INFO]: blazingalchemist lost connection: Disconnected
+[21:36:15] [Server thread/INFO]: blazingalchemist left the game
+[21:37:10] [User Authenticator #55/INFO]: UUID of player blazingalchemist is e326b185-d5de-4b69-a8a4-2fac29e5f71d
+[21:37:10] [Server thread/INFO]: blazingalchemist[/70.97.238.185:53103] logged in with entity id 1038181 at ([world]-301.750264486987, 11.0, 82.44649209105624)
+[21:44:15] [User Authenticator #56/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[21:44:15] [Server thread/INFO]: maxcr1[/127.0.0.1:59702] logged in with entity id 1043617 at ([world_nether]51.61088307609306, 65.0, 158.37318784794505)
+[21:45:31] [Server thread/INFO]: maxcr1 issued server command: /summon minecraft:wither_skeleton
+[21:45:31] [Server thread/INFO]: [maxcr1: Summoned new Wither Skeleton]
+[21:46:40] [Server thread/INFO]: maxcr1 fell from a high place
