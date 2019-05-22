@@ -104,3 +104,36 @@
 [17:06:02] [Server thread/INFO]: maxcr1 left the game
 [17:58:01] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
 [17:58:01] [Server thread/INFO]: Toasty_boii left the game
+[18:51:40] [User Authenticator #44/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[18:51:40] [Server thread/INFO]: maxcr1[/127.0.0.1:57139] logged in with entity id 919404 at ([world_nether]185.74805616162175, 34.0, -59.7886000940472)
+[18:58:39] [User Authenticator #45/INFO]: UUID of player tlins is cca4ccb0-1441-40e3-b874-7d0c023f7f91
+[18:58:39] [Server thread/INFO]: tlins[/50.81.72.157:1978] logged in with entity id 922082 at ([world]-337.7308163610787, 64.0, 132.8704213407252)
+[19:01:11] [Server thread/INFO]: maxcr1 issued server command: /give maxcr1 arrow 1
+[19:01:11] [Server thread/INFO]: [maxcr1: Gave 1 [Arrow] to maxcr1]
+[19:10:33] [Server thread/INFO]: tlins issued server command: /enchant tlins minecraft:unbreaking 3
+[19:10:51] [Server thread/INFO]: tlins issued server command: /gamemode creative
+[19:10:51] [Server thread/INFO]: [tlins: Set own game mode to Creative Mode]
+[19:11:02] [Server thread/INFO]: tlins issued server command: /gamemode survival
+[19:11:02] [Server thread/INFO]: [tlins: Set own game mode to Survival Mode]
+[19:11:23] [Server thread/INFO]: tlins issued server command: /gamemode creative
+[19:11:23] [Server thread/INFO]: [tlins: Set own game mode to Creative Mode]
+[19:11:30] [Server thread/INFO]: tlins issued server command: /gamemode survival
+[19:11:30] [Server thread/INFO]: [tlins: Set own game mode to Survival Mode]
+[19:16:46] [Server thread/INFO]: maxcr1 issued server command: /enchant maxcr1 infinity 1
+[19:23:39] [Server thread/INFO]: maxcr1 issued server command: /summon minecraft:wither_skeleton ~ 64.96 ~5
+[19:23:39] [Server thread/INFO]: [maxcr1: Summoned new Wither Skeleton]
+[19:23:46] [Server thread/INFO]: maxcr1 issued server command: /summon minecraft:wither_skeleton ~ 64.96 ~5
+[19:23:46] [Server thread/INFO]: [maxcr1: Summoned new Wither Skeleton]
+[19:24:06] [Server thread/INFO]: maxcr1 issued server command: /summon minecraft:wither_skeleton ~ 64.96 ~5
+[19:24:06] [Server thread/INFO]: [maxcr1: Summoned new Wither Skeleton]
+[19:25:26] [Server thread/INFO]: maxcr1 issued server command: /summon minecraft:wither_skeleton ~ 64.96 ~5 tlins
+[19:28:26] [Server thread/INFO]: tlins was slain by Zombie Pigman
+[19:28:36] [Server thread/INFO]: tlins issued server command: /gamerule keepInventory false
+[19:28:36] [Server thread/INFO]: [tlins: Gamerule keepInventory is now set to: false]
+[19:28:56] [Server thread/INFO]: maxcr1 withered away
+[19:29:42] [Server thread/INFO]: maxcr1 issued server command: /locate Fortress
+[19:30:19] [Server thread/INFO]: maxcr1 issued server command: /locate Fortress
+[19:30:28] [Server thread/INFO]: maxcr1 issued server command: /locate Fortress
+[19:30:38] [Server thread/INFO]: maxcr1 issued server command: /locate Fortress
+[19:32:04] [Server thread/INFO]: tlins issued server command: /scoreboard objectives list
+[19:36:40] [Server thread/INFO]: maxcr1 withered away
