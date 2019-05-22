@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2019-05-22 11:45:33 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2019-04-24 18:05:26 -0500"
@@ -182,6 +188,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2019-04-19 21:46:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2019-05-22 11:25:56 -0500"
     },
     "done": true
   },
@@ -547,8 +559,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:pillager": "2019-04-19 20:49:12 -0500",
       "minecraft:blaze": "2019-04-18 18:17:06 -0500",
+      "minecraft:pillager": "2019-04-19 20:49:12 -0500",
       "minecraft:skeleton": "2019-04-16 20:12:29 -0500",
       "minecraft:zombie_pigman": "2019-04-18 20:20:22 -0500",
       "minecraft:ghast": "2019-04-18 18:20:20 -0500",
@@ -1574,6 +1586,7 @@
       "cooked_porkchop": "2019-04-20 22:36:34 -0500",
       "cooked_mutton": "2019-04-18 18:36:02 -0500",
       "cooked_beef": "2019-04-18 18:11:14 -0500",
+      "chorus_fruit": "2019-05-22 11:26:00 -0500",
       "baked_potato": "2019-04-18 18:51:10 -0500",
       "beef": "2019-04-18 21:45:08 -0500",
       "porkchop": "2019-04-18 19:54:02 -0500",
@@ -2626,5 +2639,5 @@
     },
     "done": true
   },
-  "DataVersion": 1952
+  "DataVersion": 1957
 }
