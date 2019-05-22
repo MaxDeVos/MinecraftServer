@@ -582,8 +582,8 @@
       "minecraft:husk": "2019-04-20 21:47:25 -0500",
       "minecraft:shulker": "2019-05-12 15:51:00 -0500",
       "minecraft:cave_spider": "2019-04-22 19:07:34 -0500",
-      "minecraft:enderman": "2019-05-04 16:54:29 -0500",
       "minecraft:silverfish": "2019-05-10 21:33:36 -0500",
+      "minecraft:enderman": "2019-05-04 16:54:29 -0500",
       "minecraft:zombie": "2019-04-19 20:47:21 -0500",
       "minecraft:zombie_villager": "2019-05-05 20:06:33 -0500"
     },
@@ -2618,5 +2618,5 @@
     },
     "done": true
   },
-  "DataVersion": 1952
+  "DataVersion": 1957
 }

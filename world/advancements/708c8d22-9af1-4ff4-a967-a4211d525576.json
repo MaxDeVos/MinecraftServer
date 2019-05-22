@@ -341,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2019-05-21 20:36:09 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-04-18 18:37:20 -0500"
@@ -737,6 +743,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2019-05-21 20:36:09 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2019-04-18 18:23:11 -0500"
@@ -942,8 +954,8 @@
       "minecraft:spider": "2019-04-18 18:32:47 -0500",
       "minecraft:creeper": "2019-04-18 21:34:18 -0500",
       "minecraft:husk": "2019-04-18 18:32:09 -0500",
-      "minecraft:enderman": "2019-05-10 21:39:43 -0500",
       "minecraft:silverfish": "2019-05-10 21:33:35 -0500",
+      "minecraft:enderman": "2019-05-10 21:39:43 -0500",
       "minecraft:zombie": "2019-04-18 18:53:10 -0500",
       "minecraft:drowned": "2019-04-18 19:08:01 -0500"
     },
@@ -1507,6 +1519,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2019-05-21 20:36:09 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2019-04-18 18:23:12 -0500"
@@ -1936,5 +1954,5 @@
     },
     "done": true
   },
-  "DataVersion": 1952
+  "DataVersion": 1957
 }

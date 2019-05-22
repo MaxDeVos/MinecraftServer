@@ -137,3 +137,74 @@
 [19:30:38] [Server thread/INFO]: maxcr1 issued server command: /locate Fortress
 [19:32:04] [Server thread/INFO]: tlins issued server command: /scoreboard objectives list
 [19:36:40] [Server thread/INFO]: maxcr1 withered away
+[19:40:51] [Server thread/INFO]: tlins issued server command: /gamemode spectator
+[19:40:51] [Server thread/INFO]: [tlins: Set own game mode to Spectator Mode]
+[19:41:21] [Server thread/INFO]: tlins issued server command: /gamemode creative
+[19:41:21] [Server thread/INFO]: [tlins: Set own game mode to Creative Mode]
+[19:41:34] [Server thread/INFO]: tlins issued server command: /gamemode spectator
+[19:41:34] [Server thread/INFO]: [tlins: Set own game mode to Spectator Mode]
+[19:41:49] [Server thread/INFO]: tlins issued server command: /gamemode survival
+[19:41:49] [Server thread/INFO]: [tlins: Set own game mode to Survival Mode]
+[19:47:12] [Server thread/INFO]: tlins issued server command: /scoreboard players list
+[19:50:51] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[19:50:51] [Server thread/INFO]: maxcr1 left the game
+[19:50:58] [Server thread/INFO]: tlins issued server command: /scoreboard objectives add witherskeletons minecraft.killed_by:minecraft.wither_skeleton
+[19:50:58] [Server thread/INFO]: [tlins: Created new objective [witherskeletons]]
+[19:51:17] [Server thread/INFO]: tlins issued server command: /scoreboard players set tlins witherskeletons 70
+[19:51:17] [Server thread/INFO]: [tlins: Set [witherskeletons] for tlins to 70]
+[19:51:20] [Server thread/INFO]: tlins issued server command: /scoreboard players set tlins witherskeletons 0
+[19:51:20] [Server thread/INFO]: [tlins: Set [witherskeletons] for tlins to 0]
+[19:51:26] [Server thread/INFO]: tlins issued server command: /scoreboard players set maxcr1 witherskeletons 0
+[19:51:26] [Server thread/INFO]: [tlins: Set [witherskeletons] for maxcr1 to 0]
+[19:51:29] [Server thread/INFO]: tlins issued server command: /scoreboard players set maxcr1 witherskeletons 70
+[19:51:29] [Server thread/INFO]: [tlins: Set [witherskeletons] for maxcr1 to 70]
+[19:51:57] [Server thread/INFO]: tlins issued server command: /scoreboard players set tlins chungusKilled 2602
+[19:51:57] [Server thread/INFO]: [tlins: Set [chungusKilled] for tlins to 2602]
+[19:52:11] [Server thread/INFO]: tlins issued server command: /scoreboard players set loejins777777 chungusKilled 0
+[19:52:11] [Server thread/INFO]: [tlins: Set [chungusKilled] for loejins777777 to 0]
+[19:52:37] [Server thread/INFO]: tlins issued server command: /scoreboard players get tlins ki
+[19:52:47] [Server thread/INFO]: tlins issued server command: /scoreboard players get tlins kelpsumptioni
+[19:52:49] [Server thread/INFO]: tlins issued server command: /scoreboard players get tlins kelpsumption
+[19:52:57] [Server thread/INFO]: tlins issued server command: /scoreboard players get tlins corndogs
+[19:53:48] [Server thread/INFO]: tlins lost connection: Disconnected
+[19:53:48] [Server thread/INFO]: tlins left the game
+[19:57:47] [User Authenticator #46/INFO]: UUID of player tlins is cca4ccb0-1441-40e3-b874-7d0c023f7f91
+[19:57:47] [Server thread/INFO]: tlins[/50.81.72.157:2642] logged in with entity id 959377 at ([world]-329.82313107011356, 68.0, 122.17457457098595)
+[20:02:34] [Server thread/INFO]: tlins issued server command: /effect give @e[type=minecraft:witch] minecraft:glowing 30 1
+[20:02:48] [Server thread/INFO]: tlins issued server command: /summon minecraft:witch
+[20:02:48] [Server thread/INFO]: [tlins: Summoned new Witch]
+[20:07:00] [Server thread/INFO]: tlins lost connection: Disconnected
+[20:07:00] [Server thread/INFO]: tlins left the game
+[20:24:47] [User Authenticator #47/INFO]: UUID of player tlins is cca4ccb0-1441-40e3-b874-7d0c023f7f91
+[20:24:47] [Server thread/INFO]: tlins[/50.81.72.157:4186] logged in with entity id 966925 at ([world]-334.3939873652346, 64.0, 130.461770827172)
+[20:25:03] [Server thread/INFO]: tlins lost connection: Disconnected
+[20:25:03] [Server thread/INFO]: tlins left the game
+[20:25:48] [User Authenticator #48/INFO]: UUID of player tlins is cca4ccb0-1441-40e3-b874-7d0c023f7f91
+[20:25:48] [Server thread/INFO]: tlins[/50.81.72.157:4870] logged in with entity id 967212 at ([world]-332.99488104728687, 64.0, 131.32288002640908)
+[20:27:25] [Server thread/INFO]: tlins lost connection: Disconnected
+[20:27:25] [Server thread/INFO]: tlins left the game
+[20:27:33] [User Authenticator #49/INFO]: UUID of player tlins is cca4ccb0-1441-40e3-b874-7d0c023f7f91
+[20:27:33] [Server thread/INFO]: tlins[/50.81.72.157:5472] logged in with entity id 969197 at ([world]-249.50088260983674, 64.0, 119.88641484147173)
+[20:30:55] [User Authenticator #50/INFO]: UUID of player Strauberry_36 is 708c8d22-9af1-4ff4-a967-a4211d525576
+[20:30:55] [Server thread/INFO]: Strauberry_36[/97.116.85.78:50864] logged in with entity id 974790 at ([world]-289.1220449532101, 64.0, 98.86683143055798)
+[20:36:10] [Server thread/INFO]: Strauberry_36 was slain by Zombie
+[20:36:12] [User Authenticator #51/INFO]: UUID of player blazingalchemist is e326b185-d5de-4b69-a8a4-2fac29e5f71d
+[20:36:12] [Server thread/INFO]: blazingalchemist[/70.97.238.185:50019] logged in with entity id 983263 at ([world]-254.3330695214477, 64.0, 162.23750001192093)
+[20:37:25] [Server thread/INFO]: Strauberry_36 lost connection: Disconnected
+[20:37:25] [Server thread/INFO]: Strauberry_36 left the game
+[20:41:15] [Server thread/INFO]: tlins issued server command: /give tlins minecraft:bow
+[20:41:15] [Server thread/INFO]: [tlins: Gave 1 [Bow] to tlins]
+[20:41:25] [Server thread/INFO]: tlins issued server command: /enchant tlins minecraft:power 5
+[20:41:25] [Server thread/INFO]: [tlins: Applied enchantment Power V to tlins's item]
+[20:42:29] [Server thread/INFO]: tlins issued server command: /enchant tlins minecraft:quick_charge 3
+[20:42:40] [Server thread/INFO]: tlins issued server command: /give tlins minecraft:crossbow
+[20:42:40] [Server thread/INFO]: [tlins: Gave 1 [Crossbow] to tlins]
+[20:42:51] [Server thread/INFO]: tlins issued server command: /enchant tlins minecraft:multishot 1
+[20:42:51] [Server thread/INFO]: [tlins: Applied enchantment Multishot to tlins's item]
+[20:42:55] [Server thread/INFO]: tlins issued server command: /enchant tlins minecraft:quick_charge 3
+[20:42:55] [Server thread/INFO]: [tlins: Applied enchantment Quick Charge III to tlins's item]
+[20:42:57] [Server thread/INFO]: tlins issued server command: /enchant tlins minecraft:quick_charge 4
+[20:44:18] [Server thread/INFO]: tlins issued server command: /enchant tlins minecraft:unbreaking 3
+[20:44:18] [Server thread/INFO]: [tlins: Applied enchantment Unbreaking III to tlins's item]
+[20:44:19] [User Authenticator #52/INFO]: UUID of player ClockworkGold is 99a0df9c-9246-45b9-9a60-d7c5888f7704
+[20:44:20] [Server thread/INFO]: ClockworkGold[/98.166.107.111:51751] logged in with entity id 991774 at ([world]-315.4280396406384, 68.0, 38.100063882932936)
