@@ -231,3 +231,78 @@
 [21:45:31] [Server thread/INFO]: maxcr1 issued server command: /summon minecraft:wither_skeleton
 [21:45:31] [Server thread/INFO]: [maxcr1: Summoned new Wither Skeleton]
 [21:46:40] [Server thread/INFO]: maxcr1 fell from a high place
+[21:55:27] [User Authenticator #57/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[21:55:27] [Server thread/INFO]: Toasty_boii[/208.187.44.252:53886] logged in with entity id 1054682 at ([world]-292.69999998807907, 72.0000002, 206.30000001192093)
+[22:00:09] [Server thread/INFO]: maxcr1 fell from a high place
+[22:00:15] [Async Chat Thread - #22/INFO]: <Toasty_boii> F[m
+[22:01:32] [Async Chat Thread - #23/INFO]: <Toasty_boii> Sleep?[m
+[22:01:35] [Server thread/INFO]: maxcr1 issued server command: /time set day
+[22:01:35] [Server thread/INFO]: [maxcr1: Set the time to 1000]
+[22:01:37] [Async Chat Thread - #23/INFO]: <blazingalchemist> ye[m
+[22:01:57] [Async Chat Thread - #23/INFO]: <Toasty_boii> peter these are some weird looking coes[m
+[22:02:00] [Async Chat Thread - #23/INFO]: <Toasty_boii> cows*[m
+[22:04:28] [Async Chat Thread - #24/INFO]: <Toasty_boii> it seems i have started a raid[m
+[22:04:41] [Async Chat Thread - #24/INFO]: <blazingalchemist> i killed 3 also[m
+[22:05:22] [Async Chat Thread - #24/INFO]: <blazingalchemist> south[m
+[22:05:38] [Async Chat Thread - #24/INFO]: <blazingalchemist> by my house[m
+[22:06:30] [Server thread/WARN]: Toasty_boii moved too quickly! 2.3659102576303894,0.0,-11.712150115019597
+[22:07:33] [Async Chat Thread - #25/INFO]: <blazingalchemist> more[m
+[22:10:10] [Async Chat Thread - #26/INFO]: <blazingalchemist> howmany waves are ther?[m
+[22:10:26] [Async Chat Thread - #26/INFO]: <Toasty_boii> idk it says were done[m
+[22:10:43] [Server thread/WARN]: Toasty_boii moved too quickly! -7.897743840173177,-0.8592356006687041,-6.849845101331027
+[22:10:43] [Server thread/WARN]: blazingalchemist moved too quickly! -8.567923660062377,-0.9215999984741217,-13.721562336417378
+[22:10:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6217ms or 124 ticks behind
+[22:10:53] [Server thread/INFO]: blazingalchemist lost connection: Disconnected
+[22:10:53] [Server thread/INFO]: blazingalchemist left the game
+[22:10:55] [User Authenticator #58/INFO]: UUID of player blazingalchemist is e326b185-d5de-4b69-a8a4-2fac29e5f71d
+[22:10:56] [Server thread/INFO]: blazingalchemist[/70.97.238.185:54635] logged in with entity id 1068786 at ([world]-263.97749034042295, 63.0, 120.64449595971372)
+[22:11:36] [Server thread/WARN]: Toasty_boii moved too quickly! 34.572644472887816,-5.3607054540185715,-18.132079719675566
+[22:12:12] [Server thread/WARN]: maxcr1 moved too quickly! -494.80562631463124,29.1875,-1661.5485338652177
+[22:13:37] [User Authenticator #59/INFO]: UUID of player tlins is cca4ccb0-1441-40e3-b874-7d0c023f7f91
+[22:13:38] [Server thread/INFO]: tlins[/50.81.72.157:19384] logged in with entity id 1071922 at ([world]-340.6756262656137, 73.0, 110.09936352476895)
+[22:14:28] [Server thread/INFO]: tlins issued server command: /effect give @e[type=minecraft:pillager] minecraft:glowing 120 1
+[22:14:28] [Server thread/INFO]: [tlins: Applied effect Glowing to 7 targets]
+[22:14:30] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[22:14:30] [Server thread/INFO]: maxcr1 left the game
+[22:15:27] [Server thread/INFO]: Gamerule keepInventory is now set to: true
+[22:16:15] [User Authenticator #60/INFO]: UUID of player maxcr1 is 4d3fe67e-8b2d-43a4-883d-915e0aea2fd8
+[22:16:15] [Server thread/INFO]: maxcr1[/127.0.0.1:49246] logged in with entity id 1073533 at ([world_the_end]-154.92761669439213, -147.4161634603925, -30.426260983633853)
+[22:16:15] [Server thread/INFO]: maxcr1 fell out of the world
+[22:16:21] [Server thread/INFO]: maxcr1 lost connection: Disconnected
+[22:16:21] [Server thread/INFO]: maxcr1 left the game
+[22:17:24] [Async Chat Thread - #27/INFO]: <Toasty_boii> sleep?[m
+[22:17:30] [Server thread/INFO]: tlins issued server command: /time set day
+[22:17:30] [Server thread/INFO]: [tlins: Set the time to 1000]
+[22:17:35] [Async Chat Thread - #27/INFO]: <tlins> yes[m
+[22:18:05] [Server thread/INFO]: tlins issued server command: /effect give @e[type=minecraft:pillager] minecraft:glowing 120 1
+[22:18:05] [Server thread/INFO]: [tlins: Applied effect Glowing to 2 targets]
+[22:18:22] [Server thread/INFO]: tlins issued server command: /effect give @e[type=minecraft:pillager] minecraft:instant_damage 120 5
+[22:18:22] [Server thread/INFO]: [tlins: Applied effect Instant Damage to 2 targets]
+[22:18:36] [Server thread/INFO]: tlins issued server command: /effect give @e[type=minecraft:ravager] minecraft:glowing 30 1
+[22:18:45] [Server thread/INFO]: tlins issued server command: /effect give @e[type=minecraft:vindicator] minecraft:glowing 30 1
+[22:18:45] [Server thread/INFO]: [tlins: Applied effect Glowing to 2 targets]
+[22:18:57] [Server thread/INFO]: tlins issued server command: /effect give @e[type=minecraft:vindicator] minecraft:instant_damage 30 5
+[22:18:57] [Server thread/INFO]: [tlins: Applied effect Instant Damage to 2 targets]
+[22:19:37] [Server thread/INFO]: tlins issued server command: /effect give @e[type=minecraft:vindicator] minecraft:instant_damage 30 5
+[22:19:40] [Server thread/INFO]: tlins issued server command: /effect give @e[type=minecraft:pillager] minecraft:instant_damage 120 5
+[22:19:40] [Server thread/INFO]: [tlins: Applied effect Instant Damage to 4 targets]
+[22:19:45] [Server thread/INFO]: tlins issued server command: /effect give @e[type=minecraft:ravager] minecraft:glowing 30 1
+[22:19:45] [Server thread/INFO]: [tlins: Applied effect Glowing to Ravager]
+[22:19:54] [Server thread/INFO]: tlins issued server command: /effect give @e[type=minecraft:ravager] minecraft:instant_damage 120 5
+[22:19:54] [Server thread/INFO]: [tlins: Applied effect Instant Damage to Ravager]
+[22:21:11] [Server thread/INFO]: tlins issued server command: /effect clear tlins
+[22:21:11] [Server thread/INFO]: [tlins: Removed every effect from tlins]
+[22:21:18] [Server thread/INFO]: tlins issued server command: /effect clear tlins minecraft:bad_omen
+[22:21:24] [Server thread/INFO]: tlins issued server command: /effect clear Toasty_boii minecraft:bad_omen
+[22:21:24] [Server thread/INFO]: [tlins: Removed effect Bad Omen from Toasty_boii]
+[22:21:40] [Server thread/INFO]: tlins issued server command: /effect give tlins minecraft:hero_of_the_village 4
+[22:21:40] [Server thread/INFO]: [tlins: Applied effect Hero of the Village to tlins]
+[22:21:47] [Server thread/INFO]: tlins issued server command: /effect give tlins minecraft:hero_of_the_village 1200 4
+[22:21:47] [Server thread/INFO]: [tlins: Applied effect Hero of the Village to tlins]
+[22:22:09] [Server thread/INFO]: tlins issued server command: /effect give tlins minecraft:hero_of_the_village 1200 50
+[22:22:09] [Server thread/INFO]: [tlins: Applied effect Hero of the Village to tlins]
+[22:23:18] [Server thread/INFO]: Toasty_boii fell from a high place
+[22:23:32] [Server thread/INFO]: tlins issued server command: /gamerule keepInventory false
+[22:23:32] [Server thread/INFO]: [tlins: Gamerule keepInventory is now set to: false]
+[22:24:11] [Server thread/INFO]: tlins lost connection: Disconnected
+[22:24:11] [Server thread/INFO]: tlins left the game
