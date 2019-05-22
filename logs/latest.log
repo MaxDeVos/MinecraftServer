@@ -12,3 +12,16 @@
 [11:28:20] [Server thread/INFO]: [tlins: Reset all scores for loejins777777]
 [11:36:54] [Server thread/INFO]: tlins issued server command: /give @p minecraft:diamond_sword{Unbreakable:1,AttributeModifiers:[{AttributeName:"generic.attackSpeed",Name:"generic.attackSpeed",Amount:10,Operation:2,UUIDMost:94911,UUIDLeast:164402}],Enchantments:[{id:"minecraft:looting",lvl:127}]} 1
 [11:36:54] [Server thread/INFO]: [tlins: Gave 1 [Diamond Sword] to tlins]
+[11:44:42] [Server thread/INFO]: tlins issued server command: /gamerule keepInventory \
+[11:44:44] [Server thread/INFO]: tlins issued server command: /gamerule keepInventory
+[11:45:13] [Server thread/INFO]: tlins issued server command: /enchant tlins minecraft:mending 1
+[11:45:13] [Server thread/INFO]: [tlins: Applied enchantment Mending to tlins's item]
+[11:45:33] [Server thread/INFO]: LoeJins7777777 has reached the goal [Sky's the Limit]
+[11:50:57] [Server thread/INFO]: tlins experienced kinetic energy
+[11:52:54] [Server thread/INFO]: tlins issued server command: /time get
+[11:52:56] [Server thread/INFO]: tlins issued server command: /time query
+[11:53:03] [Server thread/INFO]: tlins issued server command: /time query daytime
+[11:59:00] [Server thread/INFO]: tlins lost connection: Disconnected
+[11:59:00] [Server thread/INFO]: tlins left the game
+[12:04:43] [Server thread/INFO]: LoeJins7777777 lost connection: Disconnected
+[12:04:43] [Server thread/INFO]: LoeJins7777777 left the game
