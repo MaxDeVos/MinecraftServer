@@ -1,0 +1,59 @@
+
+
+
+    
+###########################################################
+#######################  Kits #############################
+###########################################################
+
+
+##  Kits
+# the permission for each kit is sg.kit.<kitname> where
+# kit name is the name of the kit
+#
+# cost is the cost to use this kit. #not implemented#
+#
+# icon: the icon to be displayed with this kit
+#
+# contents: the contents of this kit
+#
+# Items are defined as 
+#    itemnumber, amount, durabilty, enchantments, name
+# Example: diamond sword with 1 item, full durabilty, shaprness 4, knockback 2 and the name killer
+#     276, 1, 0, sharpness: 4 knockback: 2, killer
+#
+
+#DONT TOUCH THIS
+version: 1
+
+
+enabled: false
+
+
+## Kit Display Mode 
+#
+#  SHOW_ALL     = Show all the kit contents
+#  SHOW_ICON    = Show only the icon
+#  AUTO_SELECT  = Auto select the top level kit
+
+kit-select-mode: 'SHOW_ALL'
+
+
+
+
+kits:
+  test-kit:
+    cost: 0
+    icon: 'WOOD_DOOR'
+    contents:
+    - 'IRON_SWORD,1, 0, sharpness:4, Blade'
+    - 'BOW'
+    - 'ARROW, 64'
+  kit2:
+    cost: 0
+    icon: 'WOOD_DOOR'
+    contents:
+    - 'STONE_SWORD,1, 0, fire:2, Fire'
+    - 'BOW'
+    - 'ARROW, 64'
+    
