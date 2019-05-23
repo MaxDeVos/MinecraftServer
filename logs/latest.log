@@ -621,3 +621,27 @@ Caused by: java.lang.NoSuchMethodError: org.bukkit.event.player.PlayerPortalEven
 [19:29:33] [Server thread/WARN]: Toasty_boii moved too quickly! 12.317165431341323,3.082128233238649,-30.51044371310587
 [19:30:22] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
 [19:30:22] [Server thread/INFO]: Toasty_boii left the game
+[20:16:45] [User Authenticator #5/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[20:16:45] [Server thread/INFO]: Toasty_boii[/208.187.44.252:50507] logged in with entity id 84772 at ([world]-202.1023835696683, 43.0, 66.90981422724246)
+[20:16:48] [Craft Scheduler Thread - 0/INFO]: [SG]Checking for updates
+[20:17:09] [Craft Scheduler Thread - 0/WARN]: [SurvivalGames] [SurvivalGames] Could not check for updates.
+[20:19:01] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[20:19:01] [Server thread/INFO]: Toasty_boii left the game
+[20:22:07] [User Authenticator #6/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[20:22:07] [Server thread/INFO]: Toasty_boii[/208.187.44.252:50526] logged in with entity id 86179 at ([world]-201.43624023090715, 43.0, 68.3572911416348)
+[20:22:10] [Craft Scheduler Thread - 0/INFO]: [SG]Checking for updates
+[20:22:31] [Craft Scheduler Thread - 0/WARN]: [SurvivalGames] [SurvivalGames] Could not check for updates.
+[20:23:52] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[20:23:52] [Server thread/INFO]: Toasty_boii left the game
+[20:27:41] [User Authenticator #7/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[20:27:41] [Server thread/INFO]: Toasty_boii[/208.187.44.252:50548] logged in with entity id 87198 at ([world]-197.91426341653957, 47.0, 97.54059142682281)
+[20:27:44] [Craft Scheduler Thread - 0/INFO]: [SG]Checking for updates
+[20:27:58] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[20:27:58] [Server thread/INFO]: Toasty_boii left the game
+[20:28:05] [Craft Scheduler Thread - 0/WARN]: [SurvivalGames] [SurvivalGames] Could not check for updates.
+[20:28:30] [User Authenticator #8/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[20:28:31] [Server thread/INFO]: Toasty_boii[/208.187.44.252:50562] logged in with entity id 87376 at ([world]-199.65740743268003, 47.0, 91.22445639378881)
+[20:28:33] [Craft Scheduler Thread - 0/INFO]: [SG]Checking for updates
+[20:28:48] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[20:28:48] [Server thread/INFO]: Toasty_boii left the game
+[20:28:54] [Craft Scheduler Thread - 0/WARN]: [SurvivalGames] [SurvivalGames] Could not check for updates.
