@@ -555,3 +555,69 @@ Caused by: java.lang.NoSuchMethodError: com.sk89q.worldedit.bukkit.BukkitPlayer.
 [18:50:17] [Craft Scheduler Thread - 0/INFO]: [SG]Checking for updates
 [18:50:38] [Craft Scheduler Thread - 0/WARN]: [SurvivalGames] [SurvivalGames] Could not check for updates.
 [18:54:05] [Server thread/WARN]: Toasty_boii moved too quickly! 10.363817961541201,0.12129684053920187,-8.153254055234186
+[19:01:10] [Server thread/WARN]: Toasty_boii moved too quickly! -6.812855278093963,-0.07520089011894981,8.140005115339143
+[19:14:34] [Server thread/INFO]: Toasty_boii issued server command: /help
+[19:15:39] [Server thread/INFO]: Toasty_boii issued server command: /msg Toasty_boii yo
+[19:28:40] [Server thread/ERROR]: Could not pass event PlayerPortalEvent to Multiverse-Core v3.0.0-SNAPSHOT-b761
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot.jar:git-Spigot-4f661b2-d06991d]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot.jar:git-Spigot-4f661b2-d06991d]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:520) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:505) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.EntityPlayer.a(EntityPlayer.java:758) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.Entity.doPortalTick(Entity.java:2015) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.Entity.entityBaseTick(Entity.java:369) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.EntityLiving.entityBaseTick(EntityLiving.java:232) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.Entity.tick(Entity.java:341) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.EntityLiving.tick(EntityLiving.java:2211) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.EntityHuman.tick(EntityHuman.java:147) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.EntityPlayer.playerTick(EntityPlayer.java:397) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.PlayerConnection.tick(PlayerConnection.java:140) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.NetworkManager.a(NetworkManager.java:234) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.ServerConnection.c(ServerConnection.java:119) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.b(MinecraftServer.java:1080) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.b(DedicatedServer.java:396) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:956) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:801) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_211]
+Caused by: java.lang.NoSuchMethodError: org.bukkit.event.player.PlayerPortalEvent.getPortalTravelAgent()Lorg/bukkit/TravelAgent;
+	at com.onarandombox.MultiverseCore.listeners.MVPlayerListener.playerPortal(MVPlayerListener.java:307) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_211]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_211]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_211]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_211]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot.jar:git-Spigot-4f661b2-d06991d]
+	... 19 more
+[19:28:54] [Server thread/ERROR]: Could not pass event PlayerPortalEvent to Multiverse-Core v3.0.0-SNAPSHOT-b761
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot.jar:git-Spigot-4f661b2-d06991d]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot.jar:git-Spigot-4f661b2-d06991d]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:520) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:505) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.EntityPlayer.a(EntityPlayer.java:758) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.Entity.doPortalTick(Entity.java:2015) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.Entity.entityBaseTick(Entity.java:369) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.EntityLiving.entityBaseTick(EntityLiving.java:232) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.Entity.tick(Entity.java:341) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.EntityLiving.tick(EntityLiving.java:2211) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.EntityHuman.tick(EntityHuman.java:147) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.EntityPlayer.playerTick(EntityPlayer.java:397) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.PlayerConnection.tick(PlayerConnection.java:140) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.NetworkManager.a(NetworkManager.java:234) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.ServerConnection.c(ServerConnection.java:119) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.b(MinecraftServer.java:1080) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.b(DedicatedServer.java:396) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:956) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:801) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_211]
+Caused by: java.lang.NoSuchMethodError: org.bukkit.event.player.PlayerPortalEvent.getPortalTravelAgent()Lorg/bukkit/TravelAgent;
+	at com.onarandombox.MultiverseCore.listeners.MVPlayerListener.playerPortal(MVPlayerListener.java:307) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_211]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_211]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_211]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_211]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot.jar:git-Spigot-4f661b2-d06991d]
+	... 19 more
+[19:29:33] [Server thread/WARN]: Toasty_boii moved too quickly! 12.317165431341323,3.082128233238649,-30.51044371310587
+[19:30:22] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[19:30:22] [Server thread/INFO]: Toasty_boii left the game
