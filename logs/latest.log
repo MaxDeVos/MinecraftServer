@@ -1,20 +1,22 @@
-[11:48:41] [User Authenticator #11/INFO]: UUID of player blazingalchemist is e326b185-d5de-4b69-a8a4-2fac29e5f71d
-[11:48:41] [Server thread/INFO]: blazingalchemist[/70.97.238.185:53696] logged in with entity id 95533 at ([world]-255.81309487704203, 64.0, 166.8299850280871)
-[12:23:19] [Server thread/INFO]: blazingalchemist lost connection: Disconnected
-[12:23:19] [Server thread/INFO]: blazingalchemist left the game
-[17:32:11] [User Authenticator #12/INFO]: UUID of player blazingalchemist is e326b185-d5de-4b69-a8a4-2fac29e5f71d
-[17:32:11] [Server thread/INFO]: blazingalchemist[/70.97.238.185:57782] logged in with entity id 122602 at ([world]-258.700000025332, 64.0000002, 164.29999997466803)
-[17:35:00] [Server thread/INFO]: blazingalchemist lost connection: Disconnected
-[17:35:00] [Server thread/INFO]: blazingalchemist left the game
-[18:01:46] [User Authenticator #13/INFO]: UUID of player blazingalchemist is e326b185-d5de-4b69-a8a4-2fac29e5f71d
-[18:01:46] [Server thread/INFO]: blazingalchemist[/70.97.238.185:59846] logged in with entity id 126605 at ([world]-294.04805358869567, 9.0, 87.78373558770349)
-[18:06:40] [Server thread/INFO]: blazingalchemist lost connection: Disconnected
-[18:06:40] [Server thread/INFO]: blazingalchemist left the game
-[18:21:28] [User Authenticator #14/INFO]: UUID of player blazingalchemist is e326b185-d5de-4b69-a8a4-2fac29e5f71d
-[18:21:28] [Server thread/INFO]: blazingalchemist[/70.97.238.185:60896] logged in with entity id 132721 at ([world]-313.45120212747094, 11.0, 70.57138685471705)
-[19:00:42] [Server thread/INFO]: blazingalchemist lost connection: Disconnected
-[19:00:42] [Server thread/INFO]: blazingalchemist left the game
-[19:13:21] [User Authenticator #15/INFO]: UUID of player blazingalchemist is e326b185-d5de-4b69-a8a4-2fac29e5f71d
-[19:13:22] [Server thread/INFO]: blazingalchemist[/70.97.238.185:63761] logged in with entity id 163960 at ([world]-249.92818998966294, 56.0, 171.20959565723132)
-[19:24:28] [Server thread/INFO]: blazingalchemist lost connection: Disconnected
-[19:24:29] [Server thread/INFO]: blazingalchemist left the game
+[14:27:36] [User Authenticator #21/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[14:27:37] [Server thread/INFO]: Toasty_boii[/208.187.44.252:51096] logged in with entity id 471481 at ([world]-1489.774984737338, 135.0, 255.13118256771816)
+[14:27:39] [Craft Scheduler Thread - 0/INFO]: [SG]Checking for updates
+[14:28:00] [Craft Scheduler Thread - 0/WARN]: [SurvivalGames] [SurvivalGames] Could not check for updates.
+[14:29:10] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[14:29:10] [Server thread/INFO]: Toasty_boii left the game
+[14:30:33] [User Authenticator #22/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[14:30:33] [Server thread/INFO]: Toasty_boii[/208.187.44.252:51111] logged in with entity id 514720 at ([world]-213.08646300570646, 55.0, 72.8736036828322)
+[14:30:36] [Craft Scheduler Thread - 0/INFO]: [SG]Checking for updates
+[14:30:46] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[14:30:46] [Server thread/INFO]: Toasty_boii left the game
+[14:30:57] [Craft Scheduler Thread - 0/WARN]: [SurvivalGames] [SurvivalGames] Could not check for updates.
+[14:39:24] [User Authenticator #23/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[14:39:25] [Server thread/INFO]: Toasty_boii[/208.187.44.252:51141] logged in with entity id 514739 at ([world]-212.1720625820814, 55.0, 74.68820198513711)
+[14:39:27] [Craft Scheduler Thread - 0/INFO]: [SG]Checking for updates
+[14:39:30] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[14:39:30] [Server thread/INFO]: Toasty_boii left the game
+[14:39:49] [Craft Scheduler Thread - 0/WARN]: [SurvivalGames] [SurvivalGames] Could not check for updates.
+[23:10:01] [User Authenticator #24/INFO]: UUID of player blazingalchemist is e326b185-d5de-4b69-a8a4-2fac29e5f71d
+[23:10:01] [Server thread/INFO]: blazingalchemist[/70.97.238.185:58283] logged in with entity id 515097 at ([world]-255.59627663872178, 64.0, 168.40070402734864)
+[23:40:00] [Server thread/INFO]: blazingalchemist lost connection: Disconnected
+[23:40:00] [Server thread/INFO]: blazingalchemist left the game
