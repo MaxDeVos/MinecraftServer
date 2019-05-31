@@ -1,22 +1,264 @@
-[14:27:36] [User Authenticator #21/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
-[14:27:37] [Server thread/INFO]: Toasty_boii[/208.187.44.252:51096] logged in with entity id 471481 at ([world]-1489.774984737338, 135.0, 255.13118256771816)
-[14:27:39] [Craft Scheduler Thread - 0/INFO]: [SG]Checking for updates
-[14:28:00] [Craft Scheduler Thread - 0/WARN]: [SurvivalGames] [SurvivalGames] Could not check for updates.
-[14:29:10] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
-[14:29:10] [Server thread/INFO]: Toasty_boii left the game
-[14:30:33] [User Authenticator #22/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
-[14:30:33] [Server thread/INFO]: Toasty_boii[/208.187.44.252:51111] logged in with entity id 514720 at ([world]-213.08646300570646, 55.0, 72.8736036828322)
-[14:30:36] [Craft Scheduler Thread - 0/INFO]: [SG]Checking for updates
-[14:30:46] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
-[14:30:46] [Server thread/INFO]: Toasty_boii left the game
-[14:30:57] [Craft Scheduler Thread - 0/WARN]: [SurvivalGames] [SurvivalGames] Could not check for updates.
-[14:39:24] [User Authenticator #23/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
-[14:39:25] [Server thread/INFO]: Toasty_boii[/208.187.44.252:51141] logged in with entity id 514739 at ([world]-212.1720625820814, 55.0, 74.68820198513711)
-[14:39:27] [Craft Scheduler Thread - 0/INFO]: [SG]Checking for updates
-[14:39:30] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
-[14:39:30] [Server thread/INFO]: Toasty_boii left the game
-[14:39:49] [Craft Scheduler Thread - 0/WARN]: [SurvivalGames] [SurvivalGames] Could not check for updates.
-[23:10:01] [User Authenticator #24/INFO]: UUID of player blazingalchemist is e326b185-d5de-4b69-a8a4-2fac29e5f71d
-[23:10:01] [Server thread/INFO]: blazingalchemist[/70.97.238.185:58283] logged in with entity id 515097 at ([world]-255.59627663872178, 64.0, 168.40070402734864)
-[23:40:00] [Server thread/INFO]: blazingalchemist lost connection: Disconnected
-[23:40:00] [Server thread/INFO]: blazingalchemist left the game
+[21:27:05] [Server thread/INFO]: Loading properties
+[21:27:06] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-4f661b2-d06991d (MC: 1.14.1) (Implementing API version 1.14.1-R0.1-SNAPSHOT)
+[21:27:06] [Server thread/INFO]: Debug logging is disabled
+[21:27:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:27:06] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:27:06] [Server thread/INFO]: Default game type: SURVIVAL
+[21:27:06] [Server thread/INFO]: Generating keypair
+[21:27:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:27:07] [Server thread/INFO]: Using default channel type
+[21:27:11] [Server thread/WARN]: Plugin SurvivalGames v0.7.1 does not specify an api-version.
+[21:27:11] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.0.0-rc-2;7be00cc
+[21:27:12] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@563b7bd4]
+[21:27:12] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_14_R2 as the Bukkit adapter
+[21:27:13] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=0]
+[21:27:13] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=1]
+[21:27:13] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=2]
+[21:27:13] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=3]
+[21:27:13] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=4]
+[21:27:13] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=5]
+[21:27:13] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=6]
+[21:27:13] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=7]
+[21:27:13] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=8]
+[21:27:13] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=9]
+[21:27:13] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=10]
+[21:27:13] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=11]
+[21:27:13] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=12]
+[21:27:13] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=13]
+[21:27:13] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=14]
+[21:27:13] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=15]
+[21:27:13] [Server thread/WARN]: Unknown block: minecraft:wall_sign[facing=north]
+[21:27:13] [Server thread/WARN]: Unknown block: minecraft:wall_sign[facing=south]
+[21:27:13] [Server thread/WARN]: Unknown block: minecraft:wall_sign[facing=west]
+[21:27:13] [Server thread/WARN]: Unknown block: minecraft:wall_sign[facing=east]
+[21:27:13] [Server thread/WARN]: Unknown item: minecraft:sign
+[21:27:13] [Server thread/WARN]: Unknown item: minecraft:rose_red
+[21:27:13] [Server thread/WARN]: Unknown item: minecraft:cactus_green
+[21:27:13] [Server thread/WARN]: Unknown item: minecraft:dandelion_yellow
+[21:27:13] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v3.0.0-SNAPSHOT-b761
+[21:27:13] [Server thread/INFO]: [SurvivalGames] Loading SurvivalGames v0.7.1
+[21:27:13] [Server thread/INFO]: Preparing level "world"
+[21:27:13] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[21:27:13] [Server thread/INFO]: Loaded 6 recipes
+[21:27:14] [Server thread/INFO]: -------- World Settings For [world] --------
+[21:27:14] [Server thread/INFO]: View Distance: 10
+[21:27:14] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[21:27:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:27:14] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:27:14] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:27:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:27:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:27:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[21:27:14] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:27:14] [Server thread/INFO]: Mob Spawn Range: 6
+[21:27:14] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[21:27:14] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:27:14] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:27:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:27:14] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:27:14] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:27:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:27:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:27:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:27:14] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:27:14] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:27:14] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:27:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:27:14] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:27:14] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:27:14] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:27:14] [Server thread/INFO]: Max TNT Explosions: 100
+[21:27:14] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:27:15] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[21:27:15] [Server thread/INFO]: View Distance: 10
+[21:27:15] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[21:27:15] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:27:15] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:27:15] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:27:15] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:27:15] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:27:15] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[21:27:15] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:27:15] [Server thread/INFO]: Mob Spawn Range: 6
+[21:27:15] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[21:27:15] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:27:15] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:27:15] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:27:15] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:27:15] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:27:15] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:27:15] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:27:15] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:27:15] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:27:15] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:27:15] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:27:15] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:27:15] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:27:15] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:27:15] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:27:15] [Server thread/INFO]: Max TNT Explosions: 100
+[21:27:15] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:27:15] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[21:27:15] [Server thread/INFO]: View Distance: 10
+[21:27:15] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[21:27:15] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:27:15] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:27:15] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:27:15] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:27:15] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:27:15] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[21:27:15] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:27:15] [Server thread/INFO]: Mob Spawn Range: 6
+[21:27:15] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[21:27:15] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:27:15] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:27:15] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:27:15] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:27:15] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:27:15] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:27:15] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:27:15] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:27:15] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:27:15] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:27:15] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:27:15] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:27:15] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:27:15] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:27:15] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:27:15] [Server thread/INFO]: Max TNT Explosions: 100
+[21:27:15] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:27:15] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[21:27:15] [Server-Worker-8/INFO]: Preparing spawn area: 0%
+[21:27:15] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[21:27:16] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[21:27:16] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[21:27:17] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[21:27:17] [Server-Worker-5/INFO]: Preparing spawn area: 5%
+[21:27:18] [Server-Worker-8/INFO]: Preparing spawn area: 9%
+[21:27:19] [Server-Worker-2/INFO]: Preparing spawn area: 11%
+[21:27:19] [Server-Worker-5/INFO]: Preparing spawn area: 11%
+[21:27:19] [Server-Worker-2/INFO]: Preparing spawn area: 11%
+[21:27:20] [Server-Worker-8/INFO]: Preparing spawn area: 58%
+[21:27:21] [Server thread/INFO]: Time elapsed: 5930 ms
+[21:27:21] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[21:27:21] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[21:27:21] [Server-Worker-8/INFO]: Preparing spawn area: 0%
+[21:27:22] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[21:27:22] [Server-Worker-8/INFO]: Preparing spawn area: 0%
+[21:27:23] [Server-Worker-7/INFO]: Preparing spawn area: 41%
+[21:27:23] [Server-Worker-2/INFO]: Preparing spawn area: 78%
+[21:27:23] [Server thread/INFO]: Time elapsed: 2826 ms
+[21:27:23] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[21:27:23] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[21:27:24] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[21:27:24] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[21:27:25] [Server-Worker-6/INFO]: Preparing spawn area: 3%
+[21:27:25] [Server thread/INFO]: Time elapsed: 1848 ms
+[21:27:25] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.0.0-rc-2;7be00cc
+[21:27:25] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[21:27:25] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[21:27:25] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v3.0.0-SNAPSHOT-b761
+[21:27:25] [Server thread/INFO]: -------- World Settings For [sg] --------
+[21:27:25] [Server thread/INFO]: View Distance: 10
+[21:27:25] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[21:27:25] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:27:25] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:27:25] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:27:25] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:27:25] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:27:25] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[21:27:25] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:27:25] [Server thread/INFO]: Mob Spawn Range: 6
+[21:27:25] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[21:27:25] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:27:25] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:27:25] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:27:25] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:27:25] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:27:25] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:27:25] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:27:25] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:27:25] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:27:25] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:27:25] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:27:25] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:27:25] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:27:25] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:27:25] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:27:25] [Server thread/INFO]: Max TNT Explosions: 100
+[21:27:25] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:27:25] [Server thread/INFO]: Preparing start region for dimension 'sg'/minecraft:overworld
+[21:27:26] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[21:27:26] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[21:27:28] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[21:27:28] [Server-Worker-8/INFO]: Preparing spawn area: 0%
+[21:27:28] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[21:27:28] [Server-Worker-8/INFO]: Preparing spawn area: 0%
+[21:27:28] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[21:27:29] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[21:27:29] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[21:27:30] [Server-Worker-2/INFO]: Preparing spawn area: 1%
+[21:27:30] [Server-Worker-6/INFO]: Preparing spawn area: 22%
+[21:27:31] [Server-Worker-8/INFO]: Preparing spawn area: 88%
+[21:27:31] [Server thread/INFO]: Time elapsed: 5700 ms
+[21:27:31] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
+[21:27:31] [Server thread/INFO]: [Multiverse-Core] Version 3.0.0-SNAPSHOT-b761 (API v22) Enabled - By Rigby, fernferret, lithium3141, main-- and dumptruckman
+[21:27:31] [Server thread/INFO]: [SurvivalGames] Enabling SurvivalGames v0.7.1
+[21:27:31] [Server thread/INFO]: [SurvivalGames] Running 1.13+[m
+[21:27:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:27:32] [Server thread/INFO]: Done (18.899s)! For help, type "help"
+[21:27:33] [Server thread/WARN]: java.lang.IllegalArgumentException: Material cannot be null
+[21:27:33] [Server thread/WARN]: 	at org.apache.commons.lang.Validate.notNull(Validate.java:192)
+[21:27:33] [Server thread/WARN]: 	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:70)
+[21:27:33] [Server thread/WARN]: 	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:58)
+[21:27:33] [Server thread/WARN]: 	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:46)
+[21:27:33] [Server thread/WARN]: 	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:36)
+[21:27:33] [Server thread/WARN]: 	at com.thundergemios10.survivalgames.util.ItemReader.read(ItemReader.java:99)
+[21:27:33] [Server thread/WARN]: 	at com.thundergemios10.survivalgames.util.Kit.load(Kit.java:32)
+[21:27:33] [Server thread/WARN]: 	at com.thundergemios10.survivalgames.util.Kit.<init>(Kit.java:24)
+[21:27:33] [Server thread/WARN]: 	at com.thundergemios10.survivalgames.GameManager.LoadKits(GameManager.java:69)
+[21:27:33] [Server thread/WARN]: 	at com.thundergemios10.survivalgames.GameManager.setup(GameManager.java:51)
+[21:27:33] [Server thread/WARN]: 	at com.thundergemios10.survivalgames.SurvivalGames$Startup.run(SurvivalGames.java:99)
+[21:27:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftTask.run(CraftTask.java:81)
+[21:27:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:394)
+[21:27:33] [Server thread/WARN]: 	at net.minecraft.server.v1_14_R1.MinecraftServer.b(MinecraftServer.java:1008)
+[21:27:33] [Server thread/WARN]: 	at net.minecraft.server.v1_14_R1.DedicatedServer.b(DedicatedServer.java:396)
+[21:27:33] [Server thread/WARN]: 	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:956)
+[21:27:33] [Server thread/WARN]: 	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:801)
+[21:27:33] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[21:27:33] [Server thread/INFO]: null
+[21:27:33] [Server thread/INFO]: sharpness:4
+[21:27:33] [Server thread/WARN]: java.lang.IllegalArgumentException: Material cannot be null
+[21:27:33] [Server thread/WARN]: 	at org.apache.commons.lang.Validate.notNull(Validate.java:192)
+[21:27:33] [Server thread/WARN]: 	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:70)
+[21:27:33] [Server thread/WARN]: 	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:58)
+[21:27:33] [Server thread/WARN]: 	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:46)
+[21:27:33] [Server thread/WARN]: 	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:36)
+[21:27:33] [Server thread/WARN]: 	at com.thundergemios10.survivalgames.util.ItemReader.read(ItemReader.java:99)
+[21:27:33] [Server thread/WARN]: 	at com.thundergemios10.survivalgames.util.Kit.load(Kit.java:32)
+[21:27:33] [Server thread/WARN]: 	at com.thundergemios10.survivalgames.util.Kit.<init>(Kit.java:24)
+[21:27:33] [Server thread/WARN]: 	at com.thundergemios10.survivalgames.GameManager.LoadKits(GameManager.java:69)
+[21:27:33] [Server thread/WARN]: 	at com.thundergemios10.survivalgames.GameManager.setup(GameManager.java:51)
+[21:27:33] [Server thread/WARN]: 	at com.thundergemios10.survivalgames.SurvivalGames$Startup.run(SurvivalGames.java:99)
+[21:27:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftTask.run(CraftTask.java:81)
+[21:27:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:394)
+[21:27:33] [Server thread/WARN]: 	at net.minecraft.server.v1_14_R1.MinecraftServer.b(MinecraftServer.java:1008)
+[21:27:33] [Server thread/WARN]: 	at net.minecraft.server.v1_14_R1.DedicatedServer.b(DedicatedServer.java:396)
+[21:27:33] [Server thread/WARN]: 	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:956)
+[21:27:33] [Server thread/WARN]: 	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:801)
+[21:27:33] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[21:27:33] [Server thread/INFO]: null
+[21:27:33] [Server thread/INFO]: fire:2
+[21:27:33] [Server thread/INFO]: sharpness:4
+[21:31:19] [User Authenticator #1/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[21:31:20] [Server thread/INFO]: Toasty_boii[/208.187.44.252:54616] logged in with entity id 351 at ([world]-212.43740747806171, 55.0, 74.85207344952033)
+[21:31:22] [Craft Scheduler Thread - 0/INFO]: [SG]Checking for updates
+[21:31:43] [Craft Scheduler Thread - 0/WARN]: [SurvivalGames] [SurvivalGames] Could not check for updates.
+[21:33:14] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[21:33:14] [Server thread/INFO]: Toasty_boii left the game
+[21:33:43] [User Authenticator #2/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[21:33:43] [Server thread/INFO]: Toasty_boii[/208.187.44.252:54630] logged in with entity id 3310 at ([world]-335.64247948270224, 64.0, 127.17143696555075)
+[21:33:46] [Craft Scheduler Thread - 0/INFO]: [SG]Checking for updates
+[21:34:07] [Craft Scheduler Thread - 0/WARN]: [SurvivalGames] [SurvivalGames] Could not check for updates.
+[21:44:38] [Server thread/WARN]: Horse moved wrongly!
+[21:47:34] [Server thread/WARN]: Toasty_boii moved too quickly! -6.529738555559788,-2.953246633089023,21.509987632944103

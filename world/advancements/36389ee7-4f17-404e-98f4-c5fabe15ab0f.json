@@ -1661,6 +1661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2019-05-30 21:40:02 -0500"
+    },
+    "done": true
+  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "salmon": "2019-04-18 16:46:08 -0500"
@@ -2971,6 +2977,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2019-04-18 19:22:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2019-05-30 21:40:02 -0500"
     },
     "done": true
   },
