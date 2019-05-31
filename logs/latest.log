@@ -262,3 +262,85 @@
 [21:34:07] [Craft Scheduler Thread - 0/WARN]: [SurvivalGames] [SurvivalGames] Could not check for updates.
 [21:44:38] [Server thread/WARN]: Horse moved wrongly!
 [21:47:34] [Server thread/WARN]: Toasty_boii moved too quickly! -6.529738555559788,-2.953246633089023,21.509987632944103
+[22:08:53] [Server thread/ERROR]: Could not pass event PlayerPortalEvent to Multiverse-Core v3.0.0-SNAPSHOT-b761
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot.jar:git-Spigot-4f661b2-d06991d]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot.jar:git-Spigot-4f661b2-d06991d]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:520) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:505) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.EntityPlayer.a(EntityPlayer.java:758) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.Entity.doPortalTick(Entity.java:2015) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.Entity.entityBaseTick(Entity.java:369) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.EntityLiving.entityBaseTick(EntityLiving.java:232) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.Entity.tick(Entity.java:341) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.EntityLiving.tick(EntityLiving.java:2211) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.EntityHuman.tick(EntityHuman.java:147) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.EntityPlayer.playerTick(EntityPlayer.java:397) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.PlayerConnection.tick(PlayerConnection.java:140) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.NetworkManager.a(NetworkManager.java:234) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.ServerConnection.c(ServerConnection.java:119) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.b(MinecraftServer.java:1080) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.b(DedicatedServer.java:396) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:956) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:801) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_211]
+Caused by: java.lang.NoSuchMethodError: org.bukkit.event.player.PlayerPortalEvent.getPortalTravelAgent()Lorg/bukkit/TravelAgent;
+	at com.onarandombox.MultiverseCore.listeners.MVPlayerListener.playerPortal(MVPlayerListener.java:307) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_211]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_211]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_211]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_211]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot.jar:git-Spigot-4f661b2-d06991d]
+	... 19 more
+[22:12:41] [Server thread/INFO]: Toasty_boii tried to swim in lava
+[22:13:10] [Server thread/INFO]: Toasty_boii tried to swim in lava
+[22:14:23] [Server thread/INFO]: Toasty_boii tried to swim in lava
+[22:14:46] [Server thread/INFO]: Toasty_boii issued server command: /give Toasty_boii minecraft:red_bed
+[22:14:46] [Server thread/INFO]: [Toasty_boii: Gave 1 [Red Bed] to Toasty_boii]
+[22:14:49] [Server thread/INFO]: Toasty_boii went up in flames
+[22:15:09] [Server thread/INFO]: Toasty_boii issued server command: /ascend
+[22:15:30] [Server thread/INFO]: Toasty_boii issued server command: /ascend
+[22:15:51] [Server thread/INFO]: Toasty_boii issued server command: /tps
+[22:16:08] [Server thread/INFO]: Toasty_boii issued server command: /jumpto
+[22:16:47] [Server thread/INFO]: Toasty_boii issued server command: /gamemode
+[22:16:50] [Server thread/INFO]: Toasty_boii issued server command: /gamemode spectator
+[22:16:50] [Server thread/INFO]: [Toasty_boii: Set own game mode to Spectator Mode]
+[22:17:53] [Server thread/INFO]: Toasty_boii issued server command: /gamemode survival
+[22:17:53] [Server thread/INFO]: [Toasty_boii: Set own game mode to Survival Mode]
+[22:17:57] [Server thread/ERROR]: Could not pass event PlayerPortalEvent to Multiverse-Core v3.0.0-SNAPSHOT-b761
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot.jar:git-Spigot-4f661b2-d06991d]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot.jar:git-Spigot-4f661b2-d06991d]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:520) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:505) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.EntityPlayer.a(EntityPlayer.java:758) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.Entity.doPortalTick(Entity.java:2015) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.Entity.entityBaseTick(Entity.java:369) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.EntityLiving.entityBaseTick(EntityLiving.java:232) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.Entity.tick(Entity.java:341) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.EntityLiving.tick(EntityLiving.java:2211) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.EntityHuman.tick(EntityHuman.java:147) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.EntityPlayer.playerTick(EntityPlayer.java:397) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.PlayerConnection.tick(PlayerConnection.java:140) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.NetworkManager.a(NetworkManager.java:234) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.ServerConnection.c(ServerConnection.java:119) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.b(MinecraftServer.java:1080) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.b(DedicatedServer.java:396) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:956) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:801) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_211]
+Caused by: java.lang.NoSuchMethodError: org.bukkit.event.player.PlayerPortalEvent.getPortalTravelAgent()Lorg/bukkit/TravelAgent;
+	at com.onarandombox.MultiverseCore.listeners.MVPlayerListener.playerPortal(MVPlayerListener.java:307) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_211]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_211]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_211]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_211]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot.jar:git-Spigot-4f661b2-d06991d]
+	... 19 more
+[22:18:08] [Server thread/INFO]: Toasty_boii issued server command: /gamerule keepInventory
+[22:18:18] [Server thread/INFO]: Toasty_boii issued server command: /kill
+[22:18:23] [Server thread/INFO]: Toasty_boii issued server command: /kill Toasty_boii
+[22:18:23] [Server thread/INFO]: Toasty_boii fell out of the world
+[22:18:23] [Server thread/INFO]: [Toasty_boii: Killed Toasty_boii]
+[22:19:19] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[22:19:19] [Server thread/INFO]: Toasty_boii left the game
