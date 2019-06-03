@@ -1,4 +1,52 @@
-[19:03:54] [User Authenticator #3/INFO]: UUID of player blazingalchemist is e326b185-d5de-4b69-a8a4-2fac29e5f71d
-[19:03:55] [Server thread/INFO]: blazingalchemist[/70.97.238.185:61537] logged in with entity id 156727 at ([world]-214.07447615670827, 78.0, 170.529948984739)
-[19:13:07] [Server thread/INFO]: blazingalchemist lost connection: Disconnected
-[19:13:07] [Server thread/INFO]: blazingalchemist left the game
+[15:27:49] [User Authenticator #4/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[15:27:49] [Server thread/INFO]: Toasty_boii[/208.187.44.252:62273] logged in with entity id 162748 at ([world]-193.43971405663137, 47.0, 80.98698827022076)
+[15:27:52] [Craft Scheduler Thread - 129/INFO]: [SG]Checking for updates
+[15:27:57] [Server thread/INFO]: Toasty_boii issued server command: /seed
+[15:28:13] [Craft Scheduler Thread - 129/WARN]: [SurvivalGames] [SurvivalGames] Could not check for updates.
+[15:28:15] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[15:28:15] [Server thread/INFO]: Toasty_boii left the game
+[15:34:51] [User Authenticator #5/INFO]: UUID of player Toasty_boii is 36389ee7-4f17-404e-98f4-c5fabe15ab0f
+[15:34:51] [Server thread/INFO]: Toasty_boii[/208.187.44.252:62645] logged in with entity id 163788 at ([world]-193.43971405663137, 47.0, 80.98698827022076)
+[15:34:54] [Craft Scheduler Thread - 129/INFO]: [SG]Checking for updates
+[15:35:15] [Craft Scheduler Thread - 129/WARN]: [SurvivalGames] [SurvivalGames] Could not check for updates.
+[15:42:20] [Server thread/ERROR]: Could not pass event PlayerPortalEvent to Multiverse-Core v3.0.0-SNAPSHOT-b761
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot.jar:git-Spigot-4f661b2-d06991d]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot.jar:git-Spigot-4f661b2-d06991d]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:520) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:505) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.EntityPlayer.a(EntityPlayer.java:758) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.BlockEnderPortal.a(BlockEnderPortal.java:34) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.IBlockData.a(SourceFile:270) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.Entity.checkBlockCollisions(Entity.java:868) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.Entity.move(Entity.java:613) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.EntityLiving.e(EntityLiving.java:2133) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.EntityHuman.e(EntityHuman.java:1448) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.EntityLiving.movementTick(EntityLiving.java:2479) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.EntityHuman.movementTick(EntityHuman.java:391) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.EntityLiving.tick(EntityLiving.java:2286) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.EntityHuman.tick(EntityHuman.java:147) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.EntityPlayer.playerTick(EntityPlayer.java:397) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.PlayerConnection.tick(PlayerConnection.java:140) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.NetworkManager.a(NetworkManager.java:234) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.ServerConnection.c(ServerConnection.java:119) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.b(MinecraftServer.java:1080) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.b(DedicatedServer.java:396) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:956) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:801) [spigot.jar:git-Spigot-4f661b2-d06991d]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_211]
+Caused by: java.lang.NoSuchMethodError: org.bukkit.event.player.PlayerPortalEvent.getPortalTravelAgent()Lorg/bukkit/TravelAgent;
+	at com.onarandombox.MultiverseCore.listeners.MVPlayerListener.playerPortal(MVPlayerListener.java:307) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_211]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_211]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_211]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_211]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot.jar:git-Spigot-4f661b2-d06991d]
+	... 23 more
+[15:42:21] [Server thread/WARN]: Toasty_boii moved too quickly! -494.90718088855033,29.1875,-1661.6503620587089
+[15:42:21] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[15:42:21] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[15:51:15] [Server thread/INFO]: Toasty_boii issued server command: /tp Toasty_boii overworld
+[15:52:43] [Server thread/INFO]: Toasty_boii issued server command: /jumpto
+[15:53:46] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
+[15:53:46] [Server thread/INFO]: Toasty_boii left the game
