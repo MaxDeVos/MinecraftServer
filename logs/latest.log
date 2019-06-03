@@ -50,3 +50,7 @@ Caused by: java.lang.NoSuchMethodError: org.bukkit.event.player.PlayerPortalEven
 [15:52:43] [Server thread/INFO]: Toasty_boii issued server command: /jumpto
 [15:53:46] [Server thread/INFO]: Toasty_boii lost connection: Disconnected
 [15:53:46] [Server thread/INFO]: Toasty_boii left the game
+[17:41:19] [User Authenticator #6/INFO]: UUID of player blazingalchemist is e326b185-d5de-4b69-a8a4-2fac29e5f71d
+[17:41:19] [Server thread/INFO]: blazingalchemist[/70.97.238.185:65048] logged in with entity id 190178 at ([world]-233.97944495737886, 63.0, 158.1075015653291)
+[17:54:41] [Server thread/INFO]: blazingalchemist lost connection: Disconnected
+[17:54:41] [Server thread/INFO]: blazingalchemist left the game
