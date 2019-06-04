@@ -54,3 +54,7 @@ Caused by: java.lang.NoSuchMethodError: org.bukkit.event.player.PlayerPortalEven
 [17:41:19] [Server thread/INFO]: blazingalchemist[/70.97.238.185:65048] logged in with entity id 190178 at ([world]-233.97944495737886, 63.0, 158.1075015653291)
 [17:54:41] [Server thread/INFO]: blazingalchemist lost connection: Disconnected
 [17:54:41] [Server thread/INFO]: blazingalchemist left the game
+[19:11:13] [User Authenticator #7/INFO]: UUID of player blazingalchemist is e326b185-d5de-4b69-a8a4-2fac29e5f71d
+[19:11:13] [Server thread/INFO]: blazingalchemist[/70.97.238.185:54143] logged in with entity id 201098 at ([world]-297.2677566899192, 62.9375, 111.45599783448851)
+[19:49:19] [Server thread/INFO]: blazingalchemist lost connection: Disconnected
+[19:49:19] [Server thread/INFO]: blazingalchemist left the game
